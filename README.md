@@ -15,8 +15,8 @@ Alias to existing database name:
 - `lucas0182iheh (noob02)` -> `noob02s`
 - `bomber` -> `Mainland`
 - `Spart` -> `Sparturnha`
-- `Tsuku` -> `Vlonenixks`
-- `Earlybird` -> `Bossyninja`
+- `Tsuku` -> `nasa`
+- `Earlybird` -> `coco`
 - `MaxMeiMufMoc` -> `Lullll`
 - `Wasdkeys1` -> `Eamon`
 
