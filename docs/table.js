@@ -136,11 +136,19 @@ function buildEventRows(eventFilter) {
 
       return {
         ...player,
-        totalFights: bouts.length,
+        totalFights: bouts.filter((bout) => bout.outcome !== "No Contest").length,
         wins: bouts.filter((bout) => bout.outcome === "Win").length,
         losses: bouts.filter((bout) => bout.outcome === "Loss").length,
         draws: bouts.filter((bout) => bout.outcome === "Draw").length,
-        winRate: bouts.length ? Number(((bouts.filter((bout) => bout.outcome === "Win").length / bouts.length) * 100).toFixed(1)) : 0,
+        winRate: bouts.filter((bout) => bout.outcome !== "No Contest").length
+          ? Number(
+              (
+                (bouts.filter((bout) => bout.outcome === "Win").length /
+                  bouts.filter((bout) => bout.outcome !== "No Contest").length) *
+                100
+              ).toFixed(1)
+            )
+          : 0,
         eventsCount: 1,
         aggregateStats: deriveAggregateRates(rawTotals),
       };

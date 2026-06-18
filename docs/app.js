@@ -345,7 +345,7 @@ function renderPlayerBouts(player) {
             <span>${bout.summary}</span>
           </div>
         </div>
-        <span class="outcome ${bout.outcome.toLowerCase()}">${bout.outcome}</span>
+        <span class="outcome ${bout.outcome.toLowerCase().replace(/\s+/g, "-")}">${bout.outcome}</span>
       </div>
       <div class="bout-stats">${statHtml}</div>
       <div class="bout-meta">
@@ -399,8 +399,12 @@ function renderEventBouts(eventItem) {
             <span>${bout.method}</span>
           </div>
         </div>
-        <span class="outcome ${bout.isDraw ? "draw" : "win"}">${
-          bout.isDraw ? "Draw" : (bout.fighters.find((fighter) => fighter.id === bout.winnerId) || fighterA).displayName
+        <span class="outcome ${bout.isNoContest ? "no-contest" : bout.isDraw ? "draw" : "win"}">${
+          bout.isNoContest
+            ? "No Contest"
+            : bout.isDraw
+              ? "Draw"
+              : (bout.fighters.find((fighter) => fighter.id === bout.winnerId) || fighterA).displayName
         }</span>
       </div>
       <div class="bout-stats">${statHtml}</div>

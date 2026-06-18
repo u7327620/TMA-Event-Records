@@ -54,6 +54,7 @@ function walkJsonFiles(dir) {
 function normalizePlayerId(value) {
   return String(value || "")
     .trim()
+    .replace(/\s+\d+$/, "")
     .toLowerCase();
 }
 
@@ -75,7 +76,23 @@ function statBlockForPlayer(payload, playerKey) {
 
 function extractPlayers(payload) {
   const reserved = new Set(["Meta", "Records", "Result", "Winner"]);
-  return Object.keys(payload).filter((key) => !reserved.has(key));
+  const candidates = Object.keys(payload).filter((key) => !reserved.has(key));
+  if (candidates.length <= 2) {
+    return candidates;
+  }
+
+  const matchup = payload.Meta?.Name || "";
+  if (!matchup.includes("_vs_")) {
+    return candidates;
+  }
+
+  const [left, right] = matchup.split("_vs_", 2).map(normalizePlayerId);
+  const matched = candidates.filter((key) => {
+    const id = normalizePlayerId(key);
+    return id === left || id === right;
+  });
+
+  return matched.length === 2 ? matched : candidates;
 }
 
 function createPlayerBucket(id, displayName) {
@@ -163,6 +180,10 @@ function isDrawResult(lines, winnerId) {
   return !winnerId && lines.some((line) => String(line).trim().toUpperCase() === "DRAW");
 }
 
+function isNoContestResult(lines, winnerId) {
+  return !winnerId && lines.some((line) => String(line).trim().toUpperCase() === "UNDOCUMENTED");
+}
+
 function addStatsToAggregate(target, stats) {
   let sawNumber = false;
   for (const [key, value] of Object.entries(stats)) {
@@ -231,6 +252,7 @@ function buildIndex() {
     const resultSummary = summarizeResultLines(resultLines);
     const winnerId = normalizePlayerId(payload.Winner);
     const draw = isDrawResult(resultLines, winnerId);
+    const noContest = isNoContestResult(resultLines, winnerId);
     const relativePath = path.relative(repoRoot, filePath).replaceAll(path.sep, "/");
 
     events.add(eventName);
@@ -270,10 +292,11 @@ function buildIndex() {
         id: participant.id,
         displayName: participant.displayName,
         stats: participant.stats,
-        outcome: draw ? "Draw" : participant.id === winnerId ? "Win" : "Loss",
+        outcome: noContest ? "No Contest" : draw ? "Draw" : participant.id === winnerId ? "Win" : "Loss",
       })),
       winnerId,
       isDraw: draw,
+      isNoContest: noContest,
       summary: resultSummary.summary,
       method: resultSummary.method,
       source: relativePath,
@@ -296,10 +319,17 @@ function buildIndex() {
         bucket.latestEventNumber
       );
       bucket.latestEventNumber = Math.max(bucket.latestEventNumber, eventNumber);
-      bucket.totalFights += 1;
       bucket.events.add(eventName);
 
-      if (draw) {
+      if (noContest) {
+        // Keep the bout in history, but do not count undocumented winnerless fights in official record totals.
+      } else {
+        bucket.totalFights += 1;
+      }
+
+      if (noContest) {
+        // no-op
+      } else if (draw) {
         bucket.draws += 1;
       } else if (participant.id === winnerId) {
         bucket.wins += 1;
@@ -319,10 +349,11 @@ function buildIndex() {
         matchup: payload.Meta?.Name || path.basename(filePath, ".json"),
         opponentId: opponent.id,
         opponentName: opponent.displayName,
-        outcome: draw ? "Draw" : participant.id === winnerId ? "Win" : "Loss",
+        outcome: noContest ? "No Contest" : draw ? "Draw" : participant.id === winnerId ? "Win" : "Loss",
         summary: resultSummary.summary,
         method: resultSummary.method,
         isDraw: draw,
+        isNoContest: noContest,
         hasStats: Object.keys(participant.stats).length > 0,
         playerStats: participant.stats,
         opponentStats: opponent.stats,
