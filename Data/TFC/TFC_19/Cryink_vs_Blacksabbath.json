@@ -1,0 +1,49 @@
+{
+    "Meta": {
+        "Name": "Cryink_vs_Blacksabbath",
+        "Event": "TFC_19"
+    },
+    "Records": [],
+    "Result": [
+        "Cryink did not continue after the 2nd round",
+        "Blacksabbath via forfeit.",
+        "FORFEIT"
+    ],
+    "Cryink": {
+        "Strikes Landed": 2,
+        "Strikes Thrown": 16,
+        "Accuracy": 12.5,
+        "Strikes Absorbed": 9,
+        "Strikes Defended": 13,
+        "Strike Defense Rate": 59,
+        "Knockdowns": 0,
+        "Knocked Down": 0,
+        "Striking Differential": -7,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 0,
+        "Takedown Accuracy": 0,
+        "Takedowns Defended": 0,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 0,
+        "Submissions Attempted": 0
+    },
+    "Blacksabbath": {
+        "Strikes Landed": 9,
+        "Strikes Thrown": 22,
+        "Accuracy": 40.9,
+        "Strikes Absorbed": 2,
+        "Strikes Defended": 14,
+        "Strike Defense Rate": 87.5,
+        "Knockdowns": 0,
+        "Knocked Down": 0,
+        "Striking Differential": 7,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 0,
+        "Takedown Accuracy": 0,
+        "Takedowns Defended": 0,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 0,
+        "Submissions Attempted": 0
+    },
+    "Winner": "Blacksabbath"
+}

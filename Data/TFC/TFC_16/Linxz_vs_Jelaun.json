@@ -1,0 +1,46 @@
+{
+    "Meta": {
+        "Name": "Linxz_vs_Jelaun",
+        "Event": "TFC_16",
+        "random": [
+            "TITLE FIGHT"
+        ]
+    },
+    "Records": [],
+    "Result": [
+        "in the 1st round",
+        "Linxz via forfeit.",
+        "FORFEIT"
+    ],
+    "Linxz": {
+        "Strikes Landed": 7,
+        "Strikes Thrown": 10,
+        "Strikes Absorbed": 2,
+        "Accuracy": 70.0,
+        "Knockdowns": 0,
+        "Striking Differential": 5,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 0,
+        "Takedown Accuracy": 0.0,
+        "Takedowns Defended": 0,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 0.0,
+        "Submissions Attempted": 0
+    },
+    "Jelaun": {
+        "Strikes Landed": 2,
+        "Strikes Thrown": 11,
+        "Strikes Absorbed": 7,
+        "Accuracy": 18.0,
+        "Knockdowns": 0,
+        "Striking Differential": -5,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 0,
+        "Takedown Accuracy": 0.0,
+        "Takedowns Defended": 0,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 0.0,
+        "Submissions Attempted": 0
+    },
+    "Winner": "linxz"
+}

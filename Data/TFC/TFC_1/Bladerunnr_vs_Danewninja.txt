@@ -1,0 +1,35 @@
+Bladerunnr
+
+Strikes Landed 1
+Strikes Thrown 6
+Strikes Absorbed 3
+Accuracy 17%
+Knockdowns 0
+Striking Differential -2
+Takedowns Finished 0
+Takedowns Attempted 1
+Takedown Accuracy 0%
+Takedowns Defended 0
+Times Taken Down 0
+Takedown Defense Rate 0%
+Submissions Attempted 0
+
+Danewninja
+
+Strikes Landed 3
+Strikes Thrown 5
+Strikes Absorbed 1
+Accuracy 60%
+Knockdowns 0
+Striking Differential 2
+Takedowns Finished 0
+Takedowns Attempted 0
+Takedown Accuracy 0
+Takedowns Defended 1
+Times Taken Down 0
+Takedown Defense Rate 100%
+Submissions Attempted 0
+
+
+----- RESULT ----- 
+Undocumented.

@@ -1,0 +1,43 @@
+{
+    "Meta": {
+        "Name": "comicxsans_vs_Fedoraman64",
+        "Event": "TFC_8"
+    },
+    "Records": [],
+    "Result": [
+        "in the 3rd round with 758 frames surpassed..",
+        "Fedoraman64 via TKO.",
+        "TKO"
+    ],
+    "comicxsans": {
+        "Strikes Landed": 16,
+        "Strikes Thrown": 33,
+        "Strikes Absorbed": 17,
+        "Accuracy": 48.0,
+        "Knockdowns": 0,
+        "Striking Differential": -1,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 0,
+        "Takedown Accuracy": 0.0,
+        "Takedowns Defended": 0,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 0.0,
+        "Submissions Attempted": 1
+    },
+    "Fedoraman64": {
+        "Strikes Landed": 17,
+        "Strikes Thrown": 44,
+        "Strikes Absorbed": 16,
+        "Accuracy": 39.0,
+        "Knockdowns": 0,
+        "Striking Differential": 1,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 0,
+        "Takedown Accuracy": 0.0,
+        "Takedowns Defended": 0,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 0.0,
+        "Submissions Attempted": 0
+    },
+    "Winner": "fedoraman64"
+}

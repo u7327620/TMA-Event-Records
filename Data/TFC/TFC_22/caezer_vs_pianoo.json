@@ -1,0 +1,50 @@
+{
+    "Meta": {
+        "Name": "caezer_vs_pianoo",
+        "Event": "TFC_22"
+    },
+    "Records": [],
+    "Result": [
+        "30-26 Caezer",
+        "30-27 Caezer",
+        "Caezer via decision.",
+        "DECISION"
+    ],
+    "pianoo": {
+        "Strikes Landed": 6,
+        "Strikes Thrown": 33,
+        "Accuracy": 18.0,
+        "Strikes Absorbed": 18,
+        "Strikes Defended": 20,
+        "Strike Defense Rate": 53.0,
+        "Knockdowns": 0,
+        "Knocked Down": 0,
+        "Striking Differential": -12,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 1,
+        "Takedown Accuracy": 0.0,
+        "Takedowns Defended": 0,
+        "Times Taken Down": 1,
+        "Takedown Defense Rate": 0.0,
+        "Submissions Attempted": 0
+    },
+    "caezer": {
+        "Strikes Landed": 18,
+        "Strikes Thrown": 38,
+        "Accuracy": 47.0,
+        "Strikes Absorbed": 6,
+        "Strikes Defended": 27,
+        "Strike Defense Rate": 82.0,
+        "Knockdowns": 0,
+        "Knocked Down": 0,
+        "Striking Differential": 12,
+        "Takedowns Finished": 1,
+        "Takedowns Attempted": 1,
+        "Takedown Accuracy": 100.0,
+        "Takedowns Defended": 1,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 100.0,
+        "Submissions Attempted": 1
+    },
+    "Winner": "caezer"
+}

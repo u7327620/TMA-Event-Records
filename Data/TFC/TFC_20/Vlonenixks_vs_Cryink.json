@@ -1,0 +1,45 @@
+{
+    "Meta": {
+        "Name": "Vlonenixks_vs_Cryink",
+        "Event": "TFC_20"
+    },
+    "Records": [],
+    "Result": [
+        "29-28 Cryink",
+        "28-28 Draw",
+        "29-28 Cryink",
+        "Cryink via decision.",
+        "DECISION"
+    ],
+    "Vlonenixks": {
+        "Strikes Landed": 15,
+        "Strikes Thrown": 29,
+        "Strikes Absorbed": 14,
+        "Accuracy": 52.0,
+        "Knockdowns": 3,
+        "Striking Differential": 1,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 0,
+        "Takedown Accuracy": 0.0,
+        "Takedowns Defended": 1,
+        "Times Taken Down": 1,
+        "Takedown Defense Rate": 50.0,
+        "Submissions Attempted": 0
+    },
+    "Cryink": {
+        "Strikes Landed": 14,
+        "Strikes Thrown": 27,
+        "Strikes Absorbed": 15,
+        "Accuracy": 52.0,
+        "Knockdowns": 1,
+        "Striking Differential": -1,
+        "Takedowns Finished": 1,
+        "Takedowns Attempted": 2,
+        "Takedown Accuracy": 50.0,
+        "Takedowns Defended": 0,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 0.0,
+        "Submissions Attempted": 0
+    },
+    "Winner": "cryink"
+}

@@ -1,0 +1,45 @@
+{
+    "Meta": {
+        "Name": "Banan745_vs_Chev",
+        "Event": "TFC_7"
+    },
+    "Records": [],
+    "Result": [
+        "29-28 Chev",
+        "29-28 Banan745",
+        "29-28 Chev",
+        "Chev via decision.",
+        "DECISION"
+    ],
+    "Chev": {
+        "Strikes Landed": 18,
+        "Strikes Thrown": 27,
+        "Strikes Absorbed": 6,
+        "Accuracy": 67.0,
+        "Knockdowns": 0,
+        "Striking Differential": 12,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 0,
+        "Takedown Accuracy": 0.0,
+        "Takedowns Defended": 1,
+        "Times Taken Down": 1,
+        "Takedown Defense Rate": 50.0,
+        "Submissions Attempted": 0
+    },
+    "Banan745": {
+        "Strikes Landed": 6,
+        "Strikes Thrown": 18,
+        "Strikes Absorbed": 18,
+        "Accuracy": 33.0,
+        "Knockdowns": 0,
+        "Striking Differential": -12,
+        "Takedowns Finished": 1,
+        "Takedowns Attempted": 2,
+        "Takedown Accuracy": 50.0,
+        "Takedowns Defended": 0,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 0.0,
+        "Submissions Attempted": 0
+    },
+    "Winner": "chev"
+}

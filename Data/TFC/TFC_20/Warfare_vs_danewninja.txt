@@ -1,0 +1,36 @@
+Warfare
+
+Strikes Landed 24
+Strikes Thrown 42
+Strikes Absorbed 18
+Accuracy 57%
+Knockdowns 3
+Striking Differential 6
+Takedowns Finished 0
+Takedowns Attempted 1
+Takedown Accuracy 0%
+Takedowns Defended 0
+Times Taken Down 0
+Takedown Defense Rate 0%
+Submissions Attempted 0
+
+danewninja
+
+Strikes Landed 18
+Strikes Thrown 47
+Strikes Absorbed 24
+Accuracy 38%
+Knockdowns 0
+Striking Differential -6
+Takedowns Finished 0
+Takedowns Attempted 0
+Takedown Accuracy 0%
+Takedowns Defended 1
+Times Taken Down 0
+Takedown Defense Rate 0%
+Submissions Attempted 0
+
+--- RESULT ---
+29-28 Warfare
+29-28 Warfare
+Warfare via decision.

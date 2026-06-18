@@ -1,0 +1,34 @@
+Rouxster
+
+Strikes Landed 19
+Strikes Thrown 38
+Strikes Absorbed 0
+Accuracy 50%
+Knockdowns 1
+Striking Differential 19
+Takedowns Finished 1
+Takedowns Attempted 2
+Takedown Accuracy 50%
+Takedowns Defended 1
+Times Taken Down 0
+Takedown Defense Rate 100%
+Submissions Attempted 0 
+
+Ratcum
+
+Strikes Landed 0
+Strikes Thrown 15
+Strikes Absorbed 19
+Accuracy 0%
+Knockdowns 0
+Striking Differential -19
+Takedowns Finished 0
+Takedowns Attempted 1
+Takedown Accuracy 0%
+Takedowns Defended 1
+Times Taken Down 1
+Takedown Defense Rate 50%
+Submissions Attempted 0
+
+----- RESULT ----- 
+Rouxster via decision.

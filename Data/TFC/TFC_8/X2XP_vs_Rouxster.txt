@@ -1,0 +1,39 @@
+5 ROUND FIGHT
+-------------
+
+X2XP
+
+Strikes Landed 32
+Strikes Thrown 58
+Strikes Absorbed 20
+Accuracy 55%
+Knockdowns 0
+Striking Differential 12
+Takedowns Finished 0
+Takedowns Attempted 1
+Takedown Accuracy 0%
+Takedowns Defended 5
+Times Taken Down 2
+Takedown Defense Rate 71%
+Submissions Attempted 0
+
+Rouxster
+
+Strikes Landed 20
+Strikes Thrown 42
+Strikes Absorbed 32
+Accuracy 48%
+Knockdowns 0
+Striking Differential -12
+Takedowns Finished 2
+Takedowns Attempted 7
+Takedown Accuracy 29%
+Takedowns Defended 1
+Times Taken Down 0
+Takedown Defense Rate 100%
+Submissions Attempted 0
+
+--- RESULT --- 
+50-47 X2XP
+49-48 X2XP
+X2XP via decision.

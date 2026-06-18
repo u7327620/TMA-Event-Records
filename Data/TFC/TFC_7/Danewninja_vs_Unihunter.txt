@@ -1,0 +1,36 @@
+unihunter
+
+Strikes Landed 19
+Strikes Thrown 47
+Strikes Absorbed 11
+Accuracy 40%
+Knockdowns 0
+Striking Differential 8
+Takedowns Finished 0
+Takedowns Attempted 0
+Takedown Accuracy 0
+Takedowns Defended 0
+Times Taken Down 1
+Takedown Defense Rate 0%
+Submissions Attempted 0
+
+danewninja
+
+Strikes Landed 11
+Strikes Thrown 25
+Strikes Absorbed 19
+Accuracy 44%
+Knockdowns 0
+Striking Differential -8
+Takedowns Finished 1
+Takedowns Attempted 1
+Takedown Accuracy 100%
+Takedowns Defended 0
+Times Taken Down 0
+Takedown Defense Rate 0
+Submissions Attempted 0
+
+---- RESULT ----
+30-27 unihunter
+29-28 unihunter
+unihunter via decision.

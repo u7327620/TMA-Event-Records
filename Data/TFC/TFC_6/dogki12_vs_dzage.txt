@@ -1,0 +1,36 @@
+dogki12
+
+Strikes Landed 12
+Strikes Thrown 21
+Strikes Absorbed 4
+Accuracy 57%
+Knockdowns 0
+Striking Differential 8
+Takedowns Finished 0
+Takedowns Attempted 0
+Takedown Accuracy 0%
+Takedowns Defended 1
+Times Taken Down 1
+Takedown Defense Rate 50%
+Submissions Attempted 0
+
+Dzage
+
+Strikes Landed 5
+Strikes Thrown 18
+Strikes Absorbed 12
+Accuracy 28%
+Knockdowns 0
+Striking Differential -8
+Takedowns Finished 1
+Takedowns Attempted 2
+Takedown Accuracy 50%
+Takedowns Defended 0
+Times Taken Down 0
+Takedown Defense Rate 0%
+Submissions Attempted 0
+
+---- RESULT ----
+29-28 Dzage
+29-28 Dzage
+Dzage via decision.

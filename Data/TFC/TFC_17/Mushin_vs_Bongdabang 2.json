@@ -1,0 +1,45 @@
+{
+    "Meta": {
+        "Name": "Mushin_vs_Bongdabang 2",
+        "Event": "TFC_17"
+    },
+    "Records": [],
+    "Result": [
+        "30-25 Mushin",
+        "30-25 Mushin",
+        "Mushin via decision.",
+        "DECISION"
+    ],
+    "Mushin": {
+        "Strikes Landed": 22,
+        "Strikes Thrown": 28,
+        "Strikes Absorbed": 8,
+        "Accuracy": 79.0,
+        "Knockdowns": 2,
+        "Striking Differential": 14,
+        "Takedowns Finished": 2,
+        "Takedowns Attempted": 2,
+        "Takedown Accuracy": 100.0,
+        "Takedowns Defended": 1,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 100.0,
+        "Submissions Attempted": 0
+    },
+    "Bongdabang": {
+        "Strikes Landed": 8,
+        "Strikes Thrown": 19,
+        "Strikes Absorbed": 22,
+        "Accuracy": 50.0,
+        "Knockdowns": 0,
+        "Striking Differential": -14,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 1,
+        "Takedown Accuracy": 0.0,
+        "Takedowns Defended": 0,
+        "Times Taken Down": 2,
+        "Takedown Defense Rate": 0.0,
+        "Submissions Attempted": 0
+    },
+    "*in the 3rd round mushin passed the required strikes for a tko in gnp, but it was not scored a tko for some reason": {},
+    "Winner": "mushin"
+}

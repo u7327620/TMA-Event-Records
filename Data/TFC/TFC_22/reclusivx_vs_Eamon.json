@@ -1,0 +1,54 @@
+{
+    "Meta": {
+        "Name": "reclusivx_vs_Eamon",
+        "Event": "TFC_22",
+        "random": [
+            "3 2000 FRAME MATCHES"
+        ]
+    },
+    "Records": [],
+    "Result": [
+        "29-28 Reclusivx",
+        "29-28 Eamon",
+        "29-28 Reclusivx",
+        "Reclusivx via split decision.",
+        "DECISION"
+    ],
+    "reclusivx": {
+        "Strikes Landed": 31,
+        "Strikes Thrown": 62,
+        "Accuracy": 50.0,
+        "Strikes Absorbed": 29,
+        "Strikes Defended": 26,
+        "Strike Defense Rate": 47.0,
+        "Knockdowns": 0,
+        "Knocked Down": 0,
+        "Striking Differential": 2,
+        "Takedowns Finished": 3,
+        "Takedowns Attempted": 7,
+        "Takedown Accuracy": 43.0,
+        "Takedowns Defended": 3,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 100.0,
+        "Submissions Attempted": 0
+    },
+    "Eamon": {
+        "Strikes Landed": 29,
+        "Strikes Thrown": 55,
+        "Accuracy": 53.0,
+        "Strikes Absorbed": 31,
+        "Strikes Defended": 31,
+        "Strike Defense Rate": 50.0,
+        "Knockdowns": 0,
+        "Knocked Down": 0,
+        "Striking Differential": -2,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 3,
+        "Takedown Accuracy": 0.0,
+        "Takedowns Defended": 4,
+        "Times Taken Down": 3,
+        "Takedown Defense Rate": 57.0,
+        "Submissions Attempted": 1
+    },
+    "Winner": "reclusivx"
+}

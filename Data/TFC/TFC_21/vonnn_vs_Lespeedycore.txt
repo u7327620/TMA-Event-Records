@@ -1,0 +1,43 @@
+vonnn
+
+Strikes Landed 11
+Strikes Thrown 18
+Accuracy 61%
+Strikes Absorbed 14
+Strikes Defended 16
+Strike Defense Rate 53%
+Knockdowns 2
+Knocked Down 0
+Striking Differential -3
+Takedowns Finished 1
+Takedowns Attempted 3
+Takedown Accuracy 33%
+Takedowns Defended 0
+Times Taken Down 0
+Takedown Defense Rate 0%
+Submissions Attempted 0
+
+Lespeedycore
+
+Strikes Landed 14
+Strikes Thrown 30
+Accuracy 47%
+Strikes Absorbed 11
+Strikes Defended 7
+Strike Defense Rate 39%
+Knockdowns 0
+Knocked Down 2
+Striking Differential 3
+Takedowns Finished 1
+Takedowns Attempted 3
+Takedown Accuracy 33%
+Takedowns Defended 0
+Times Taken Down 0
+Takedown Defense Rate 0%
+Submissions Attempted 0
+
+--- RESULT --- 
+29-28 Lespeedycore
+29-29 Draw
+29-28 Lespeedycore
+Lespeedycore via majority decision.

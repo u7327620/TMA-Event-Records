@@ -1,0 +1,36 @@
+Jelaun
+
+Strikes Landed 27
+Strikes Thrown 38
+Strikes Absorbed 9
+Accuracy 71%
+Knockdowns 0
+Striking Differential 18
+Takedowns Finished 1
+Takedowns Attempted 1
+Takedown Accuracy 100%
+Takedowns Defended 1
+Times Taken Down 0
+Takedown Defense Rate 100%
+Submissions Attempted 0
+
+Ricopaxton
+
+Strikes Landed 9
+Strikes Thrown 21
+Strikes Absorbed 27
+Accuracy 43%
+Knockdowns 0
+Striking Differential -18
+Takedowns Finished 0
+Takedowns Attempted 1
+Takedown Accuracy 0%
+Takedowns Defended 0
+Times Taken Down 1
+Takedown Defense Rate 0%
+Submissions Attempted 0
+
+--- RESULT --- 
+30-24 Jelaun
+30-27 Jelaun
+Jelaun via decision.

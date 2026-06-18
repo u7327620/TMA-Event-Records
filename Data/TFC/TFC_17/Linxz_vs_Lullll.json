@@ -1,0 +1,53 @@
+{
+    "Meta": {
+        "Name": "Linxz_vs_Lullll",
+        "Event": "TFC_17",
+        "random": [
+            "TITLE FIGHT"
+        ]
+    },
+    "Records": [],
+    "Result": [
+        "50-45 Linxz",
+        "50-45 Linxz",
+        "Linxz via decision.",
+        "DECISION"
+    ],
+    "Linxz": {
+        "Strikes Landed": 35,
+        "Strikes Thrown": 83,
+        "Accuracy": 42.0,
+        "Strikes Absorbed": 24,
+        "Strikes Defended": 23,
+        "Strike Defense Rate": 49.0,
+        "Knockdowns": 2,
+        "Knocked Down": 0,
+        "Striking Differential": 11,
+        "Takedowns Finished": 1,
+        "Takedowns Attempted": 2,
+        "Takedown Accuracy": 50.0,
+        "Takedowns Defended": 4,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 100.0,
+        "Submissions Attempted": 0
+    },
+    "Lullll": {
+        "Strikes Landed": 24,
+        "Strikes Thrown": 47,
+        "Accuracy": 51.0,
+        "Strikes Absorbed": 35,
+        "Strikes Defended": 48,
+        "Strike Defense Rate": 58.0,
+        "Knockdowns": 0,
+        "Knocked Down": 2,
+        "Striking Differential": -11,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 4,
+        "Takedown Accuracy": 0.0,
+        "Takedowns Defended": 1,
+        "Times Taken Down": 1,
+        "Takedown Defense Rate": 50.0,
+        "Submissions Attempted": 0
+    },
+    "Winner": "linxz"
+}

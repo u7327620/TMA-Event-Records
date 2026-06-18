@@ -1,0 +1,36 @@
+Comicxsans
+
+Strikes Landed 12
+Strikes Thrown 22
+Strikes Absorbed 6
+Accuracy 55%
+Knockdowns 1
+Striking Differential 6
+Takedowns Finished 0
+Takedowns Attempted 1
+Takedown Accuracy 0%
+Takedowns Defended 0
+Times Taken Down 0
+Takedown Defense Rate 0%
+Submissions Attempted 0
+
+Bossyninja
+
+Strikes Landed 6
+Strikes Thrown 18
+Strikes Absorbed 12
+Accuracy 33%
+Knockdowns 0
+Striking Differential -6
+Takedowns Finished 0
+Takedowns Attempted 0
+Takedown Accuracy 0%
+Takedowns Defended 1
+Times Taken Down 0
+Takedown Defense Rate 0%
+Submissions Attempted 0
+
+--- RESULT --- 
+29-28 comicxsans
+29-28 comicxsans
+Comicxsans via decision.

@@ -1,0 +1,36 @@
+Sorude
+
+Strikes Landed 7
+Strikes Thrown 11
+Strikes Absorbed 6
+Accuracy 64%
+Knockdowns 0
+Striking Differential 1
+Takedowns Finished 3
+Takedowns Attempted 3
+Takedown Accuracy 100%
+Takedowns Defended 2
+Times Taken Down 0
+Takedown Defense Rate 100%
+Submissions Attempted 1
+
+Unity
+
+Strikes Landed 6
+Strikes Thrown 15
+Strikes Absorbed 7
+Accuracy 40%
+Knockdowns 0
+Striking Differential -1
+Takedowns Finished 0
+Takedowns Attempted 2
+Takedown Accuracy 0%
+Takedowns Defended 0
+Times Taken Down 3
+Takedown Defense Rate 0%
+Submissions Attempted 0
+
+--- RESULT ---
+30-28 Sorude
+29-28 Sorude
+Sorude via decision.

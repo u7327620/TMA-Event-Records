@@ -1,0 +1,50 @@
+{
+    "Meta": {
+        "Name": "lullll_vs_Sorude 2",
+        "Event": "TFC_20"
+    },
+    "Records": [],
+    "Result": [
+        "29-28 lullll",
+        "29-28 lullll",
+        "lullll via decision.",
+        "DECISION"
+    ],
+    "lullll": {
+        "Strikes Landed": 19,
+        "Strikes Thrown": 27,
+        "Accuracy": 70.0,
+        "Strikes Absorbed": 11,
+        "Strikes Defended": 16,
+        "Strike Defense Rate": 59.0,
+        "Knockdowns": 0,
+        "Knocked Down": 0,
+        "Striking Differential": 8,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 1,
+        "Takedown Accuracy": 0.0,
+        "Takedowns Defended": 2,
+        "Times Taken Down": 2,
+        "Takedown Defense Rate": 50.0,
+        "Submissions Attempted": 1
+    },
+    "Sorude": {
+        "Strikes Landed": 11,
+        "Strikes Thrown": 27,
+        "Accuracy": 41.0,
+        "Strikes Absorbed": 19,
+        "Strikes Defended": 8,
+        "Strike Defense Rate": 30.0,
+        "Knockdowns": 0,
+        "Knocked Down": 0,
+        "Striking Differential": -8,
+        "Takedowns Finished": 2,
+        "Takedowns Attempted": 4,
+        "Takedown Accuracy": 50.0,
+        "Takedowns Defended": 1,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 100.0,
+        "Submissions Attempted": 1
+    },
+    "Winner": "lullll"
+}

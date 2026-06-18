@@ -1,0 +1,41 @@
+Bloodyjay
+
+Strikes Landed 8
+Strikes Thrown 19
+Accuracy 42%
+Strikes Absorbed 3
+Strikes Defended 14
+Strike Defense Rate 82%
+Knockdowns 2
+Knocked Down 0
+Striking Differential 5
+Takedowns Finished 0
+Takedowns Attempted 0
+Takedown Accuracy 0%
+Takedowns Defended 0
+Times Taken Down 0
+Takedown Defense Rate 0%
+Submissions Attempted 0
+
+coco
+
+Strikes Landed 3
+Strikes Thrown 17
+Accuracy 18%
+Strikes Absorbed 8
+Strikes Defended 11
+Strike Defense Rate 58%
+Knockdowns 0
+Knocked Down 2
+Striking Differential -5
+Takedowns Finished 0
+Takedowns Attempted 0
+Takedown Accuracy 0%
+Takedowns Defended 0
+Times Taken Down 0
+Takedown Defense Rate 0%
+Submissions Attempted 0
+
+--- RESULT --- 
+coco forfeits with about 200 frames surpassed in the 2nd round.
+Bloodyjay via forfeit.

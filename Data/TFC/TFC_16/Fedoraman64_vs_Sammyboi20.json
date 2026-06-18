@@ -1,0 +1,43 @@
+{
+    "Meta": {
+        "Name": "Fedoraman64_vs_Sammyboi20",
+        "Event": "TFC_16"
+    },
+    "Records": [],
+    "Result": [
+        "armbar in the 3rd round with 100 non-slowed frames remaining",
+        "Sammyboi20 via Submission.",
+        "SUBMISSION"
+    ],
+    "Fedoraman64": {
+        "Strikes Landed": 7,
+        "Strikes Thrown": 20,
+        "Strikes Absorbed": 18,
+        "Accuracy": 35.0,
+        "Knockdowns": 0,
+        "Striking Differential": -11,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 0,
+        "Takedown Accuracy": 0.0,
+        "Takedowns Defended": 0,
+        "Times Taken Down": 1,
+        "Takedown Defense Rate": 0.0,
+        "Submissions Attempted": 0
+    },
+    "Sammyboi20": {
+        "Strikes Landed": 18,
+        "Strikes Thrown": 31,
+        "Strikes Absorbed": 7,
+        "Accuracy": 58.0,
+        "Knockdowns": 1,
+        "Striking Differential": 11,
+        "Takedowns Finished": 1,
+        "Takedowns Attempted": 1,
+        "Takedown Accuracy": 100.0,
+        "Takedowns Defended": 0,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 0.0,
+        "Submissions Attempted": 1
+    },
+    "Winner": "sammyboi20"
+}

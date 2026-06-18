@@ -1,0 +1,44 @@
+{
+    "Meta": {
+        "Name": "Semari_vs_Glimpsed",
+        "Event": "TFC_15"
+    },
+    "Records": [],
+    "Result": [
+        "in the 3rd round",
+        "Semari via forfeit.",
+        "FORFEIT"
+    ],
+    "Semari": {
+        "Strikes Landed": 17,
+        "Strikes Thrown": 27,
+        "Strikes Absorbed": 2,
+        "Accuracy": 63.0,
+        "Knockdowns": 3,
+        "Striking Differential": 15,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 0,
+        "Takedown Accuracy": 0.0,
+        "Takedowns Defended": 0,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 0.0,
+        "Submissions Attempted": 1,
+        "Almighty Bonks": 1
+    },
+    "Glimpsed": {
+        "Strikes Landed": 2,
+        "Strikes Thrown": 6,
+        "Strikes Absorbed": 17,
+        "Accuracy": 33.0,
+        "Knockdowns": 0,
+        "Striking Differential": -15,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 0,
+        "Takedown Accuracy": 0.0,
+        "Takedowns Defended": 0,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 0.0,
+        "Submissions Attempted": 0
+    },
+    "Winner": "semari"
+}

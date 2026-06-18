@@ -1,0 +1,44 @@
+{
+    "Meta": {
+        "Name": "Hamfisted_vs_Mushin",
+        "Event": "TFC_4"
+    },
+    "Records": [],
+    "Result": [
+        "30-28 ham",
+        "30-28 ham",
+        "hamfisted via decision.",
+        "DECISION"
+    ],
+    "Mushin": {
+        "Strikes Landed": 5,
+        "Strikes Thrown": 23,
+        "Strikes Absorbed": 13,
+        "Accuracy": 22.0,
+        "Knockdowns": 0,
+        "Striking Differential": -8,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 0,
+        "Takedown Accuracy": 0.0,
+        "Takedowns Defended": 0,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 0.0,
+        "Submissions Attempted": 0
+    },
+    "Hamfisted": {
+        "Strikes Landed": 13,
+        "Strikes Thrown": 23,
+        "Strikes Absorbed": 5,
+        "Accuracy": 57.0,
+        "Knockdowns": 0,
+        "Striking Differential": 8,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 0,
+        "Takedown Accuracy": 0.0,
+        "Takedowns Defended": 0,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 0.0,
+        "Submissions Attempted": 0
+    },
+    "Winner": "hamfisted"
+}

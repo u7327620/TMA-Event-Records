@@ -1,0 +1,49 @@
+{
+    "Meta": {
+        "Name": "Hollow_vs_rYCArdo10",
+        "Event": "TFC_7",
+        "random": [
+            "TITLE FIGHT"
+        ]
+    },
+    "Records": [
+        "possible record for strikes thrown/absorbed, will have to check later"
+    ],
+    "Result": [
+        "50-45 rYCArdo10",
+        "50-45 rYCArdo10",
+        "rYCArdo10 via decision.",
+        "DECISION"
+    ],
+    "Hollow": {
+        "Strikes Landed": 22,
+        "Strikes Thrown": 64,
+        "Strikes Absorbed": 39,
+        "Accuracy": 34.0,
+        "Knockdowns": 0,
+        "Striking Differential": -17,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 2,
+        "Takedown Accuracy": 0.0,
+        "Takedowns Defended": 0,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 0.0,
+        "Submissions Attempted": 0
+    },
+    "rYCArdo10": {
+        "Strikes Landed": 39,
+        "Strikes Thrown": 73,
+        "Strikes Absorbed": 22,
+        "Accuracy": 53.0,
+        "Knockdowns": 0,
+        "Striking Differential": 17,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 0,
+        "Takedown Accuracy": 0.0,
+        "Takedowns Defended": 2,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 100.0,
+        "Submissions Attempted": 0
+    },
+    "Winner": "rycardo10"
+}

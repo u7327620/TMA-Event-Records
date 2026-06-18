@@ -1,0 +1,49 @@
+{
+    "Meta": {
+        "Name": "vonnn_vs_DummyBasher",
+        "Event": "TFC_19"
+    },
+    "Records": [],
+    "Result": [
+        "vonnn did not continue after the 1st round",
+        "Dummybasher via forfeit.",
+        "FORFEIT"
+    ],
+    "vonnn": {
+        "Strikes Landed": 0,
+        "Strikes Thrown": 5,
+        "Accuracy": 0,
+        "Strikes Absorbed": 1,
+        "Strikes Defended": 5,
+        "Strike Defense Rate": 83,
+        "Knockdowns": 0,
+        "Knocked Down": 0,
+        "Striking Differential": -1,
+        "Takedowns Finished": 1,
+        "Takedowns Attempted": 1,
+        "Takedown Accuracy": 100,
+        "Takedowns Defended": 0,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 0,
+        "Submissions Attempted": 0
+    },
+    "Dummybasher": {
+        "Strikes Landed": 1,
+        "Strikes Thrown": 6,
+        "Accuracy": 16.6,
+        "Strikes Absorbed": 0,
+        "Strikes Defended": 5,
+        "Strike Defense Rate": 100,
+        "Knockdowns": 0,
+        "Knocked Down": 0,
+        "Striking Differential": 1,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 0,
+        "Takedown Accuracy": 0,
+        "Takedowns Defended": 0,
+        "Times Taken Down": 1,
+        "Takedown Defense Rate": 0,
+        "Submissions Attempted": 0
+    },
+    "Winner": "Dummybasher"
+}

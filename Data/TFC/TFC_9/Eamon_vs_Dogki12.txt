@@ -1,0 +1,35 @@
+Eamon
+
+Strikes Landed 6
+Strikes Thrown 10
+Strikes Absorbed 11
+Accuracy 60%
+Knockdowns 0
+Striking Differential -5
+Takedowns Finished 0
+Takedowns Attempted 0
+Takedown Accuracy 0%
+Takedowns Defended 0
+Times Taken Down 0
+Takedown Defense Rate 0%
+Submissions Attempted 0
+
+Dogki12
+
+Strikes Landed 11
+Strikes Thrown 14
+Strikes Absorbed 6
+Accuracy 79%
+Knockdowns 0
+Striking Differential 5
+Takedowns Finished 0
+Takedowns Attempted 0
+Takedown Accuracy 0%
+Takedowns Defended 0
+Times Taken Down 0
+Takedown Defense Rate 0%
+Submissions Attempted 0
+
+--- RESULT ---
+in the 2nd round
+Dogki12 via forfeit.

@@ -1,0 +1,50 @@
+{
+    "Meta": {
+        "Name": "Nazzern_vs_Dummybasher",
+        "Event": "TFC_22"
+    },
+    "Records": [],
+    "Result": [
+        "30-27 Nazzern",
+        "30-27 Nazzern",
+        "Nazzern via decision.",
+        "DECISION"
+    ],
+    "Nazzern": {
+        "Strikes Landed": 17,
+        "Strikes Thrown": 30,
+        "Accuracy": 57.0,
+        "Strikes Absorbed": 7,
+        "Strikes Defended": 15,
+        "Strike Defense Rate": 68.0,
+        "Knockdowns": 0,
+        "Knocked Down": 0,
+        "Striking Differential": 10,
+        "Takedowns Finished": 1,
+        "Takedowns Attempted": 1,
+        "Takedown Accuracy": 100.0,
+        "Takedowns Defended": 1,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 100.0,
+        "Submissions Attempted": 0
+    },
+    "Dummybasher": {
+        "Strikes Landed": 7,
+        "Strikes Thrown": 22,
+        "Accuracy": 32.0,
+        "Strikes Absorbed": 17,
+        "Strikes Defended": 13,
+        "Strike Defense Rate": 43.0,
+        "Knockdowns": 0,
+        "Knocked Down": 1,
+        "Striking Differential": -10,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 1,
+        "Takedown Accuracy": 0.0,
+        "Takedowns Defended": 0,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 0.0,
+        "Submissions Attempted": 0
+    },
+    "Winner": "nazzern"
+}

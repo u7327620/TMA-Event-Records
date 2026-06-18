@@ -1,0 +1,50 @@
+{
+    "Meta": {
+        "Name": "rYCArdo10_vs_Lullll 2",
+        "Event": "TFC_11"
+    },
+    "Records": [],
+    "Result": [
+        "30-26 rYCArdo10",
+        "29-28 rYCArdo10",
+        "rYCArdo10 via decision.",
+        "DECISION"
+    ],
+    "rYCArdo10": {
+        "Strikes Landed": 18,
+        "Strikes Thrown": 40,
+        "Accuracy": 45.0,
+        "Strikes Absorbed": 18,
+        "Strikes Defended": 17,
+        "Strike Defense Rate": 49.0,
+        "Knockdowns": 0,
+        "Knocked Down": 1,
+        "Striking Differential": 0,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 0,
+        "Takedown Accuracy": 0.0,
+        "Takedowns Defended": 0,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 0.0,
+        "Submissions Attempted": 0
+    },
+    "Lullll": {
+        "Strikes Landed": 18,
+        "Strikes Thrown": 35,
+        "Accuracy": 51.0,
+        "Strikes Absorbed": 18,
+        "Strikes Defended": 22,
+        "Strike Defense Rate": 55.0,
+        "Knockdowns": 1,
+        "Knocked Down": 0,
+        "Striking Differential": 0,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 0,
+        "Takedown Accuracy": 0.0,
+        "Takedowns Defended": 0,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 0.0,
+        "Submissions Attempted": 1
+    },
+    "Winner": "rycardo10"
+}

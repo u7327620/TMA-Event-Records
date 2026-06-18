@@ -1,0 +1,34 @@
+dyingderp
+
+Strikes Landed 0
+Strikes Thrown 0
+Strikes Absorbed 0
+Accuracy 0%
+Knockdowns 0
+Striking Differential 0
+Takedowns Finished 0
+Takedowns Attempted 0
+Takedown Accuracy 0%
+Takedowns Defended 0
+Times Taken Down 0
+Takedown Defense Rate 0%
+Submissions Attempted 0
+
+droler
+
+Strikes Landed 0
+Strikes Thrown 0
+Strikes Absorbed 0
+Accuracy 0%
+Knockdowns 0
+Striking Differential 0
+Takedowns Finished 0
+Takedowns Attempted 0
+Takedown Accuracy 0%
+Takedowns Defended 0
+Times Taken Down 0
+Takedown Defense Rate 0%
+Submissions Attempted 0
+
+--- RESULT ---
+dyingderp via Decision.

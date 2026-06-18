@@ -1,0 +1,37 @@
+2number9
+
+Strikes Landed 10
+Strikes Thrown 24
+Strikes Absorbed 10
+Accuracy 42%
+Knockdowns 0
+Striking Differential 0
+Takedowns Finished 1
+Takedowns Attempted 1
+Takedown Accuracy 100%
+Takedowns Defended 0
+Times Taken Down 1
+Takedown Defense Rate 0%
+Submissions Attempted 0
+
+LokkiXD
+
+Strikes Landed 10
+Strikes Thrown 28
+Strikes Absorbed 10
+Accuracy 36%
+Knockdowns 0
+Striking Differential 0
+Takedowns Finished 1
+Takedowns Attempted 1
+Takedown Accuracy 100%
+Takedowns Defended 0
+Times Taken Down 1
+Takedown Defense Rate 0%
+Submissions Attempted 0
+
+--- RESULT ---
+29-29 draw
+30-28 2number9
+29-28 Lokki
+Split draw.

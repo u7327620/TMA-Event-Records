@@ -1,0 +1,36 @@
+Lostmail
+
+Strikes Landed 4
+Strikes Thrown 16
+Strikes Absorbed 8
+Accuracy 25%
+Knockdowns 0
+Striking Differential -4
+Takedowns Finished 1
+Takedowns Attempted 4
+Takedown Accuracy 25%
+Takedowns Defended 2
+Times Taken Down 1
+Takedown Defense Rate 66%
+Submissions Attempted 0
+
+LokkiXD
+
+Strikes Landed 8
+Strikes Thrown 21
+Strikes Absorbed 4
+Accuracy 38%
+Knockdowns 0
+Striking Differential 4
+Takedowns Finished 1
+Takedowns Attempted 3
+Takedown Accuracy 33%
+Takedowns Defended 3
+Times Taken Down 1
+Takedown Defense Rate 75%
+Submissions Attempted 0
+
+--- RESULT --- 
+29-28 LokkiXD
+29-28 LokkiXD
+LokkiXD via decision.

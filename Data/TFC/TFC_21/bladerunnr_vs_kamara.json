@@ -1,0 +1,44 @@
+{
+    "Meta": {
+        "Name": "bladerunnr_vs_kamara",
+        "Event": "TFC_21"
+    },
+    "Records": [],
+    "Result": [
+        "29-28 Kamara",
+        "29-28 Kamara",
+        "Kamara via decision.",
+        "DECISION"
+    ],
+    "bladerunnr": {
+        "Strikes Landed": 9,
+        "Strikes Thrown": 32,
+        "Strikes Absorbed": 10,
+        "Accuracy": 28.0,
+        "Knockdowns": 0,
+        "Striking Differential": -1,
+        "Takedowns Finished": 1,
+        "Takedowns Attempted": 4,
+        "Takedown Accuracy": 25.0,
+        "Takedowns Defended": 0,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 0.0,
+        "Submissions Attempted": 1
+    },
+    "kamara": {
+        "Strikes Landed": 10,
+        "Strikes Thrown": 24,
+        "Strikes Absorbed": 9,
+        "Accuracy": 42.0,
+        "Knockdowns": 0,
+        "Striking Differential": 1,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 0,
+        "Takedown Accuracy": 0.0,
+        "Takedowns Defended": 3,
+        "Times Taken Down": 1,
+        "Takedown Defense Rate": 75.0,
+        "Submissions Attempted": 0
+    },
+    "Winner": "kamara"
+}

@@ -1,0 +1,45 @@
+{
+    "Meta": {
+        "Name": "Rouxster_vs_Warfare",
+        "Event": "TFC_16"
+    },
+    "Records": [],
+    "Result": [
+        "29-28 Warfare",
+        "29-28 Rouxster",
+        "29-28 Rouxster",
+        "Rouxster via decision.",
+        "DECISION"
+    ],
+    "Rouxster": {
+        "Strikes Landed": 22,
+        "Strikes Thrown": 39,
+        "Strikes Absorbed": 20,
+        "Accuracy": 56.0,
+        "Knockdowns": 0,
+        "Striking Differential": 2,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 0,
+        "Takedown Accuracy": 0.0,
+        "Takedowns Defended": 0,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 0.0,
+        "Submissions Attempted": 0
+    },
+    "Warfare": {
+        "Strikes Landed": 20,
+        "Strikes Thrown": 47,
+        "Strikes Absorbed": 22,
+        "Accuracy": 43.0,
+        "Knockdowns": 0,
+        "Striking Differential": -2,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 0,
+        "Takedown Accuracy": 0.0,
+        "Takedowns Defended": 0,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 0.0,
+        "Submissions Attempted": 0
+    },
+    "Winner": "rouxster"
+}

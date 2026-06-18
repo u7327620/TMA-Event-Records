@@ -1,0 +1,36 @@
+Unity
+
+Strikes Landed 9
+Strikes Thrown 23
+Strikes Absorbed 7
+Accuracy 39%
+Knockdowns 1
+Striking Differential 2
+Takedowns Finished 0
+Takedowns Attempted 2
+Takedown Accuracy 0%
+Takedowns Defended 0
+Times Taken Down 0
+Takedown Defense Rate 0%
+Submissions Attempted 0
+
+Mainland
+
+Strikes Landed 7
+Strikes Thrown 17
+Strikes Absorbed 9
+Accuracy 41%
+Knockdowns 0
+Striking Differential -2
+Takedowns Finished 0
+Takedowns Attempted 0
+Takedown Accuracy 0%
+Takedowns Defended 2
+Times Taken Down 0
+Takedown Defense Rate 0%
+Submissions Attempted 0
+
+--- RESULT --- 
+29-28 Unity
+29-28 Unity
+Unity via decision.

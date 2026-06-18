@@ -1,0 +1,36 @@
+d1v1ne
+
+Strikes Landed 2
+Strikes Thrown 10
+Strikes Absorbed 4
+Accuracy 20%
+Knockdowns 0
+Striking Differential -2
+Takedowns Finished 4
+Takedowns Attempted 4
+Takedown Accuracy 100%
+Takedowns Defended 4
+Times Taken Down 0
+Takedown Defense Rate 100%
+Submissions Attempted 0
+
+noob02s
+
+Strikes Landed 4
+Strikes Thrown 11
+Strikes Absorbed 2
+Accuracy 36%
+Knockdowns 0
+Striking Differential 2
+Takedowns Finished 0
+Takedowns Attempted 4
+Takedown Accuracy 0%
+Takedowns Defended 0
+Times Taken Down 4
+Takedown Defense Rate 0%
+Submissions Attempted 0
+
+--- RESULT ---
+29-27 (point deducted from d1v1ne for cheese at 800 frames in R2)
+29-27 (point deducted from d1v1ne)
+D1v1ne via decision.

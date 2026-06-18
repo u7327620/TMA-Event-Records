@@ -1,0 +1,35 @@
+joemamahah
+
+Strikes Landed 13
+Strikes Thrown 24
+Strikes Absorbed 6
+Accuracy 54%
+Knockdowns 0
+Striking Differential 7
+Takedowns Finished 1
+Takedowns Attempted 4
+Takedown Accuracy 25%
+Takedowns Defended 0
+Times Taken Down 0
+Takedown Defense Rate 0%
+Submissions Attempted 0
+
+Dummybasher
+
+Strikes Landed 6
+Strikes Thrown 26
+Strikes Absorbed 13
+Accuracy 23%
+Knockdowns 0
+Striking Differential -7
+Takedowns Finished 0
+Takedowns Attempted 0
+Takedown Accuracy 0%
+Takedowns Defended 3
+Times Taken Down 1
+Takedown Defense Rate 75%
+Submissions Attempted 0
+
+--- RESULT ---
+in the 3rd round with 890 frames surpassed in the round
+joemamahah via TKO.

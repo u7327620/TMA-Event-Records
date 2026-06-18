@@ -1,0 +1,36 @@
+Kumondojo
+
+Strikes Landed 6
+Strikes Thrown 19
+Strikes Absorbed 8
+Accuracy 32%
+Knockdowns 1
+Striking Differential -2
+Takedowns Finished 0
+Takedowns Attempted 1
+Takedown Accuracy 0%
+Takedowns Defended 0
+Times Taken Down 0
+Takedown Defense Rate 0%
+Submissions Attempted 0
+
+Exzplode
+
+Strikes Landed 8
+Strikes Thrown 16
+Strikes Absorbed 6
+Accuracy 50%
+Knockdowns 2
+Striking Differential 2
+Takedowns Finished 0
+Takedowns Attempted 0
+Takedown Accuracy 0%
+Takedowns Defended 1
+Times Taken Down 0
+Takedown Defense Rate 100%
+Submissions Attempted 0
+
+--- RESULT --- 
+Judges ruled that Kumondojo threw the match,
+and settled on counting it as a forfeit.
+Exzplode via forfeit.

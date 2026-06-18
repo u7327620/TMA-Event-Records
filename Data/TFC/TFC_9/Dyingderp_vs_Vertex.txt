@@ -1,0 +1,38 @@
+Dyingderp
+
+Strikes Landed 5
+Strikes Thrown 24
+Strikes Absorbed 14
+Accuracy 21%
+Knockdowns 0
+Striking Differential -11
+Takedowns Finished 0
+Takedowns Attempted 0
+Takedown Accuracy 0%
+Takedowns Defended 0
+Times Taken Down 0
+Takedown Defense Rate 0%
+Submissions Attempted 0
+Eamon Smash 1
+
+Vertex
+
+Strikes Landed 14
+Strikes Thrown 28
+Strikes Absorbed 5
+Accuracy 50%
+Knockdowns 0
+Striking Differential 11
+Takedowns Finished 0
+Takedowns Attempted 0
+Takedown Accuracy 0%
+Takedowns Defended 0
+Times Taken Down 0
+Takedown Defense Rate 0%
+Submissions Attempted 0
+Eamon Smashed 1
+
+--- RESULT --- 
+29-28 Vertex
+29-28 Vertex
+Vertex via decision.

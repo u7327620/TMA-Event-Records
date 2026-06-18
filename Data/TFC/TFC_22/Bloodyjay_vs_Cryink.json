@@ -1,0 +1,49 @@
+{
+    "Meta": {
+        "Name": "Bloodyjay_vs_Cryink",
+        "Event": "TFC_22"
+    },
+    "Records": [],
+    "Result": [
+        "Cryink forfeits with about 670 frames surpassed in the 2nd round.",
+        "Bloodyjay via forfeit.",
+        "FORFEIT"
+    ],
+    "Bloodyjay": {
+        "Strikes Landed": 2,
+        "Strikes Thrown": 6,
+        "Accuracy": 33.33,
+        "Strikes Absorbed": 1,
+        "Strikes Defended": 4,
+        "Strike Defense Rate": 0,
+        "Knockdowns": 0,
+        "Knocked Down": 0,
+        "Striking Differential": 0,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 0,
+        "Takedown Accuracy": 0,
+        "Takedowns Defended": 0,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 0,
+        "Submissions Attempted": 0
+    },
+    "Cryink": {
+        "Strikes Landed": 1,
+        "Strikes Thrown": 5,
+        "Accuracy": 20,
+        "Strikes Absorbed": 2,
+        "Strikes Defended": 4,
+        "Strike Defense Rate": 0,
+        "Knockdowns": 0,
+        "Knocked Down": 0,
+        "Striking Differential": 0,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 0,
+        "Takedown Accuracy": 0,
+        "Takedowns Defended": 0,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 0,
+        "Submissions Attempted": 0
+    },
+    "Winner": "bloodyjay"
+}

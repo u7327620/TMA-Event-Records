@@ -1,0 +1,36 @@
+Anx
+
+Strikes Landed 9
+Strikes Thrown 21
+Strikes Absorbed 11
+Accuracy 43%
+Knockdowns 0
+Striking Differential -2
+Takedowns Finished 0
+Takedowns Attempted 1
+Takedown Accuracy 0%
+Takedowns Defended 0
+Times Taken Down 1
+Takedown Defense Rate 0%
+Submissions Attempted 0
+
+Jouka
+
+Strikes Landed 11
+Strikes Thrown 24
+Strikes Absorbed 9
+Accuracy 46%
+Knockdowns 0
+Striking Differential 2
+Takedowns Finished 1
+Takedowns Attempted 1
+Takedown Accuracy 100%
+Takedowns Defended 1
+Times Taken Down 0
+Takedown Defense Rate 100%
+Submissions Attempted 1
+
+--- RESULT ---
+29-28 Jouka
+29-28 Jouka
+Jouka via decision.

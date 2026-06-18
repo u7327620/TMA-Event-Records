@@ -1,0 +1,37 @@
+Chev
+
+Strikes Landed 15
+Strikes Thrown 31
+Strikes Absorbed 11
+Accuracy 48%
+Knockdowns 0
+Striking Differential 4
+Takedowns Finished 0
+Takedowns Attempted 0
+Takedown Accuracy 0%
+Takedowns Defended 3
+Times Taken Down 0
+Takedown Defense Rate 100%
+Submissions Attempted 0
+
+Dogki12
+
+Strikes Landed 11
+Strikes Thrown 26
+Strikes Absorbed 15
+Accuracy 42%
+Knockdowns 1
+Striking Differential -4
+Takedowns Finished 0
+Takedowns Attempted 3
+Takedown Accuracy 0%
+Takedowns Defended 0
+Times Taken Down 0
+Takedown Defense Rate 0%
+Submissions Attempted 0
+
+--- RESULT --- 
+29-28 dogki12
+29-28 Chev
+29-28 Chev
+Chev via decision.

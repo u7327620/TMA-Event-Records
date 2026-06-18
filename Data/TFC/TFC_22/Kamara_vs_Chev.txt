@@ -1,0 +1,42 @@
+Kamara
+
+Strikes Landed 14
+Strikes Thrown 31
+Accuracy 45%
+Strikes Absorbed 17
+Strikes Defended 26
+Strike Defense Rate 60%
+Knockdowns 0
+Knocked Down 0
+Striking Differential -3
+Takedowns Finished 0
+Takedowns Attempted 1
+Takedown Accuracy 0%
+Takedowns Defended 2
+Times Taken Down 1
+Takedown Defense Rate 66%
+Submissions Attempted 0
+
+Chev
+
+Strikes Landed 17
+Strikes Thrown 43
+Accuracy 40%
+Strikes Absorbed 14
+Strikes Defended 17
+Strike Defense Rate 55%
+Knockdowns 0
+Knocked Down 0
+Striking Differential 3
+Takedowns Finished 1
+Takedowns Attempted 3
+Takedown Accuracy 33%
+Takedowns Defended 1
+Times Taken Down 0
+Takedown Defense Rate 100%
+Submissions Attempted 0
+
+--- RESULT --- 
+29-28 Chev
+29-28 Chev
+Chev via decision.

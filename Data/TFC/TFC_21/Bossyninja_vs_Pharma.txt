@@ -1,0 +1,42 @@
+Bossyninja
+
+Strikes Landed 6
+Strikes Thrown 18
+Accuracy 33%
+Strikes Absorbed 5
+Strikes Defended 15
+Strike Defense Rate 75%
+Knockdowns 0
+Knocked Down 0
+Striking Differential 1
+Takedowns Finished 0
+Takedowns Attempted 3
+Takedown Accuracy 0%
+Takedowns Defended 2
+Times Taken Down 1
+Takedown Defense Rate 66%
+Submissions Attempted 0
+
+Pharma
+
+Strikes Landed 5
+Strikes Thrown 20
+Accuracy 25%
+Strikes Absorbed 6
+Strikes Defended 12
+Strike Defense Rate 66%
+Knockdowns 0
+Knocked Down 0
+Striking Differential -1
+Takedowns Finished 1
+Takedowns Attempted 3
+Takedown Accuracy 33%
+Takedowns Defended 3
+Times Taken Down 0
+Takedown Defense Rate 100%
+Submissions Attempted 0
+
+--- RESULT --- 
+30-28 Bossyninja
+30-28 Bossyninja
+Bossyninja via decision.

@@ -1,0 +1,44 @@
+{
+    "Meta": {
+        "Name": "Linxz_vs_Warfare",
+        "Event": "TFC_11"
+    },
+    "Records": [],
+    "Result": [
+        "30-27 Linxz",
+        "29-28 Linxz",
+        "Linxz via decision.",
+        "DECISION"
+    ],
+    "Linxz": {
+        "Strikes Landed": 18,
+        "Strikes Thrown": 37,
+        "Strikes Absorbed": 17,
+        "Accuracy": 49.0,
+        "Knockdowns": 0,
+        "Striking Differential": 1,
+        "Takedowns Finished": 2,
+        "Takedowns Attempted": 3,
+        "Takedown Accuracy": 66.0,
+        "Takedowns Defended": 0,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 0.0,
+        "Submissions Attempted": 0
+    },
+    "Warfare": {
+        "Strikes Landed": 17,
+        "Strikes Thrown": 29,
+        "Strikes Absorbed": 18,
+        "Accuracy": 59.0,
+        "Knockdowns": 0,
+        "Striking Differential": -1,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 0,
+        "Takedown Accuracy": 0.0,
+        "Takedowns Defended": 1,
+        "Times Taken Down": 2,
+        "Takedown Defense Rate": 33.0,
+        "Submissions Attempted": 1
+    },
+    "Winner": "linxz"
+}

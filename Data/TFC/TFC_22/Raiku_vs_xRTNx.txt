@@ -1,0 +1,42 @@
+Raiku
+
+Strikes Landed 17
+Strikes Thrown 33
+Accuracy 52%
+Strikes Absorbed 7
+Strikes Defended 36
+Strike Defense Rate 81%
+Knockdowns 0
+Knocked Down 0
+Striking Differential 10
+Takedowns Finished 0
+Takedowns Attempted 1
+Takedown Accuracy 0%
+Takedowns Defended 2
+Times Taken Down 0
+Takedown Defense Rate 100%
+Submissions Attempted 0
+
+xRTNx
+
+Strikes Landed 7
+Strikes Thrown 36
+Accuracy 19%
+Strikes Absorbed 17
+Strikes Defended 16
+Strike Defense Rate 48%
+Knockdowns 0
+Knocked Down 0
+Striking Differential -10
+Takedowns Finished 0
+Takedowns Attempted 2
+Takedown Accuracy 0%
+Takedowns Defended 1
+Times Taken Down 0
+Takedown Defense Rate 100%
+Submissions Attempted 0
+
+--- RESULT --- 
+29-28 Raiku
+29-28 Raiku
+Raiku via decision.

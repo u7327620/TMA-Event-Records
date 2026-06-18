@@ -1,0 +1,44 @@
+{
+    "Meta": {
+        "Name": "Jouka_vs_Vani3",
+        "Event": "TFC_13"
+    },
+    "Records": [],
+    "Result": [
+        "29-28 Vani3",
+        "29-28 Vani3",
+        "Vani3 via decision.",
+        "DECISION"
+    ],
+    "Jouka": {
+        "Strikes Landed": 11,
+        "Strikes Thrown": 19,
+        "Strikes Absorbed": 5,
+        "Accuracy": 58.0,
+        "Knockdowns": 0,
+        "Striking Differential": 6,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 2,
+        "Takedown Accuracy": 0.0,
+        "Takedowns Defended": 0,
+        "Times Taken Down": 1,
+        "Takedown Defense Rate": 100.0,
+        "Submissions Attempted": 0
+    },
+    "Vani3": {
+        "Strikes Landed": 5,
+        "Strikes Thrown": 16,
+        "Strikes Absorbed": 11,
+        "Accuracy": 31.0,
+        "Knockdowns": 0,
+        "Striking Differential": -6,
+        "Takedowns Finished": 1,
+        "Takedowns Attempted": 1,
+        "Takedown Accuracy": 100.0,
+        "Takedowns Defended": 2,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 0.0,
+        "Submissions Attempted": 0
+    },
+    "Winner": "vani3"
+}

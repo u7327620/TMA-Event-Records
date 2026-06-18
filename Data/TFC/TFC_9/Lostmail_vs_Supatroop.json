@@ -1,0 +1,44 @@
+{
+    "Meta": {
+        "Name": "Lostmail_vs_Supatroop",
+        "Event": "TFC_9"
+    },
+    "Records": [],
+    "Result": [
+        "29-28 Supatroop",
+        "29-28 Supatroop",
+        "Supatroop via decision.",
+        "DECISION"
+    ],
+    "Lostmail": {
+        "Strikes Landed": 7,
+        "Strikes Thrown": 18,
+        "Strikes Absorbed": 9,
+        "Accuracy": 39.0,
+        "Knockdowns": 0,
+        "Striking Differential": -2,
+        "Takedowns Finished": 1,
+        "Takedowns Attempted": 1,
+        "Takedown Accuracy": 100.0,
+        "Takedowns Defended": 0,
+        "Times Taken Down": 1,
+        "Takedown Defense Rate": 0.0,
+        "Submissions Attempted": 0
+    },
+    "Supatroop": {
+        "Strikes Landed": 9,
+        "Strikes Thrown": 19,
+        "Strikes Absorbed": 7,
+        "Accuracy": 47.0,
+        "Knockdowns": 0,
+        "Striking Differential": -2,
+        "Takedowns Finished": 1,
+        "Takedowns Attempted": 1,
+        "Takedown Accuracy": 100.0,
+        "Takedowns Defended": 0,
+        "Times Taken Down": 1,
+        "Takedown Defense Rate": 0.0,
+        "Submissions Attempted": 0
+    },
+    "Winner": "supatroop"
+}

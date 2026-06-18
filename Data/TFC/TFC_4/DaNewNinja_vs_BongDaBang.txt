@@ -1,0 +1,36 @@
+Danewninja
+
+Strikes Landed 7
+Strikes Thrown 19
+Strikes Absorbed 5
+Accuracy 37%
+Knockdowns 0
+Striking Differential 2
+Takedowns Finished 0
+Takedowns Attempted 0
+Takedown Accuracy 0%
+Takedowns Defended 0
+Times Taken Down 2
+Takedown Defense Rate 0%
+Submissions Attempted 0
+
+Bongdabang
+
+Strikes Landed 5
+Strikes Thrown 19
+Strikes Absorbed 7
+Accuracy 26%
+Knockdowns 0
+Striking Differential -2
+Takedowns Finished 2
+Takedowns Attempted 2
+Takedown Accuracy 100%
+Takedowns Defended 0
+Times Taken Down 0
+Takedown Defense Rate 0%
+Submissions Attempted 0
+
+----- RESULT ----- 
+29-28 danewninja
+29-28 danewninja
+danewninja via decision.

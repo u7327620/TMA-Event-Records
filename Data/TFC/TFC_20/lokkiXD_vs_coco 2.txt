@@ -1,0 +1,36 @@
+lokkiXD
+
+Strikes Landed 4
+Strikes Thrown 22
+Strikes Absorbed 10
+Accuracy 18%
+Knockdowns 0
+Striking Differential -6
+Takedowns Finished 1
+Takedowns Attempted 2
+Takedown Accuracy 50%
+Takedowns Defended 0
+Times Taken Down 0
+Takedown Defense Rate 0%
+Submissions Attempted 0
+
+coco
+
+Strikes Landed 10
+Strikes Thrown 28
+Strikes Absorbed 4
+Accuracy 36%
+Knockdowns 0
+Striking Differential 6
+Takedowns Finished 0
+Takedowns Attempted 0
+Takedown Accuracy 0%
+Takedowns Defended 1
+Times Taken Down 1
+Takedown Defense Rate 50%
+Submissions Attempted 0
+
+--- RESULT ---
+29-28 coco
+29-28 coco
+coco via decision.

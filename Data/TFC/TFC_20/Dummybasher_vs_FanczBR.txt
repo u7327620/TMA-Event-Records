@@ -1,0 +1,36 @@
+FanczBR
+
+Strikes Landed 14
+Strikes Thrown 44
+Strikes Absorbed 6
+Accuracy 32%
+Knockdowns 0
+Striking Differential 8
+Takedowns Finished 0
+Takedowns Attempted 0
+Takedown Accuracy 0%
+Takedowns Defended 0
+Times Taken Down 0
+Takedown Defense Rate 0%
+Submissions Attempted 0
+
+Dummybasher
+
+Strikes Landed 6
+Strikes Thrown 31
+Strikes Absorbed 14
+Accuracy 19%
+Knockdowns 0
+Striking Differential -8
+Takedowns Finished 0
+Takedowns Attempted 0
+Takedown Accuracy 0%
+Takedowns Defended 0
+Times Taken Down 0
+Takedown Defense Rate 0%
+Submissions Attempted 0
+
+--- RESULT ---
+29-28 FanczBR
+30-27 FanczBR
+FanczBR via decision.

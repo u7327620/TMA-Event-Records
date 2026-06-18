@@ -1,0 +1,39 @@
+5 ROUND FIGHT
+-------------
+
+Slutmoptiq
+
+Strikes Landed 14
+Strikes Thrown 40
+Strikes Absorbed 21
+Accuracy 35%
+Knockdowns 0
+Striking Differential -7
+Takedowns Finished 1
+Takedowns Attempted 2
+Takedown Accuracy 50%
+Takedowns Defended 0
+Times Taken Down 0
+Takedown Defense Rate 0%
+Submissions Attempted 1
+
+Faidin
+
+Strikes Landed 21
+Strikes Thrown 60
+Strikes Absorbed 14
+Accuracy 35%
+Knockdowns 0
+Striking Differential 7
+Takedowns Finished 0
+Takedowns Attempted 0
+Takedown Accuracy 0%
+Takedowns Defended 1
+Times Taken Down 1
+Takedown Defense Rate 50%
+Submissions Attempted 0
+
+--- RESULT ---
+48-47 Slut
+49-45 Slut (point deducted from faidin for cheesing to get up at frames 140-90 of round 1)
+Slutmoptiq via decision.

@@ -1,0 +1,50 @@
+{
+    "Meta": {
+        "Name": "Sorude_vs_Sammyboi20",
+        "Event": "TFC_13"
+    },
+    "Records": [],
+    "Result": [
+        "29-28 Sorude",
+        "30-27 Sorude",
+        "Sorude via decision.",
+	    "DECISION"
+    ],
+    "Sorude": {
+        "Strikes Landed": 11,
+        "Strikes Thrown": 23,
+        "Accuracy": 47.8,
+        "Strikes Absorbed": 11,
+        "Strikes Defended": 18,
+        "Strike Defense Rate": 62.1,
+        "Knockdowns": 2,
+        "Knocked Down": 0,
+        "Striking Differential": 0,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 1,
+        "Takedown Accuracy": 0,
+        "Takedowns Defended": 0,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 0,
+        "Submissions Attempted": 0
+    },
+    "Sammyboi20": {
+        "Strikes Landed": 11,
+        "Strikes Thrown": 29,
+        "Accuracy": 37.9,
+        "Strikes Absorbed": 11,
+        "Strikes Defended": 12,
+        "Strike Defense Rate": 52.2,
+        "Knockdowns": 0,
+        "Knocked Down": 2,
+        "Striking Differential": 0,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 0,
+        "Takedown Accuracy": 0,
+        "Takedowns Defended": 1,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 0,
+        "Submissions Attempted": 0
+    },
+    "Winner": "Sorude"
+}

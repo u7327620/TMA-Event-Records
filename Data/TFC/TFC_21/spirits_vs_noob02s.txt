@@ -1,0 +1,42 @@
+spirits
+
+Strikes Landed 6
+Strikes Thrown 23
+Accuracy 26%
+Strikes Absorbed 11
+Strikes Defended 10
+Strike Defense Rate 48%
+Knockdowns 0
+Knocked Down 2
+Striking Differential -5
+Takedowns Finished 0
+Takedowns Attempted 0
+Takedown Accuracy 0%
+Takedowns Defended 0
+Times Taken Down 1
+Takedown Defense Rate 0%
+Submissions Attempted 0
+
+noob02s
+
+Strikes Landed 11
+Strikes Thrown 21
+Accuracy 52%
+Strikes Absorbed 6
+Strikes Defended 17
+Strike Defense Rate 74%
+Knockdowns 2
+Knocked Down 0
+Striking Differential 5
+Takedowns Finished 1
+Takedowns Attempted 1
+Takedown Accuracy 100%
+Takedowns Defended 0
+Times Taken Down 0
+Takedown Defense Rate 0%
+Submissions Attempted 2
+
+--- RESULT --- 
+30-27 noob02s
+30-27 noob02s
+noob02s via decision.

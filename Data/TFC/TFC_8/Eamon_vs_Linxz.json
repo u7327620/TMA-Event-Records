@@ -1,0 +1,44 @@
+{
+    "Meta": {
+        "Name": "Eamon_vs_Linxz",
+        "Event": "TFC_8"
+    },
+    "Records": [],
+    "Result": [
+        "29-28 Linxz",
+        "29-28 Linxz",
+        "Linxz via decision.",
+        "DECISION"
+    ],
+    "Eamon": {
+        "Strikes Landed": 11,
+        "Strikes Thrown": 29,
+        "Strikes Absorbed": 15,
+        "Accuracy": 38.0,
+        "Knockdowns": 0,
+        "Striking Differential": -4,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 0,
+        "Takedown Accuracy": 0.0,
+        "Takedowns Defended": 0,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 0.0,
+        "Submissions Attempted": 0
+    },
+    "Linxz": {
+        "Strikes Landed": 15,
+        "Strikes Thrown": 36,
+        "Strikes Absorbed": 11,
+        "Accuracy": 42.0,
+        "Knockdowns": 0,
+        "Striking Differential": 4,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 0,
+        "Takedown Accuracy": 0.0,
+        "Takedowns Defended": 0,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 0.0,
+        "Submissions Attempted": 0
+    },
+    "Winner": "linxz"
+}

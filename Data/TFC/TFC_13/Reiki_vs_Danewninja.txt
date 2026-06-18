@@ -1,0 +1,36 @@
+Reiki
+
+Strikes Landed 10
+Strikes Thrown 25
+Strikes Absorbed 24
+Accuracy 40%
+Knockdowns 0
+Striking Differential -14
+Takedowns Finished 0
+Takedowns Attempted 0
+Takedown Accuracy 0%
+Takedowns Defended 0
+Times Taken Down 0
+Takedown Defense Rate 0%
+Submissions Attempted 0
+
+Danewninja
+
+Strikes Landed 24
+Strikes Thrown 37
+Strikes Absorbed 10
+Accuracy 65%
+Knockdowns 0
+Striking Differential 14
+Takedowns Finished 0
+Takedowns Attempted 0
+Takedown Accuracy 0%
+Takedowns Defended 0
+Times Taken Down 0
+Takedown Defense Rate 0%
+Submissions Attempted 0
+
+--- RESULT --- 
+28-28 Draw
+28-28 Draw
+Majority draw.

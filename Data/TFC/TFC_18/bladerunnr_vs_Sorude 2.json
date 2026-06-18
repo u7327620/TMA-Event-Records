@@ -1,0 +1,49 @@
+{
+    "Meta": {
+        "Name": "bladerunnr_vs_Sorude 2",
+        "Event": "TFC_18",
+        "random": [
+            "5 ROUND FIGHT"
+        ]
+    },
+    "Records": [],
+    "Result": [
+        "50-47 Sorude",
+        "50-45 Sorude",
+        "49-46 Sorude",
+        "Sorude via decision.",
+        "DECISION"
+    ],
+    "bladerunnr": {
+        "Strikes Landed": 11,
+        "Strikes Thrown": 43,
+        "Strikes Absorbed": 17,
+        "Accuracy": 26.0,
+        "Knockdowns": 0,
+        "Striking Differential": -6,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 2,
+        "Takedown Accuracy": 0.0,
+        "Takedowns Defended": 0,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 0.0,
+        "Submissions Attempted": 1,
+        "Fell on Head (dipshit)": 1
+    },
+    "Sorude": {
+        "Strikes Landed": 17,
+        "Strikes Thrown": 32,
+        "Strikes Absorbed": 11,
+        "Accuracy": 53.0,
+        "Knockdowns": 0,
+        "Striking Differential": 6,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 0,
+        "Takedown Accuracy": 0.0,
+        "Takedowns Defended": 2,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 100.0,
+        "Submissions Attempted": 0
+    },
+    "Winner": "sorude"
+}

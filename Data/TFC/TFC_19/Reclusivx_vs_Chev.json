@@ -1,0 +1,43 @@
+{
+    "Meta": {
+        "Name": "Reclusivx_vs_Chev",
+        "Event": "TFC_19"
+    },
+    "Records": [],
+    "Result": [
+        "Chev via forfeit.",
+        "FORFEIT"
+    ],
+    "Reclusivx": {
+        "Strikes Landed": 14,
+        "Strikes Thrown": 35,
+        "Strikes Absorbed": 16,
+        "Accuracy": 40.0,
+        "Knockdowns": 0,
+        "Striking Differential": -2,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 0,
+        "Takedown Accuracy": 0.0,
+        "Takedowns Defended": 0,
+        "Times Taken Down": 2,
+        "Takedown Defense Rate": 0.0,
+        "Submissions Attempted": 1
+    },
+    "Chev": {
+        "Strikes Landed": 16,
+        "Strikes Thrown": 35,
+        "Strikes Absorbed": 14,
+        "Accuracy": 46.0,
+        "Knockdowns": 1,
+        "Striking Differential": 2,
+        "Takedowns Finished": 2,
+        "Takedowns Attempted": 2,
+        "Takedown Accuracy": 100.0,
+        "Takedowns Defended": 0,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 0.0,
+        "Submissions Attempted": 0
+    },
+    "Rec forfeited with exactly 1000 frames surpassed in the 3rd round.": {},
+    "Winner": "chev"
+}

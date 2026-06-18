@@ -1,0 +1,39 @@
+5 ROUND FIGHT
+-------------
+
+Rouxster
+
+Strikes Landed 12
+Strikes Thrown 28
+Strikes Absorbed 19
+Accuracy 43%
+Knockdowns 0
+Striking Differential -7
+Takedowns Finished 1
+Takedowns Attempted 7
+Takedown Accuracy 14%
+Takedowns Defended 1
+Times Taken Down 1
+Takedown Defense Rate 50%
+Submissions Attempted 1
+
+Bladerunnr
+
+Strikes Landed 19
+Strikes Thrown 28
+Strikes Absorbed 12
+Accuracy 68%
+Knockdowns 0
+Striking Differential 7
+Takedowns Finished 1
+Takedowns Attempted 2
+Takedown Accuracy 50%
+Takedowns Defended 6
+Times Taken Down 1
+Takedown Defense Rate 86%
+Submissions Attempted 1
+
+--- RESULT --- 
+48-47 Bladerunnr
+48-47 Bladerunnr
+Bladerunnr via decision.

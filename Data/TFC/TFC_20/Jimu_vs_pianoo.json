@@ -1,0 +1,44 @@
+{
+    "Meta": {
+        "Name": "Jimu_vs_pianoo",
+        "Event": "TFC_20"
+    },
+    "Records": [],
+    "Result": [
+        "29-28 Pianoo",
+        "30-29 Pianoo",
+        "Pianoo via decision.",
+        "DECISION"
+    ],
+    "Jimu": {
+        "Strikes Landed": 7,
+        "Strikes Thrown": 30,
+        "Strikes Absorbed": 10,
+        "Accuracy": 23.0,
+        "Knockdowns": 0,
+        "Striking Differential": -3,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 0,
+        "Takedown Accuracy": 0.0,
+        "Takedowns Defended": 2,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 100.0,
+        "Submissions Attempted": 0
+    },
+    "pianoo": {
+        "Strikes Landed": 10,
+        "Strikes Thrown": 30,
+        "Strikes Absorbed": 7,
+        "Accuracy": 33.0,
+        "Knockdowns": 0,
+        "Striking Differential": 3,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 2,
+        "Takedown Accuracy": 0.0,
+        "Takedowns Defended": 0,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 0.0,
+        "Submissions Attempted": 0
+    },
+    "Winner": "pianoo"
+}

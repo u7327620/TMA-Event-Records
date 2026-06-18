@@ -1,0 +1,36 @@
+Mushin
+
+Strikes Landed 24
+Strikes Thrown 31
+Strikes Absorbed 12
+Accuracy 77%
+Knockdowns 1
+Striking Differential 12
+Takedowns Finished 0
+Takedowns Attempted 1
+Takedown Accuracy 0%
+Takedowns Defended 1
+Times Taken Down 0
+Takedown Defense Rate 100%
+Submissions Attempted 1
+
+Chev
+
+Strikes Landed 12
+Strikes Thrown 27
+Strikes Absorbed 24
+Accuracy 44%
+Knockdowns 0
+Striking Differential -12
+Takedowns Finished 0
+Takedowns Attempted 1
+Takedown Accuracy 0%
+Takedowns Defended 1
+Times Taken Down 0
+Takedown Defense Rate 100%
+Submissions Attempted 0
+
+--- RESULT --- 
+29-28 Mushin
+30-28 Mushin
+Mushin via decision.

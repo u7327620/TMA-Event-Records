@@ -1,0 +1,42 @@
+{
+    "Meta": {
+        "Name": "Brucce_vs_Unihunter",
+        "Event": "TFC_1"
+    },
+    "Records": [],
+    "Result": [
+        "Brucce via decision.",
+        "DECISION"
+    ],
+    "Brucce": {
+        "Strikes Landed": 10,
+        "Strikes Thrown": 25,
+        "Strikes Absorbed": 3,
+        "Accuracy": 40.0,
+        "Knockdowns": 2,
+        "Striking Differential": 7,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 0,
+        "Takedown Accuracy": 0.0,
+        "Takedowns Defended": 0,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 0.0,
+        "Submissions Attempted": 0
+    },
+    "Unihunter": {
+        "Strikes Landed": 3,
+        "Strikes Thrown": 15,
+        "Strikes Absorbed": 10,
+        "Accuracy": 20.0,
+        "Knockdowns": 0,
+        "Striking Differential": -7,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 0,
+        "Takedown Accuracy": 0.0,
+        "Takedowns Defended": 0,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 0.0,
+        "Submissions Attempted": 0
+    },
+    "Winner": "brucce"
+}

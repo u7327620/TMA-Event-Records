@@ -1,0 +1,44 @@
+3 2000 FRAME ROUNDS
+-------------------
+
+nasa
+
+Strikes Landed 27
+Strikes Thrown 37
+Accuracy 73%
+Strikes Absorbed 13
+Strikes Defended 12
+Strike Defense Rate 48%
+Knockdowns 1
+Knocked Down 0
+Striking Differential 14
+Takedowns Finished 4
+Takedowns Attempted 6
+Takedown Accuracy 66%
+Takedowns Defended 0
+Times Taken Down 1
+Takedown Defense Rate 0%
+Submissions Attempted 0
+
+Comicxsans
+
+Strikes Landed 13
+Strikes Thrown 25
+Accuracy 52%
+Strikes Absorbed 27
+Strikes Defended 10
+Strike Defense Rate 27%
+Knockdowns 0
+Knocked Down 1
+Striking Differential -14
+Takedowns Finished 1
+Takedowns Attempted 1
+Takedown Accuracy 100%
+Takedowns Defended 2
+Times Taken Down 4
+Takedown Defense Rate 33%
+Submissions Attempted 1
+
+--- RESULT ---
+ in the 3rd round with 1750 frames surpassed
+nasa via TKO.

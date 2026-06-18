@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>TMA Event Records Table</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="shell shell-wide">
+      <nav class="page-switch" aria-label="Page selection">
+        <a class="page-link" href="./index.html">Browse</a>
+        <a class="page-link is-active" href="./table.html">Table</a>
+      </nav>
+
+      <header class="hero hero-table">
+        <div>
+          <p class="eyebrow">TMA Event Records</p>
+          <h1>Sortable player stats table across the full archive.</h1>
+          <p class="lede">
+            Review every tracked fighter in one dense table, sort by any stat, and filter by player name or TFC event.
+          </p>
+        </div>
+        <div class="hero-meta">
+          <div class="stat-chip">
+            <span class="stat-chip-label">Players</span>
+            <strong id="table-player-count">-</strong>
+          </div>
+          <div class="stat-chip">
+            <span class="stat-chip-label">Events</span>
+            <strong id="table-event-count">-</strong>
+          </div>
+        </div>
+      </header>
+
+      <section class="panel table-controls">
+        <div class="table-filter-grid">
+          <label class="filter-field">
+            <span>Player Search</span>
+            <input
+              id="table-search"
+              type="search"
+              placeholder="Search by player name"
+              autocomplete="off"
+              spellcheck="false"
+            />
+          </label>
+          <label class="filter-field">
+            <span>Event Filter</span>
+            <select id="table-event-filter">
+              <option value="">All TFC events</option>
+            </select>
+          </label>
+          <label class="filter-field">
+            <span>Rows</span>
+            <select id="table-row-limit">
+              <option value="25">25</option>
+              <option value="50" selected>50</option>
+              <option value="100">100</option>
+              <option value="9999">All</option>
+            </select>
+          </label>
+        </div>
+        <div id="table-status" class="search-status">Loading player table...</div>
+      </section>
+
+      <section class="panel table-panel">
+        <div class="table-wrap">
+          <table class="stats-table">
+            <thead id="stats-table-head"></thead>
+            <tbody id="stats-table-body"></tbody>
+          </table>
+        </div>
+      </section>
+    </div>
+
+    <script src="./table.js" defer></script>
+  </body>
+</html>

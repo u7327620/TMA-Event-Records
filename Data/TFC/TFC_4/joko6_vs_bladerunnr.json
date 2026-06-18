@@ -1,0 +1,44 @@
+{
+    "Meta": {
+        "Name": "joko6_vs_bladerunnr",
+        "Event": "TFC_4"
+    },
+    "Records": [],
+    "Result": [
+        "29-27 bladerunnr",
+        "29-28 bladerunnr",
+        "bladerunnr via decision.",
+        "DECISION"
+    ],
+    "joko6": {
+        "Strikes Landed": 7,
+        "Strikes Thrown": 19,
+        "Strikes Absorbed": 10,
+        "Accuracy": 37.0,
+        "Knockdowns": 0,
+        "Striking Differential": -3,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 1,
+        "Takedown Accuracy": 0.0,
+        "Takedowns Defended": 3,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 100.0,
+        "Submissions Attempted": 0
+    },
+    "bladerunnr": {
+        "Strikes Landed": 10,
+        "Strikes Thrown": 18,
+        "Strikes Absorbed": 7,
+        "Accuracy": 56.0,
+        "Knockdowns": 1,
+        "Striking Differential": 3,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 3,
+        "Takedown Accuracy": 0.0,
+        "Takedowns Defended": 1,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 100.0,
+        "Submissions Attempted": 0
+    },
+    "Winner": "bladerunnr"
+}

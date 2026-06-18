@@ -1,0 +1,36 @@
+comicxsans
+
+Strikes Landed 16
+Strikes Thrown 29
+Strikes Absorbed 13
+Accuracy 55%
+Knockdowns 0
+Striking Differential 3
+Takedowns Finished 0
+Takedowns Attempted 1
+Takedown Accuracy 0%
+Takedowns Defended 0
+Times Taken Down 4
+Takedown Defense Rate 0%
+Submissions Attempted 0
+
+WesMontag
+
+Strikes Landed 13
+Strikes Thrown 35
+Strikes Absorbed 16
+Accuracy 37%
+Knockdowns 0
+Striking Differential -3
+Takedowns Finished 4
+Takedowns Attempted 4
+Takedown Accuracy 100%
+Takedowns Defended 1
+Times Taken Down 0
+Takedown Defense Rate 100%
+Submissions Attempted 0
+
+--- RESULT ---
+30-27 WesMontag
+29-27 WesMontag
+WesMontag via decision.

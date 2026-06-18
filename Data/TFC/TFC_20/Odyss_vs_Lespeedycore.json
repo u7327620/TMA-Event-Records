@@ -1,0 +1,44 @@
+{
+    "Meta": {
+        "Name": "Odyss_vs_Lespeedycore",
+        "Event": "TFC_20"
+    },
+    "Records": [],
+    "Result": [
+        "29-28 Odyss",
+        "29-28 Odyss",
+        "Odyss via decision.",
+        "DECISION"
+    ],
+    "Odyss": {
+        "Strikes Landed": 10,
+        "Strikes Thrown": 44,
+        "Strikes Absorbed": 10,
+        "Accuracy": 23.0,
+        "Knockdowns": 0,
+        "Striking Differential": 0,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 2,
+        "Takedown Accuracy": 0.0,
+        "Takedowns Defended": 2,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 100.0,
+        "Submissions Attempted": 0
+    },
+    "Lespeedycore": {
+        "Strikes Landed": 10,
+        "Strikes Thrown": 20,
+        "Strikes Absorbed": 10,
+        "Accuracy": 50.0,
+        "Knockdowns": 1,
+        "Striking Differential": 0,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 2,
+        "Takedown Accuracy": 0.0,
+        "Takedowns Defended": 2,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 100.0,
+        "Submissions Attempted": 0
+    },
+    "Winner": "odyss"
+}

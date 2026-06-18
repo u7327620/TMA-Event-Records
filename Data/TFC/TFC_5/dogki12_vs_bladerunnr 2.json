@@ -1,0 +1,44 @@
+{
+    "Meta": {
+        "Name": "dogki12_vs_bladerunnr 2",
+        "Event": "TFC_5"
+    },
+    "Records": [],
+    "Result": [
+        "29-28 bladerunnr",
+        "29-28 bladerunnr",
+        "bladerunnr via decision.",
+        "DECISION"
+    ],
+    "Bladerunnr": {
+        "Strikes Landed": 6,
+        "Strikes Thrown": 25,
+        "Strikes Absorbed": 7,
+        "Accuracy": 24.0,
+        "Knockdowns": 0,
+        "Striking Differential": -1,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 0,
+        "Takedown Accuracy": 0.0,
+        "Takedowns Defended": 2,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 100.0,
+        "Submissions Attempted": 0
+    },
+    "dogki12": {
+        "Strikes Landed": 7,
+        "Strikes Thrown": 18,
+        "Strikes Absorbed": 6,
+        "Accuracy": 39.0,
+        "Knockdowns": 0,
+        "Striking Differential": 1,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 2,
+        "Takedown Accuracy": 0.0,
+        "Takedowns Defended": 0,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 0.0,
+        "Submissions Attempted": 0
+    },
+    "Winner": "bladerunnr"
+}

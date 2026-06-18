@@ -1,0 +1,43 @@
+Tonzin
+
+Strikes Landed 12
+Strikes Thrown 32
+Accuracy 37%
+Strikes Absorbed 9
+Strikes Defended 12
+Strike Defense Rate 57%
+Knockdowns 0
+Knocked Down 0
+Striking Differential -3
+Takedowns Finished 0
+Takedowns Attempted 0
+Takedown Accuracy 0%
+Takedowns Defended 2
+Times Taken Down 1
+Takedown Defense Rate 66%
+Submissions Attempted 0
+
+epicbash
+
+Strikes Landed 9
+Strikes Thrown 21
+Accuracy 43%
+Strikes Absorbed 12
+Strikes Defended 20
+Strike Defense Rate 63%
+Knockdowns 0
+Knocked Down 0
+Striking Differential 3
+Takedowns Finished 1
+Takedowns Attempted 3
+Takedown Accuracy 33%
+Takedowns Defended 0
+Times Taken Down 0
+Takedown Defense Rate 0%
+Submissions Attempted 0
+
+--- RESULT --- 
+29-29 draw (point deducted from tonzin for cheesing to get up during the frames 270-120)
+30-27 Epicbash (tonzin point deduction)
+29-29 draw (tonzin point deduction)
+Majority draw.

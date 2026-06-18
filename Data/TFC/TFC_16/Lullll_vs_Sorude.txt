@@ -1,0 +1,42 @@
+Lullll
+
+Strikes Landed 12
+Strikes Thrown 24
+Accuracy 50%
+Strikes Absorbed 11
+Strikes Defended 11
+Strike Defense Rate 50%
+Knockdowns 0
+Knocked Down 0
+Striking Differential 1
+Takedowns Finished 0
+Takedowns Attempted 2
+Takedown Accuracy 0%
+Takedowns Defended 0
+Times Taken Down 1
+Takedown Defense Rate 0%
+Submissions Attempted 0
+
+Sorude
+
+Strikes Landed 11
+Strikes Thrown 22
+Accuracy 50%
+Strikes Absorbed 12
+Strikes Defended 12
+Strike Defense Rate 50%
+Knockdowns 0
+Knocked Down 0
+Striking Differential -1
+Takedowns Finished 1
+Takedowns Attempted 1
+Takedown Accuracy 100%
+Takedowns Defended 2
+Times Taken Down 0
+Takedown Defense Rate 100%
+Submissions Attempted 0
+
+--- RESULT ---
+28-27 Lullll
+28-27 Lullll
+Lullll via decision.

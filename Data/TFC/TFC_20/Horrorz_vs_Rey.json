@@ -1,0 +1,44 @@
+{
+    "Meta": {
+        "Name": "Horrorz_vs_Rey",
+        "Event": "TFC_20"
+    },
+    "Records": [],
+    "Result": [
+        "30-27 Rey",
+        "30-27 Rey",
+        "Rey via decision.",
+        "DECISION"
+    ],
+    "Horrorz": {
+        "Strikes Landed": 12,
+        "Strikes Thrown": 46,
+        "Strikes Absorbed": 20,
+        "Accuracy": 26.0,
+        "Knockdowns": 0,
+        "Striking Differential": -8,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 0,
+        "Takedown Accuracy": 0.0,
+        "Takedowns Defended": 0,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 0.0,
+        "Submissions Attempted": 0
+    },
+    "Rey": {
+        "Strikes Landed": 20,
+        "Strikes Thrown": 31,
+        "Strikes Absorbed": 12,
+        "Accuracy": 65.0,
+        "Knockdowns": 0,
+        "Striking Differential": 8,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 0,
+        "Takedown Accuracy": 0.0,
+        "Takedowns Defended": 0,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 0.0,
+        "Submissions Attempted": 0
+    },
+    "Winner": "rey"
+}

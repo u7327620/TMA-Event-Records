@@ -1,0 +1,44 @@
+{
+    "Meta": {
+        "Name": "dzage_vs_mainland",
+        "Event": "TFC_20"
+    },
+    "Records": [],
+    "Result": [
+        "29-28 Mainland",
+        "29-28 Mainland",
+        "Mainland via decision.",
+        "DECISION"
+    ],
+    "dzage": {
+        "Strikes Landed": 20,
+        "Strikes Thrown": 34,
+        "Strikes Absorbed": 13,
+        "Accuracy": 59.0,
+        "Knockdowns": 0,
+        "Striking Differential": 7,
+        "Takedowns Finished": 2,
+        "Takedowns Attempted": 3,
+        "Takedown Accuracy": 66.0,
+        "Takedowns Defended": 3,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 100.0,
+        "Submissions Attempted": 0
+    },
+    "mainland": {
+        "Strikes Landed": 13,
+        "Strikes Thrown": 27,
+        "Strikes Absorbed": 20,
+        "Accuracy": 48.0,
+        "Knockdowns": 0,
+        "Striking Differential": -7,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 3,
+        "Takedown Accuracy": 0.0,
+        "Takedowns Defended": 1,
+        "Times Taken Down": 2,
+        "Takedown Defense Rate": 33.0,
+        "Submissions Attempted": 0
+    },
+    "Winner": "mainland"
+}

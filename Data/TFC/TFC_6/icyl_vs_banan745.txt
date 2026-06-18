@@ -1,0 +1,36 @@
+icyl
+
+Strikes Landed 13
+Strikes Thrown 31
+Strikes Absorbed 4
+Accuracy 42%
+Knockdowns 1
+Striking Differential 9
+Takedowns Finished 0
+Takedowns Attempted 0
+Takedown Accuracy 0%
+Takedowns Defended 3
+Times Taken Down 0
+Takedown Defense Rate 100%
+Submissions Attempted 0
+
+Banan745
+
+Strikes Landed 4
+Strikes Thrown 33
+Strikes Absorbed 13
+Accuracy 12%
+Knockdowns 0
+Striking Differential -9
+Takedowns Finished 0
+Takedowns Attempted 3
+Takedown Accuracy 0%
+Takedowns Defended 0
+Times Taken Down 0
+Takedown Defense Rate 0%
+Submissions Attempted 0
+
+--- RESULT --- 
+29-28 icyl
+29-28 icyl
+icyl via decision.

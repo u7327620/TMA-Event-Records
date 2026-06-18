@@ -1,0 +1,45 @@
+{
+    "Meta": {
+        "Name": "2number9_vs_dyingderp",
+        "Event": "TFC_20"
+    },
+    "Records": [],
+    "Result": [
+        "39-38 2number9",
+        "39-38 2number9",
+        "with a tiebreaker round",
+        "2number9 via decision.",
+        "DECISION"
+    ],
+    "dyingderp": {
+        "Strikes Landed": 8,
+        "Strikes Thrown": 22,
+        "Strikes Absorbed": 17,
+        "Accuracy": 36.0,
+        "Knockdowns": 0,
+        "Striking Differential": -9,
+        "Takedowns Finished": 1,
+        "Takedowns Attempted": 3,
+        "Takedown Accuracy": 33.0,
+        "Takedowns Defended": 1,
+        "Times Taken Down": 1,
+        "Takedown Defense Rate": 50.0,
+        "Submissions Attempted": 0
+    },
+    "2number9": {
+        "Strikes Landed": 17,
+        "Strikes Thrown": 32,
+        "Strikes Absorbed": 8,
+        "Accuracy": 53.0,
+        "Knockdowns": 0,
+        "Striking Differential": 9,
+        "Takedowns Finished": 1,
+        "Takedowns Attempted": 1,
+        "Takedown Accuracy": 50.0,
+        "Takedowns Defended": 2,
+        "Times Taken Down": 1,
+        "Takedown Defense Rate": 66.0,
+        "Submissions Attempted": 3
+    },
+    "Winner": "2number9"
+}

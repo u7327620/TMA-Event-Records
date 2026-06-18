@@ -1,0 +1,43 @@
+{
+    "Meta": {
+        "Name": "Rouxster_vs_Bladerunnr 2",
+        "Event": "TFC_6"
+    },
+    "Records": [],
+    "Result": [
+        "in the 3rd round with 944 frames surpassed.",
+        "Rouxster via TKO.",
+        "TKO"
+    ],
+    "Rouxster": {
+        "Strikes Landed": 20,
+        "Strikes Thrown": 33,
+        "Strikes Absorbed": 4,
+        "Accuracy": 61.0,
+        "Knockdowns": 1,
+        "Striking Differential": 16,
+        "Takedowns Finished": 1,
+        "Takedowns Attempted": 2,
+        "Takedown Accuracy": 50.0,
+        "Takedowns Defended": 3,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 100.0,
+        "Submissions Attempted": 0
+    },
+    "Bladerunnr": {
+        "Strikes Landed": 4,
+        "Strikes Thrown": 22,
+        "Strikes Absorbed": 20,
+        "Accuracy": 18.0,
+        "Knockdowns": 0,
+        "Striking Differential": -16,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 3,
+        "Takedown Accuracy": 0.0,
+        "Takedowns Defended": 1,
+        "Times Taken Down": 1,
+        "Takedown Defense Rate": 50.0,
+        "Submissions Attempted": 0
+    },
+    "Winner": "rouxster"
+}

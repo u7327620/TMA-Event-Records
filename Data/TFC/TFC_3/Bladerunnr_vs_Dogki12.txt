@@ -1,0 +1,34 @@
+Bladerunnr
+
+Strikes Landed 6
+Strikes Thrown 18
+Strikes Absorbed 12
+Accuracy 33%
+Knockdowns 0
+Striking Differential -6
+Takedowns Finished 1
+Takedowns Attempted 2
+Takedown Accuracy 50%
+Takedowns Defended 0
+Times Taken Down 1
+Takedown Defense Rate 0%
+Submissions Attempted 1
+
+Dogki12
+
+Strikes Landed 12
+Strikes Thrown 25
+Strikes Absorbed 6
+Accuracy 48%
+Knockdowns 0
+Striking Differential 6
+Takedowns Finished 1
+Takedowns Attempted 1
+Takedown Accuracy 100%
+Takedowns Defended 1
+Times Taken Down 1
+Takedown Defense Rate 50%
+Submissions Attempted 0
+
+----- RESULT ----- 
+dogki12 via decision.

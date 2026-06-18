@@ -1,0 +1,36 @@
+anx
+
+Strikes Landed 21
+Strikes Thrown 40
+Strikes Absorbed 15
+Accuracy 52%
+Knockdowns 2
+Striking Differential 6
+Takedowns Finished 0
+Takedowns Attempted 1
+Takedown Accuracy 0%
+Takedowns Defended 0
+Times Taken Down 0
+Takedown Defense Rate 0%
+Submissions Attempted 0
+
+bongdabang
+
+Strikes Landed 15
+Strikes Thrown 42
+Strikes Absorbed 21
+Accuracy 36%
+Knockdowns 0
+Striking Differential -6
+Takedowns Finished 0
+Takedowns Attempted 0
+Takedown Accuracy 0%
+Takedowns Defended 1
+Times Taken Down 0
+Takedown Defense Rate 100%
+Submissions Attempted 0
+
+--- RESULT ---
+30-27 anx
+30-27 anx
+anx via decision.

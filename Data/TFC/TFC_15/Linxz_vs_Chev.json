@@ -1,0 +1,46 @@
+{
+    "Meta": {
+        "Name": "Linxz_vs_Chev",
+        "Event": "TFC_15",
+        "random": [
+            "TITLE FIGHT"
+        ]
+    },
+    "Records": [],
+    "Result": [
+        "in a tiebreaker",
+        "Linxz via decision.",
+        "DECISION"
+    ],
+    "Linxz": {
+        "Strikes Landed": 28,
+        "Strikes Thrown": 59,
+        "Strikes Absorbed": 16,
+        "Accuracy": 47.0,
+        "Knockdowns": 0,
+        "Striking Differential": 12,
+        "Takedowns Finished": 3,
+        "Takedowns Attempted": 3,
+        "Takedown Accuracy": 100.0,
+        "Takedowns Defended": 1,
+        "Times Taken Down": 1,
+        "Takedown Defense Rate": 50.0,
+        "Submissions Attempted": 2
+    },
+    "Chev": {
+        "Strikes Landed": 16,
+        "Strikes Thrown": 50,
+        "Strikes Absorbed": 28,
+        "Accuracy": 32.0,
+        "Knockdowns": 0,
+        "Striking Differential": -12,
+        "Takedowns Finished": 1,
+        "Takedowns Attempted": 2,
+        "Takedown Accuracy": 50.0,
+        "Takedowns Defended": 0,
+        "Times Taken Down": 3,
+        "Takedown Defense Rate": 0.0,
+        "Submissions Attempted": 0
+    },
+    "Winner": "linxz"
+}

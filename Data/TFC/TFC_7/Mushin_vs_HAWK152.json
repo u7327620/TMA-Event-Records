@@ -1,0 +1,46 @@
+{
+    "Meta": {
+        "Name": "Mushin_vs_HAWK152",
+        "Event": "TFC_7"
+    },
+    "Records": [
+        "-Highest striking differential in a fight, +23-"
+    ],
+    "Result": [
+        "30-25 Mushin",
+        "30-26 Mushin",
+        "Mushin via decision.",
+        "DECISION"
+    ],
+    "Mushin": {
+        "Strikes Landed": 24,
+        "Strikes Thrown": 28,
+        "Strikes Absorbed": 1,
+        "Accuracy": 86.0,
+        "Knockdowns": 1,
+        "Striking Differential": 23,
+        "Takedowns Finished": 1,
+        "Takedowns Attempted": 2,
+        "Takedown Accuracy": 50.0,
+        "Takedowns Defended": 7,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 100.0,
+        "Submissions Attempted": 0
+    },
+    "HAWK152": {
+        "Strikes Landed": 1,
+        "Strikes Thrown": 9,
+        "Strikes Absorbed": 24,
+        "Accuracy": 11.0,
+        "Knockdowns": 0,
+        "Striking Differential": -23,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 7,
+        "Takedown Accuracy": 0.0,
+        "Takedowns Defended": 1,
+        "Times Taken Down": 1,
+        "Takedown Defense Rate": 50.0,
+        "Submissions Attempted": 0
+    },
+    "Winner": "mushin"
+}

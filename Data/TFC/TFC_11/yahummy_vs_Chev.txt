@@ -1,0 +1,36 @@
+yahummy
+
+Strikes Landed 23
+Strikes Thrown 41
+Strikes Absorbed 11
+Accuracy 56%
+Knockdowns 0
+Striking Differential 12
+Takedowns Finished 0
+Takedowns Attempted 0
+Takedown Accuracy 0%
+Takedowns Defended 1
+Times Taken Down 0
+Takedown Defense Rate 100%
+Submissions Attempted 0
+
+Chev
+
+Strikes Landed 11
+Strikes Thrown 36
+Strikes Absorbed 23
+Accuracy 31%
+Knockdowns 0
+Striking Differential -12
+Takedowns Finished 0
+Takedowns Attempted 1
+Takedown Accuracy 0%
+Takedowns Defended 0
+Times Taken Down 0
+Takedown Defense Rate 0%
+Submissions Attempted 0
+
+--- RESULT --- 
+29-28 yahummy
+29-28 yahummy
+yahummy via decision.

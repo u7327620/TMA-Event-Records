@@ -1,0 +1,44 @@
+{
+    "Meta": {
+        "Name": "Mainland_vs_Unihunter",
+        "Event": "TFC_6"
+    },
+    "Records": [],
+    "Result": [
+        "30-26 unihunter",
+        "30-26 unihunter",
+        "unihunter via decision.",
+        "DECISION"
+    ],
+    "mainland": {
+        "Strikes Landed": 2,
+        "Strikes Thrown": 14,
+        "Strikes Absorbed": 6,
+        "Accuracy": 14.0,
+        "Knockdowns": 0,
+        "Striking Differential": -7,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 0,
+        "Takedown Accuracy": 0,
+        "Takedowns Defended": 0,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 0,
+        "Submissions Attempted": 0
+    },
+    "unihunter": {
+        "Strikes Landed": 9,
+        "Strikes Thrown": 18,
+        "Strikes Absorbed": 2,
+        "Accuracy": 50.0,
+        "Knockdowns": 0,
+        "Striking Differential": 7,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 0,
+        "Takedown Accuracy": 0,
+        "Takedowns Defended": 0,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 0,
+        "Submissions Attempted": 0
+    },
+    "Winner": "unihunter"
+}

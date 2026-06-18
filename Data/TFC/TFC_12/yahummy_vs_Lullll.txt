@@ -1,0 +1,42 @@
+yahummy
+
+Strikes Landed 36
+Strikes Thrown 46
+Accuracy 78%
+Strikes Absorbed 18
+Strikes Defended 24
+Strike Defense Rate 57%
+Knockdowns 0
+Knocked Down 0
+Striking Differential 18
+Takedowns Finished 0
+Takedowns Attempted 0
+Takedown Accuracy 0%
+Takedowns Defended 0
+Times Taken Down 0
+Takedown Defense Rate 0%
+Submissions Attempted 0
+
+Lullll
+
+Strikes Landed 18
+Strikes Thrown 42
+Accuracy 43%
+Strikes Absorbed 36
+Strikes Defended 10
+Strike Defense Rate 22%
+Knockdowns 0
+Knocked Down 0
+Striking Differential -18
+Takedowns Finished 0
+Takedowns Attempted 0
+Takedown Accuracy 0%
+Takedowns Defended 0
+Times Taken Down 0
+Takedown Defense Rate 0%
+Submissions Attempted 0
+
+--- RESULT --- 
+30-26 yahummy
+30-27 yahummy
+yahummy via decision.

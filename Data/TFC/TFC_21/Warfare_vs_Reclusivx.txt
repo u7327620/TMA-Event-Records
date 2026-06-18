@@ -1,0 +1,42 @@
+Warfare
+
+Strikes Landed 27
+Strikes Thrown 45
+Accuracy 60%
+Strikes Absorbed 15
+Strikes Defended 31
+Strike Defense Rate 66%
+Knockdowns 1
+Knocked Down 0
+Striking Differential 12
+Takedowns Finished 0
+Takedowns Attempted 0
+Takedown Accuracy 0%
+Takedowns Defended 0
+Times Taken Down 0
+Takedown Defense Rate 0%
+Submissions Attempted 1
+
+Reclusivx
+
+Strikes Landed 15
+Strikes Thrown 46
+Accuracy 33%
+Strikes Absorbed 27
+Strikes Defended 18
+Strike Defense Rate 40%
+Knockdowns 0
+Knocked Down 1
+Striking Differential -12
+Takedowns Finished 0
+Takedowns Attempted 0
+Takedown Accuracy 0%
+Takedowns Defended 0
+Times Taken Down 0
+Takedown Defense Rate 0%
+Submissions Attempted 0
+
+--- RESULT --- 
+30-27 Warfare
+30-27 Warfare
+Warfare via decision.

@@ -1,0 +1,44 @@
+{
+    "Meta": {
+        "Name": "Logan500_vs_danewninja",
+        "Event": "TFC_21"
+    },
+    "Records": [],
+    "Result": [
+        "Logan was disqualified in the 3rd round for excessively cheesing, the only DQ in tfc history - the equivalent of a total of 5+ point deductions from 2 judges, all in the same round.",
+        "bro #Sucks",
+        "danewninja via decision.",
+        "DECISION"
+    ],
+    "Logan500": {
+        "Strikes Landed": 15,
+        "Strikes Thrown": 44,
+        "Strikes Absorbed": 9,
+        "Accuracy": 34.0,
+        "Knockdowns": 1,
+        "Striking Differential": 6,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 0,
+        "Takedown Accuracy": 0.0,
+        "Takedowns Defended": 0,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 0.0,
+        "Submissions Attempted": 0
+    },
+    "danewninja": {
+        "Strikes Landed": 9,
+        "Strikes Thrown": 32,
+        "Strikes Absorbed": 15,
+        "Accuracy": 28.0,
+        "Knockdowns": 0,
+        "Striking Differential": -6,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 0,
+        "Takedown Accuracy": 0.0,
+        "Takedowns Defended": 0,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 0.0,
+        "Submissions Attempted": 0
+    },
+    "Winner": "danewninja"
+}

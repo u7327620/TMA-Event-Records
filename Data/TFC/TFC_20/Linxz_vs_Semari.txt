@@ -1,0 +1,40 @@
+TITLE FIGHT
+-----------
+
+Linxz
+
+Strikes Landed 11
+Strikes Thrown 33
+Strikes Absorbed 14
+Accuracy 33%
+Knockdowns 0
+Striking Differential -3
+Takedowns Finished 0
+Takedowns Attempted 1
+Takedown Accuracy 0%
+Takedowns Defended 1
+Times Taken Down 2
+Takedown Defense Rate 33%
+Submissions Attempted 0
+
+Semari
+
+Strikes Landed 14
+Strikes Thrown 42
+Strikes Absorbed 11
+Accuracy 33%
+Knockdowns 0
+Striking Differential 3
+Takedowns Finished 2
+Takedowns Attempted 3
+Takedown Accuracy 66%
+Takedowns Defended 1
+Times Taken Down 0
+Takedown Defense Rate 100%
+Submissions Attempted 0
+
+--- RESULT ---
+48-47 Semari
+49-48 Semari
+48-48 Draw
+Semari via majority decision.

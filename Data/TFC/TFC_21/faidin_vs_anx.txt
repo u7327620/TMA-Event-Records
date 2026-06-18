@@ -1,0 +1,36 @@
+faidin
+
+Strikes Landed 11
+Strikes Thrown 25
+Strikes Absorbed 10
+Accuracy 44%
+Knockdowns 0
+Striking Differential 1
+Takedowns Finished 0
+Takedowns Attempted 1
+Takedown Accuracy 0%
+Takedowns Defended 0
+Times Taken Down 2
+Takedown Defense Rate 0%
+Submissions Attempted 0
+
+anx
+
+Strikes Landed 10
+Strikes Thrown 23
+Strikes Absorbed 11
+Accuracy 43%
+Knockdowns 0
+Striking Differential -1
+Takedowns Finished 2
+Takedowns Attempted 2
+Takedown Accuracy 100%
+Takedowns Defended 1
+Times Taken Down 0
+Takedown Defense Rate 100%
+Submissions Attempted 1
+
+--- RESULT ---
+29-28 faidin
+29-28 faidin
+faidin via decision.

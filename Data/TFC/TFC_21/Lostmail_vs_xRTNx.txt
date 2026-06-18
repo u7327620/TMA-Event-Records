@@ -1,0 +1,43 @@
+
+
+Lostmail
+
+Strikes Landed 2
+Strikes Thrown 12
+Accuracy 17%
+Strikes Absorbed 3
+Strikes Defended 7
+Strike Defense Rate 70%
+Knockdowns 0
+Knocked Down 0
+Striking Differential -1
+Takedowns Finished 0
+Takedowns Attempted 1
+Takedown Accuracy 0%
+Takedowns Defended 0
+Times Taken Down 0
+Takedown Defense Rate 0%
+Submissions Attempted 0
+
+xRTNx
+
+Strikes Landed 3
+Strikes Thrown 10
+Accuracy 30%
+Strikes Absorbed 2
+Strikes Defended 10
+Strike Defense Rate 83%
+Knockdowns 1
+Knocked Down 0
+Striking Differential 1
+Takedowns Finished 0
+Takedowns Attempted 0
+Takedown Accuracy 0%
+Takedowns Defended 1
+Times Taken Down 0
+Takedown Defense Rate 100%
+Submissions Attempted 0
+
+--- RESULT --- 
+Lostmail forfeits with 540 frames surpassed in the 2nd round.
+xRTNx via forfeit.

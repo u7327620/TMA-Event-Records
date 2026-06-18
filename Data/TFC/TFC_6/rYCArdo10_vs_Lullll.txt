@@ -1,0 +1,45 @@
+5 ROUND FIGHT
+-------------
+
+rYCArdo10
+
+Strikes Landed 31
+Strikes Thrown 60
+Accuracy 52%
+Strikes Absorbed 15
+Strikes Defended 38
+Strike Defense Rate 72%
+Knockdowns 1
+Knocked Down 0
+Striking Differential 16
+Takedowns Finished 1
+Takedowns Attempted 1
+Takedown Accuracy 100%
+Takedowns Defended 0
+Times Taken Down 0
+Takedown Defense Rate 0%
+Submissions Attempted 1
+
+Lullll
+
+Strikes Landed 15
+Strikes Thrown 53
+Accuracy 28%
+Strikes Absorbed 31
+Strikes Defended 29
+Strike Defense Rate 48%
+Knockdowns 0
+Knocked Down 1
+Striking Differential -16
+Takedowns Finished 0
+Takedowns Attempted 0
+Takedown Accuracy 0%
+Takedowns Defended 0
+Times Taken Down 1
+Takedown Defense Rate 0%
+Submissions Attempted 0
+
+--- RESULT --- 
+50-44 rYCArdo10
+50-44 rYCArdo10
+rYCArdo10 via decision.

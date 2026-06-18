@@ -1,0 +1,37 @@
+Dyingderp
+
+Strikes Landed 8
+Strikes Thrown 25
+Strikes Absorbed 13
+Accuracy 32%
+Knockdowns 0
+Striking Differential -5
+Takedowns Finished 0
+Takedowns Attempted 0
+Takedown Accuracy 0%
+Takedowns Defended 1
+Times Taken Down 1
+Takedown Defense Rate 50%
+Submissions Attempted 0
+
+Supatroop
+
+Strikes Landed 13
+Strikes Thrown 16
+Strikes Absorbed 8
+Accuracy 81%
+Knockdowns 0
+Striking Differential 5
+Takedowns Finished 1
+Takedowns Attempted 2
+Takedown Accuracy 50%
+Takedowns Defended 0
+Times Taken Down 0
+Takedown Defense Rate 0%
+Submissions Attempted 1
+
+--- RESULT --- 
+29-28 Supatroop
+29-28 Dyingderp
+29-28 Supatroop
+Supatroop via decision.

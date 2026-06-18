@@ -1,0 +1,36 @@
+Hollow
+
+Strikes Landed 9
+Strikes Thrown 25
+Strikes Absorbed 5
+Accuracy 36%
+Knockdowns 1
+Striking Differential 4
+Takedowns Finished 0
+Takedowns Attempted 0
+Takedown Accuracy 0%
+Takedowns Defended 0
+Times Taken Down 0
+Takedown Defense Rate 0%
+Submissions Attempted 0
+
+icyl
+
+Strikes Landed 5
+Strikes Thrown 14
+Strikes Absorbed 9
+Accuracy 36%
+Knockdowns 0
+Striking Differential -4
+Takedowns Finished 0
+Takedowns Attempted 0
+Takedown Accuracy 0%
+Takedowns Defended 0
+Times Taken Down 0
+Takedown Defense Rate 0%
+Submissions Attempted 0
+
+----- RESULT ----- 
+30-27 Hollow
+29-27 Hollow
+Hollow via decision.

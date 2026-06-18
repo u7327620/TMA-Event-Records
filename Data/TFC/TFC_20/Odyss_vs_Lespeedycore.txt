@@ -1,0 +1,36 @@
+Odyss
+
+Strikes Landed 10
+Strikes Thrown 44
+Strikes Absorbed 10
+Accuracy 23%
+Knockdowns 0
+Striking Differential 0
+Takedowns Finished 0
+Takedowns Attempted 2
+Takedown Accuracy 0%
+Takedowns Defended 2
+Times Taken Down 0
+Takedown Defense Rate 100%
+Submissions Attempted 0
+
+Lespeedycore
+
+Strikes Landed 10
+Strikes Thrown 20
+Strikes Absorbed 10
+Accuracy 50%
+Knockdowns 1
+Striking Differential 0
+Takedowns Finished 0
+Takedowns Attempted 2
+Takedown Accuracy 0%
+Takedowns Defended 2
+Times Taken Down 0
+Takedown Defense Rate 100%
+Submissions Attempted 0
+
+--- RESULT ---
+29-28 Odyss
+29-28 Odyss
+Odyss via decision.

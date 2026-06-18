@@ -1,0 +1,36 @@
+Danewninja
+
+Strikes Landed 9
+Strikes Thrown 29
+Strikes Absorbed 17
+Accuracy 31%
+Knockdowns 0
+Striking Differential -8
+Takedowns Finished 0
+Takedowns Attempted 0
+Takedown Accuracy 0%
+Takedowns Defended 0
+Times Taken Down 0
+Takedown Defense Rate 0%
+Submissions Attempted 0
+
+Exzplode
+
+Strikes Landed 17
+Strikes Thrown 31
+Strikes Absorbed 9
+Accuracy 55%
+Knockdowns 2
+Striking Differential 8
+Takedowns Finished 0
+Takedowns Attempted 0
+Takedown Accuracy 0%
+Takedowns Defended 0
+Times Taken Down 0
+Takedown Defense Rate 0%
+Submissions Attempted 0
+
+----- RESULT ----- 
+30-27 exzplode
+30-27 exzplode
+exzplode via decision.

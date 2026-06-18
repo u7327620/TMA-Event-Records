@@ -1,0 +1,36 @@
+Eamon
+
+Strikes Landed 29
+Strikes Thrown 38
+Strikes Absorbed 18
+Accuracy 76%
+Knockdowns 1
+Striking Differential 11
+Takedowns Finished 0
+Takedowns Attempted 0
+Takedown Accuracy 0%
+Takedowns Defended 0
+Times Taken Down 0
+Takedown Defense Rate 0%
+Submissions Attempted 0
+
+mainland
+
+Strikes Landed 18
+Strikes Thrown 49
+Strikes Absorbed 29
+Accuracy 37%
+Knockdowns 0
+Striking Differential -11
+Takedowns Finished 0
+Takedowns Attempted 0
+Takedown Accuracy 0%
+Takedowns Defended 0
+Times Taken Down 0
+Takedown Defense Rate 0%
+Submissions Attempted 0
+
+--- RESULT ---
+30-27 Eamon
+30-27 Eamon
+Eamon via decision.

@@ -1,0 +1,36 @@
+D1v1ne
+
+Strikes Landed 12
+Strikes Thrown 26
+Strikes Absorbed 15
+Accuracy 46%
+Knockdowns 0
+Striking Differential -3
+Takedowns Finished 0
+Takedowns Attempted 0
+Takedown Accuracy 0%
+Takedowns Defended 1
+Times Taken Down 2
+Takedown Defense Rate 33%
+Submissions Attempted 0
+
+DyingDerp
+
+Strikes Landed 15
+Strikes Thrown 32
+Strikes Absorbed 12
+Accuracy 47%
+Knockdowns 0
+Striking Differential 3
+Takedowns Finished 2
+Takedowns Attempted 3
+Takedown Accuracy 66%
+Takedowns Defended 0
+Times Taken Down 0
+Takedown Defense Rate 0%
+Submissions Attempted 0
+
+--- RESULT ---
+29-28 dyingderp
+29-28 dyingderp
+dyingderp via decision.

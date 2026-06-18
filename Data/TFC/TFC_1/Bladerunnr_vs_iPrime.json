@@ -1,0 +1,42 @@
+{
+    "Meta": {
+        "Name": "Bladerunnr_vs_iPrime",
+        "Event": "TFC_1"
+    },
+    "Records": [],
+    "Result": [
+        "Bladerunnr via decision.",
+        "DECISION"
+    ],
+    "Bladerunnr": {
+        "Strikes Landed": 4,
+        "Strikes Thrown": 18,
+        "Strikes Absorbed": 6,
+        "Accuracy": 22.0,
+        "Knockdowns": 0,
+        "Striking Differential": -2,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 0,
+        "Takedown Accuracy": 0,
+        "Takedowns Defended": 0,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 0,
+        "Submissions Attempted": 0
+    },
+    "iPrime": {
+        "Strikes Landed": 6,
+        "Strikes Thrown": 16,
+        "Strikes Absorbed": 4,
+        "Accuracy": 37.0,
+        "Knockdowns": 0,
+        "Striking Differential": 2,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 0,
+        "Takedown Accuracy": 0,
+        "Takedowns Defended": 0,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 0,
+        "Submissions Attempted": 0
+    },
+    "Winner": "bladerunnr"
+}

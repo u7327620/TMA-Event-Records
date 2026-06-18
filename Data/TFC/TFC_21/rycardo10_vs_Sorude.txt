@@ -1,0 +1,43 @@
+rycardo10
+
+Strikes Landed 10
+Strikes Thrown 25
+Accuracy 40%
+Strikes Absorbed 8
+Strikes Defended 10
+Strike Defense Rate 56%
+Knockdowns 0
+Knocked Down 0
+Striking Differential 2
+Takedowns Finished 1
+Takedowns Attempted 2
+Takedown Accuracy 50%
+Takedowns Defended 1
+Times Taken Down 0
+Takedown Defense Rate 100%
+Submissions Attempted 0
+
+Sorude
+
+Strikes Landed 8
+Strikes Thrown 18
+Accuracy 44%
+Strikes Absorbed 10
+Strikes Defended 15
+Strike Defense Rate 60%
+Knockdowns 0
+Knocked Down 0
+Striking Differential -2
+Takedowns Finished 0
+Takedowns Attempted 1
+Takedown Accuracy 0%
+Takedowns Defended 1
+Times Taken Down 1
+Takedown Defense Rate 50%
+Submissions Attempted 0
+
+--- RESULT --- 
+29-28 Rycardo10
+29-28 Sorude
+29-29 Draw
+Split draw.

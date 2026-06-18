@@ -1,0 +1,49 @@
+{
+    "Meta": {
+        "Name": "Hollow_vs_Rouxster",
+        "Event": "TFC_4",
+        "random": [
+            "TITLE FIGHT"
+        ]
+    },
+    "Records": [
+        "Highest Striking Differential in a title fight, +20"
+    ],
+    "Result": [
+        "49-47 Hollow",
+        "48-47 Hollow",
+        "Hollow via decision.",
+        "DECISION"
+    ],
+    "Hollow": {
+        "Strikes Landed": 25,
+        "Strikes Thrown": 39,
+        "Strikes Absorbed": 5,
+        "Accuracy": 64.0,
+        "Knockdowns": 0,
+        "Striking Differential": 20,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 0,
+        "Takedown Accuracy": 0.0,
+        "Takedowns Defended": 5,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 100.0,
+        "Submissions Attempted": 0
+    },
+    "Rouxster": {
+        "Strikes Landed": 5,
+        "Strikes Thrown": 16,
+        "Strikes Absorbed": 25,
+        "Accuracy": 31.0,
+        "Knockdowns": 0,
+        "Striking Differential": -20,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 5,
+        "Takedown Accuracy": 0.0,
+        "Takedowns Defended": 0,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 0.0,
+        "Submissions Attempted": 2
+    },
+    "Winner": "hollow"
+}

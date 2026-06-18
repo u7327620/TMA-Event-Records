@@ -1,0 +1,44 @@
+{
+    "Meta": {
+        "Name": "kapacbbbb_vs_mainland",
+        "Event": "TFC_17"
+    },
+    "Records": [],
+    "Result": [
+        "29-28 Kapacbbbb",
+        "29-28 Mainland",
+        "29-29 Draw",
+        "Majority draw.",
+        "DRAW"
+    ],
+    "kapacbbbb": {
+        "Strikes Landed": 10,
+        "Strikes Thrown": 26,
+        "Strikes Absorbed": 16,
+        "Accuracy": 38.0,
+        "Knockdowns": 0,
+        "Striking Differential": -6,
+        "Takedowns Finished": 2,
+        "Takedowns Attempted": 3,
+        "Takedown Accuracy": 66.0,
+        "Takedowns Defended": 0,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 0.0,
+        "Submissions Attempted": 0
+    },
+    "mainland": {
+        "Strikes Landed": 16,
+        "Strikes Thrown": 23,
+        "Strikes Absorbed": 10,
+        "Accuracy": 70.0,
+        "Knockdowns": 1,
+        "Striking Differential": 6,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 0,
+        "Takedown Accuracy": 0.0,
+        "Takedowns Defended": 1,
+        "Times Taken Down": 2,
+        "Takedown Defense Rate": 33.0,
+        "Submissions Attempted": 0
+    }
+}

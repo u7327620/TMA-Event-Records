@@ -1,0 +1,42 @@
+slutmoptiq
+
+Strikes Landed 24
+Strikes Thrown 33
+Accuracy 73%
+Strikes Absorbed 16
+Strikes Defended 12
+Strike Defense Rate 43%
+Knockdowns 1
+Knocked Down 0
+Striking Differential 8
+Takedowns Finished 2
+Takedowns Attempted 2
+Takedown Accuracy 100%
+Takedowns Defended 0
+Times Taken Down 0
+Takedown Defense Rate 0%
+Submissions Attempted 2
+
+mainland
+
+Strikes Landed 16
+Strikes Thrown 28
+Accuracy 57%
+Strikes Absorbed 24
+Strikes Defended 9
+Strike Defense Rate 27%
+Knockdowns 0
+Knocked Down 1
+Striking Differential -8
+Takedowns Finished 0
+Takedowns Attempted 0
+Takedown Accuracy 0%
+Takedowns Defended 0
+Times Taken Down 2
+Takedown Defense Rate 0%
+Submissions Attempted 0
+
+--- RESULT --- 
+30-27 Slutmoptiq
+30-27 Slutmoptiq
+slutmoptiq via decision.

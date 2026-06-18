@@ -1,0 +1,36 @@
+Horrorz
+
+Strikes Landed 10
+Strikes Thrown 16
+Strikes Absorbed 10
+Accuracy 62%
+Knockdowns 0
+Striking Differential 0
+Takedowns Finished 0
+Takedowns Attempted 0
+Takedown Accuracy 0%
+Takedowns Defended 3
+Times Taken Down 1
+Takedown Defense Rate 75%
+Submissions Attempted 0
+
+2number9
+
+Strikes Landed 10
+Strikes Thrown 18
+Strikes Absorbed 10
+Accuracy 56%
+Knockdowns 0
+Striking Differential 0
+Takedowns Finished 1
+Takedowns Attempted 4
+Takedown Accuracy 25%
+Takedowns Defended 0
+Times Taken Down 0
+Takedown Defense Rate 0%
+Submissions Attempted 0
+
+--- RESULT ---
+29-28 2number9
+29-28 2number9
+2number9 via decision.

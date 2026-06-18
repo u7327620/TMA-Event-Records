@@ -1,0 +1,36 @@
+Chev
+
+Strikes Landed 12
+Strikes Thrown 22
+Strikes Absorbed 12
+Accuracy 55%
+Knockdowns 0
+Striking Differential 0
+Takedowns Finished 0
+Takedowns Attempted 0
+Takedown Accuracy 0%
+Takedowns Defended 0
+Times Taken Down 0
+Takedown Defense Rate 0%
+Submissions Attempted 0
+
+Danewninja
+
+Strikes Landed 12
+Strikes Thrown 33
+Strikes Absorbed 12
+Accuracy 36%
+Knockdowns 0
+Striking Differential 0
+Takedowns Finished 0
+Takedowns Attempted 0
+Takedown Accuracy 0%
+Takedowns Defended 0
+Times Taken Down 0
+Takedown Defense Rate 0%
+Submissions Attempted 0
+
+--- RESULT --- 
+30-27 Chev
+29-28 Chev
+Chev via decision.

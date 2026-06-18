@@ -1,0 +1,44 @@
+{
+    "Meta": {
+        "Name": "HAWK152_vs_Semari",
+        "Event": "TFC_5"
+    },
+    "Records": [
+        "Fastest TKO in the 1st round with 210 (Slowed) frames remaining"
+    ],
+    "Result": [
+        "Hawk152 via TKO.",
+        "TKO"
+    ],
+    "Semari": {
+        "Strikes Landed": 2,
+        "Strikes Thrown": 2,
+        "Strikes Absorbed": 10,
+        "Accuracy": 100.0,
+        "Knockdowns": 0,
+        "Striking Differential": -8,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 2,
+        "Takedown Accuracy": 0.0,
+        "Takedowns Defended": 0,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 0,
+        "Submissions Attempted": 0
+    },
+    "HAWK152": {
+        "Strikes Landed": 10,
+        "Strikes Thrown": 11,
+        "Strikes Absorbed": 2,
+        "Accuracy": 91.0,
+        "Knockdowns": 0,
+        "Striking Differential": 8,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 0,
+        "Takedown Accuracy": 0.0,
+        "Takedowns Defended": 2,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 100.0,
+        "Submissions Attempted": 0
+    },
+    "Winner": "hawk152"
+}

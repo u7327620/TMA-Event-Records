@@ -1,0 +1,43 @@
+{
+    "Meta": {
+        "Name": "Xer0_vs_Sushiroll",
+        "Event": "TFC_8"
+    },
+    "Records": [],
+    "Result": [
+        "30-26 Sushiroll",
+        "Sushiroll via decision.",
+        "DECISION"
+    ],
+    "Sushiroll": {
+        "Strikes Landed": 11,
+        "Strikes Thrown": 26,
+        "Strikes Absorbed": 5,
+        "Accuracy": 42.0,
+        "Knockdowns": 0,
+        "Striking Differential": 6,
+        "Takedowns Finished": 1,
+        "Takedowns Attempted": 1,
+        "Takedown Accuracy": 100.0,
+        "Takedowns Defended": 1,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 100.0,
+        "Submissions Attempted": 0
+    },
+    "Xer0": {
+        "Strikes Landed": 5,
+        "Strikes Thrown": 19,
+        "Strikes Absorbed": 11,
+        "Accuracy": 26.0,
+        "Knockdowns": 0,
+        "Striking Differential": -6,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 1,
+        "Takedown Accuracy": 0.0,
+        "Takedowns Defended": 0,
+        "Times Taken Down": 1,
+        "Takedown Defense Rate": 0.0,
+        "Submissions Attempted": 0
+    },
+    "Winner": "sushiroll"
+}

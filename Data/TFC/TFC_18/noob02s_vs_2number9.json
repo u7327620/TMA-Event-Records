@@ -1,0 +1,45 @@
+{
+    "Meta": {
+        "Name": "noob02s_vs_2number9",
+        "Event": "TFC_18"
+    },
+    "Records": [],
+    "Result": [
+        "29-28 2number9",
+        "30-28 2number9",
+        "29-29 draw",
+        "2number9 via majority decision.",
+        "DECISION"
+    ],
+    "2number9": {
+        "Strikes Landed": 6,
+        "Strikes Thrown": 18,
+        "Strikes Absorbed": 9,
+        "Accuracy": 33.0,
+        "Knockdowns": 0,
+        "Striking Differential": -3,
+        "Takedowns Finished": 1,
+        "Takedowns Attempted": 3,
+        "Takedown Accuracy": 33.0,
+        "Takedowns Defended": 0,
+        "Times Taken Down": 1,
+        "Takedown Defense Rate": 0.0,
+        "Submissions Attempted": 0
+    },
+    "noob02s": {
+        "Strikes Landed": 9,
+        "Strikes Thrown": 19,
+        "Strikes Absorbed": 6,
+        "Accuracy": 47.0,
+        "Knockdowns": 0,
+        "Striking Differential": 3,
+        "Takedowns Finished": 1,
+        "Takedowns Attempted": 1,
+        "Takedown Accuracy": 100.0,
+        "Takedowns Defended": 2,
+        "Times Taken Down": 1,
+        "Takedown Defense Rate": 66.0,
+        "Submissions Attempted": 0
+    },
+    "Winner": "2number9"
+}

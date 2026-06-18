@@ -1,0 +1,36 @@
+kapacbbbb
+
+Strikes Landed 9
+Strikes Thrown 38
+Strikes Absorbed 18
+Accuracy 24%
+Knockdowns 0
+Striking Differential -9
+Takedowns Finished 0
+Takedowns Attempted 2
+Takedown Accuracy 0%
+Takedowns Defended 1
+Times Taken Down 0
+Takedown Defense Rate 100%
+Submissions Attempted 0
+
+Writer
+
+Strikes Landed 18
+Strikes Thrown 38
+Strikes Absorbed 9
+Accuracy 47%
+Knockdowns 0
+Striking Differential 9
+Takedowns Finished 0
+Takedowns Attempted 1
+Takedown Accuracy 0%
+Takedowns Defended 2
+Times Taken Down 0
+Takedown Defense Rate 100%
+Submissions Attempted 0
+
+--- RESULT ---
+29-28 Writer
+29-28 Writer
+Writer via decision.

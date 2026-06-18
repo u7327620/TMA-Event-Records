@@ -1,0 +1,36 @@
+Cboh
+
+Strikes Landed 13
+Strikes Thrown 21
+Strikes Absorbed 6
+Accuracy 62%
+Knockdowns 0
+Striking Differential 7
+Takedowns Finished 1
+Takedowns Attempted 2
+Takedown Accuracy 50%
+Takedowns Defended 0
+Times Taken Down 0
+Takedown Defense Rate 0%
+Submissions Attempted 0
+
+Dyingderp
+
+Strikes Landed 6
+Strikes Thrown 35
+Strikes Absorbed 13
+Accuracy 17%
+Knockdowns 0
+Striking Differential -7
+Takedowns Finished 0
+Takedowns Attempted 0
+Takedown Accuracy 0%
+Takedowns Defended 1
+Times Taken Down 1
+Takedown Defense Rate 50%
+Submissions Attempted 0
+
+--- RESULT ---
+29-28 Cboh
+30-29 Cboh
+Cboh via decision.

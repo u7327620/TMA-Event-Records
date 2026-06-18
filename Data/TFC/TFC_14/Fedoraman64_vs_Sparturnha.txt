@@ -1,0 +1,36 @@
+Fedoraman64
+
+Strikes Landed 9
+Strikes Thrown 15
+Strikes Absorbed 25
+Accuracy 60%
+Knockdowns 0
+Striking Differential -16
+Takedowns Finished 0
+Takedowns Attempted 0
+Takedown Accuracy 0%
+Takedowns Defended 0
+Times Taken Down 1
+Takedown Defense Rate 0%
+Submissions Attempted 0
+
+Sparturnha
+
+Strikes Landed 25
+Strikes Thrown 36
+Strikes Absorbed 9
+Accuracy 69%
+Knockdowns 3
+Striking Differential 16
+Takedowns Finished 1
+Takedowns Attempted 1
+Takedown Accuracy 100%
+Takedowns Defended 0
+Times Taken Down 0
+Takedown Defense Rate 0%
+Submissions Attempted 1
+
+--- RESULT ---
+29-25 Sparturnha
+29-26 Sparturnha
+Sparturnha via decision.

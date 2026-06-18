@@ -1,0 +1,44 @@
+{
+    "Meta": {
+        "Name": "unihunter_vs_iprime",
+        "Event": "TFC_5"
+    },
+    "Records": [],
+    "Result": [
+        "29-28 iPrime",
+        "29-28 iPrime",
+        "iPrime via decision.",
+        "DECISION"
+    ],
+    "Unihunter": {
+        "Strikes Landed": 7,
+        "Strikes Thrown": 27,
+        "Strikes Absorbed": 11,
+        "Accuracy": 26.0,
+        "Knockdowns": 0,
+        "Striking Differential": -4,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 1,
+        "Takedown Accuracy": 0.0,
+        "Takedowns Defended": 0,
+        "Times Taken Down": 1,
+        "Takedown Defense Rate": 0.0,
+        "Submissions Attempted": 0
+    },
+    "iPrime": {
+        "Strikes Landed": 11,
+        "Strikes Thrown": 24,
+        "Strikes Absorbed": 7,
+        "Accuracy": 46.0,
+        "Knockdowns": 0,
+        "Striking Differential": 4,
+        "Takedowns Finished": 1,
+        "Takedowns Attempted": 1,
+        "Takedown Accuracy": 100.0,
+        "Takedowns Defended": 1,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 100.0,
+        "Submissions Attempted": 0
+    },
+    "Winner": "iprime"
+}

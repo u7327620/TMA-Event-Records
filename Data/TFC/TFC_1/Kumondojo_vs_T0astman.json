@@ -1,0 +1,42 @@
+{
+    "Meta": {
+        "Name": "Kumondojo_vs_T0astman",
+        "Event": "TFC_1"
+    },
+    "Records": [],
+    "Result": [
+        "Kumondojo via decision.",
+        "DECISION"
+    ],
+    "Kumondojo": {
+        "Strikes Landed": 14,
+        "Strikes Thrown": 25,
+        "Strikes Absorbed": 9,
+        "Accuracy": 56.0,
+        "Knockdowns": 0,
+        "Striking Differential": 5,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 0,
+        "Takedown Accuracy": 0,
+        "Takedowns Defended": 1,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 100.0,
+        "Submissions Attempted": 0
+    },
+    "T0astman": {
+        "Strikes Landed": 9,
+        "Strikes Thrown": 19,
+        "Strikes Absorbed": 14,
+        "Accuracy": 47.0,
+        "Knockdowns": 0,
+        "Striking Differential": -5,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 1,
+        "Takedown Accuracy": 0.0,
+        "Takedowns Defended": 0,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 0.0,
+        "Submissions Attempted": 0
+    },
+    "Winner": "kumondojo"
+}

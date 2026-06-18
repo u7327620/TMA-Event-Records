@@ -1,0 +1,44 @@
+{
+    "Meta": {
+        "Name": "faidin_vs_anx",
+        "Event": "TFC_21"
+    },
+    "Records": [],
+    "Result": [
+        "29-28 faidin",
+        "29-28 faidin",
+        "faidin via decision.",
+        "DECISION"
+    ],
+    "faidin": {
+        "Strikes Landed": 11,
+        "Strikes Thrown": 25,
+        "Strikes Absorbed": 10,
+        "Accuracy": 44.0,
+        "Knockdowns": 0,
+        "Striking Differential": 1,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 1,
+        "Takedown Accuracy": 0.0,
+        "Takedowns Defended": 0,
+        "Times Taken Down": 2,
+        "Takedown Defense Rate": 0.0,
+        "Submissions Attempted": 0
+    },
+    "anx": {
+        "Strikes Landed": 10,
+        "Strikes Thrown": 23,
+        "Strikes Absorbed": 11,
+        "Accuracy": 43.0,
+        "Knockdowns": 0,
+        "Striking Differential": -1,
+        "Takedowns Finished": 2,
+        "Takedowns Attempted": 2,
+        "Takedown Accuracy": 100.0,
+        "Takedowns Defended": 1,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 100.0,
+        "Submissions Attempted": 1
+    },
+    "Winner": "faidin"
+}

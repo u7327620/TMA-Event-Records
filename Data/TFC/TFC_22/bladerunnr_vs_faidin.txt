@@ -1,0 +1,47 @@
+3 3000 FRAME ROUNDS
+-------------------
+
+bladerunnr
+
+Strikes Landed 19
+Strikes Thrown 38
+Accuracy 50%
+Strikes Absorbed 26
+Strikes Defended 24
+Strike Defense Rate 48%
+Knockdowns 1
+Knocked Down 0
+Striking Differential -7
+Takedowns Finished 1
+Takedowns Attempted 2
+Takedown Accuracy 50%
+Takedowns Defended 0
+Times Taken Down 0
+Takedown Defense Rate 0%
+Submissions Attempted 1
+
+faidin
+
+Strikes Landed 26
+Strikes Thrown 50
+Accuracy 52%
+Strikes Absorbed 19
+Strikes Defended 19
+Strike Defense Rate 50%
+Knockdowns 0
+Knocked Down 1
+Striking Differential 7
+Takedowns Finished 0
+Takedowns Attempted 0
+Takedown Accuracy 0%
+Takedowns Defended 1
+Times Taken Down 1
+Takedown Defense Rate 50%
+Submissions Attempted 1
+
+--- RECORDS ---
+First ever von flue choke in TFC
+
+--- RESULT ---
+defeats faidin via von flue choke in the 2nd round with 1700 frames surpassed.
+bladerunnr via submission.

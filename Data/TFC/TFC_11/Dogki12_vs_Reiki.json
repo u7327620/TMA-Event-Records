@@ -1,0 +1,44 @@
+{
+    "Meta": {
+        "Name": "Dogki12_vs_Reiki",
+        "Event": "TFC_11"
+    },
+    "Records": [],
+    "Result": [
+        "29-28 dogki12",
+        "29-28 dogki12",
+        "dogki12 via decision.",
+        "DECISION"
+    ],
+    "Dogki12": {
+        "Strikes Landed": 13,
+        "Strikes Thrown": 24,
+        "Strikes Absorbed": 10,
+        "Accuracy": 54.0,
+        "Knockdowns": 1,
+        "Striking Differential": 3,
+        "Takedowns Finished": 1,
+        "Takedowns Attempted": 2,
+        "Takedown Accuracy": 50.0,
+        "Takedowns Defended": 0,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 0.0,
+        "Submissions Attempted": 0
+    },
+    "Reiki": {
+        "Strikes Landed": 10,
+        "Strikes Thrown": 26,
+        "Strikes Absorbed": 13,
+        "Accuracy": 38.0,
+        "Knockdowns": 1,
+        "Striking Differential": -3,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 0,
+        "Takedown Accuracy": 0.0,
+        "Takedowns Defended": 1,
+        "Times Taken Down": 1,
+        "Takedown Defense Rate": 50.0,
+        "Submissions Attempted": 0
+    },
+    "Winner": "dogki12"
+}

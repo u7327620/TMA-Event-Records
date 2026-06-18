@@ -1,0 +1,44 @@
+{
+    "Meta": {
+        "Name": "Semari_vs_Vani3",
+        "Event": "TFC_14"
+    },
+    "Records": [],
+    "Result": [
+        "30-27 Vani3",
+        "30-29 Vani3",
+        "Vani3 via decision.",
+        "DECISION"
+    ],
+    "Semari": {
+        "Strikes Landed": 6,
+        "Strikes Thrown": 12,
+        "Strikes Absorbed": 11,
+        "Accuracy": 50.0,
+        "Knockdowns": 0,
+        "Striking Differential": -5,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 2,
+        "Takedown Accuracy": 0.0,
+        "Takedowns Defended": 0,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 0.0,
+        "Submissions Attempted": 1
+    },
+    "Vani3": {
+        "Strikes Landed": 11,
+        "Strikes Thrown": 16,
+        "Strikes Absorbed": 6,
+        "Accuracy": 69.0,
+        "Knockdowns": 1,
+        "Striking Differential": 5,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 0,
+        "Takedown Accuracy": 0.0,
+        "Takedowns Defended": 2,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 100.0,
+        "Submissions Attempted": 0
+    },
+    "Winner": "vani3"
+}

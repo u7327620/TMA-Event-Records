@@ -1,0 +1,40 @@
+TITLE FIGHT
+-----------
+
+Linxz
+
+Strikes Landed 15
+Strikes Thrown 42
+Strikes Absorbed 16
+Accuracy 36%
+Knockdowns 0
+Striking Differential -1
+Takedowns Finished 1
+Takedowns Attempted 3
+Takedown Accuracy 33%
+Takedowns Defended 0
+Times Taken Down 0
+Takedown Defense Rate 0%
+Submissions Attempted 0
+
+Yahummy
+
+Strikes Landed 16
+Strikes Thrown 38
+Strikes Absorbed 15
+Accuracy 42%
+Knockdowns 0
+Striking Differential 1
+Takedowns Finished 0
+Takedowns Attempted 0
+Takedown Accuracy 0%
+Takedowns Defended 2
+Times Taken Down 1
+Takedown Defense Rate 66%
+Submissions Attempted 0
+
+--- RESULT --- 
+49-47 Linxz
+49-48 Linxz
+49-47 Linxz (cheese footwork from yahummy frame 280 in R2)
+Linxz via decision.

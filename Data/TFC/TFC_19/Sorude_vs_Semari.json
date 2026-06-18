@@ -1,0 +1,45 @@
+{
+    "Meta": {
+        "Name": "Sorude_vs_Semari",
+        "Event": "TFC_19"
+    },
+    "Records": [],
+    "Result": [
+        "29-28 Semari",
+        "29-28 Semari",
+        "29-29 Draw",
+        "Semari via majority decision.",
+        "DECISION"
+    ],
+    "Semari": {
+        "Strikes Landed": 15,
+        "Strikes Thrown": 34,
+        "Strikes Absorbed": 7,
+        "Accuracy": 44.0,
+        "Knockdowns": 0,
+        "Striking Differential": 8,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 2,
+        "Takedown Accuracy": 0.0,
+        "Takedowns Defended": 2,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 100.0,
+        "Submissions Attempted": 0
+    },
+    "Sorude": {
+        "Strikes Landed": 7,
+        "Strikes Thrown": 24,
+        "Strikes Absorbed": 15,
+        "Accuracy": 29.0,
+        "Knockdowns": 0,
+        "Striking Differential": -8,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 2,
+        "Takedown Accuracy": 0.0,
+        "Takedowns Defended": 2,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 100.0,
+        "Submissions Attempted": 0
+    },
+    "Winner": "semari"
+}

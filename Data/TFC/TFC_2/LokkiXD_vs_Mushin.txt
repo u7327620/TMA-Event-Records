@@ -1,0 +1,36 @@
+LokkiXD
+
+Strikes Landed 3
+Strikes Thrown 16
+Strikes Absorbed 3
+Accuracy 19%
+Knockdowns 0
+Striking Differential 0
+Takedowns Finished 0
+Takedowns Attempted 0
+Takedown Accuracy 0
+Takedowns Defended 0
+Times Taken Down 0
+Takedown Defense Rate 0
+Submissions Attempted 1
+
+Mushin
+
+Strikes Landed 3
+Strikes Thrown 20
+Strikes Absorbed 3
+Accuracy 15%
+Knockdowns 0
+Striking Differential 0
+Takedowns Finished 0
+Takedowns Attempted 0
+Takedown Accuracy 0%
+Takedowns Defended 0
+Times Taken Down 0
+Takedown Defense Rate 0
+Submissions Attempted 0
+
+----- RESULT ----- 
+29-28 Mushin
+29-26 Mushin
+Mushin via decision.

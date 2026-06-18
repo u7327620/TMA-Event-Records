@@ -1,0 +1,48 @@
+5 3000 FRAME ROUNDS 
+-------------------
+
+
+
+Lullll
+
+Strikes Landed 41
+Strikes Thrown 74
+Accuracy 55%
+Strikes Absorbed 34
+Strikes Defended 54
+Strike Defense Rate 61%
+Knockdowns 1
+Knocked Down 2
+Striking Differential 7
+Takedowns Finished 2
+Takedowns Attempted 4
+Takedown Accuracy 50%
+Takedowns Defended 3
+Times Taken Down 4
+Takedown Defense Rate 43%
+Submissions Attempted 1
+
+Fedoraman64
+
+Strikes Landed 34
+Strikes Thrown 88
+Accuracy 39%
+Strikes Absorbed 41
+Strikes Defended 33
+Strike Defense Rate 45%
+Knockdowns 2
+Knocked Down 1
+Striking Differential -7
+Takedowns Finished 4
+Takedowns Attempted 7
+Takedown Accuracy 57%
+Takedowns Defended 2
+Times Taken Down 2
+Takedown Defense Rate 50%
+Submissions Attempted 1
+
+--- RESULT ---
+48-47 Lullll
+48-47 Lullll
+48-47 Lullll
+Lullll via unanimous decision.

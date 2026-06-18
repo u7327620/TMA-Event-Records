@@ -1,0 +1,44 @@
+{
+    "Meta": {
+        "Name": "Mushin_vs_Bladerunnr",
+        "Event": "TFC_8"
+    },
+    "Records": [],
+    "Result": [
+        "29-28 Mushin",
+        "29-28 Mushin",
+        "Mushin via decision.",
+        "DECISION"
+    ],
+    "Mushin": {
+        "Strikes Landed": 19,
+        "Strikes Thrown": 25,
+        "Strikes Absorbed": 5,
+        "Accuracy": 76.0,
+        "Knockdowns": 0,
+        "Striking Differential": -14,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 0,
+        "Takedown Accuracy": 0.0,
+        "Takedowns Defended": 1,
+        "Times Taken Down": 2,
+        "Takedown Defense Rate": 33.0,
+        "Submissions Attempted": 0
+    },
+    "Bladerunnr": {
+        "Strikes Landed": 5,
+        "Strikes Thrown": 19,
+        "Strikes Absorbed": 19,
+        "Accuracy": 26.0,
+        "Knockdowns": 0,
+        "Striking Differential": -14,
+        "Takedowns Finished": 2,
+        "Takedowns Attempted": 3,
+        "Takedown Accuracy": 66.0,
+        "Takedowns Defended": 0,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 0.0,
+        "Submissions Attempted": 0
+    },
+    "Winner": "mushin"
+}

@@ -1,0 +1,36 @@
+rYCArdo10
+
+Strikes Landed 17
+Strikes Thrown 41
+Strikes Absorbed 6
+Accuracy 41%
+Knockdowns 1
+Striking Differential 11
+Takedowns Finished 0
+Takedowns Attempted 0
+Takedown Accuracy 0%
+Takedowns Defended 0
+Times Taken Down 0
+Takedown Defense Rate 0%
+Submissions Attempted 0
+
+KumoNDojo
+
+Strikes Landed 6
+Strikes Thrown 29
+Strikes Absorbed 17
+Accuracy 21%
+Knockdowns 1
+Striking Differential -11
+Takedowns Finished 0
+Takedowns Attempted 0
+Takedown Accuracy 0%
+Takedowns Defended 0
+Times Taken Down 0
+Takedown Defense Rate 0%
+Submissions Attempted 0
+
+----- RESULT ----- 
+29-27 Rycardo10
+30-26 Rycardo10
+Rycardo10 via decision.

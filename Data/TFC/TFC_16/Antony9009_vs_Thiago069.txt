@@ -1,0 +1,36 @@
+Antony9009
+
+Strikes Landed 1
+Strikes Thrown 13
+Strikes Absorbed 11
+Accuracy 8%
+Knockdowns 0
+Striking Differential -10
+Takedowns Finished 0
+Takedowns Attempted 0
+Takedown Accuracy 0%
+Takedowns Defended 0
+Times Taken Down 1
+Takedown Defense Rate 0%
+Submissions Attempted 0
+
+Thiago069
+
+Strikes Landed 11
+Strikes Thrown 18
+Strikes Absorbed 1
+Accuracy 61%
+Knockdowns 1
+Striking Differential 10
+Takedowns Finished 1
+Takedowns Attempted 1
+Takedown Accuracy 100%
+Takedowns Defended 0
+Times Taken Down 0
+Takedown Defense Rate 0%
+Submissions Attempted 1
+
+--- RESULT --- 
+30-26 Thiago069
+30-25 Thiago069
+Thiago069 via decision.

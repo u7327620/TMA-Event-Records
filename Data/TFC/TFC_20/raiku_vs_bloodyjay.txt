@@ -1,0 +1,36 @@
+raiku
+
+Strikes Landed 18
+Strikes Thrown 42
+Strikes Absorbed 19
+Accuracy 43%
+Knockdowns 2
+Striking Differential -1
+Takedowns Finished 1
+Takedowns Attempted 2
+Takedown Accuracy 50%
+Takedowns Defended 3
+Times Taken Down 0
+Takedown Defense Rate 100%
+Submissions Attempted 0
+
+bloodyjay
+
+Strikes Landed 19
+Strikes Thrown 42
+Strikes Absorbed 18
+Accuracy 45%
+Knockdowns 1
+Striking Differential 1
+Takedowns Finished 0
+Takedowns Attempted 3
+Takedown Accuracy 0%
+Takedowns Defended 1
+Times Taken Down 1
+Takedown Defense Rate 50%
+Submissions Attempted 0
+
+--- RESULT ---
+29-28 raiku
+29-28 raiku
+raiku via decision.

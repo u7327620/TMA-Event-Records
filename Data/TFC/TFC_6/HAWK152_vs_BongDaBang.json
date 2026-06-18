@@ -1,0 +1,44 @@
+{
+    "Meta": {
+        "Name": "HAWK152_vs_BongDaBang",
+        "Event": "TFC_6"
+    },
+    "Records": [],
+    "Result": [
+        "29-27 Hawk",
+        "30-26 Hawk",
+        "Hawk152 via decision.",
+        "DECISION"
+    ],
+    "HAWK152": {
+        "Strikes Landed": 11,
+        "Strikes Thrown": 23,
+        "Strikes Absorbed": 6,
+        "Accuracy": 48.0,
+        "Knockdowns": 0,
+        "Striking Differential": 5,
+        "Takedowns Finished": 1,
+        "Takedowns Attempted": 2,
+        "Takedown Accuracy": 0,
+        "Takedowns Defended": 0,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 0.0,
+        "Submissions Attempted": 0
+    },
+    "BongDaBang": {
+        "Strikes Landed": 6,
+        "Strikes Thrown": 16,
+        "Strikes Absorbed": 11,
+        "Accuracy": 37.0,
+        "Knockdowns": 0,
+        "Striking Differential": -5,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 0,
+        "Takedown Accuracy": 0.0,
+        "Takedowns Defended": 1,
+        "Times Taken Down": 1,
+        "Takedown Defense Rate": 50.0,
+        "Submissions Attempted": 0
+    },
+    "Winner": "hawk152"
+}

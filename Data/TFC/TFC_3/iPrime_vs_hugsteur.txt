@@ -1,0 +1,36 @@
+iPrime
+
+Strikes Landed 5
+Strikes Thrown 20
+Strikes Absorbed 3
+Accuracy 25%
+Knockdowns 0
+Striking Differential 2
+Takedowns Finished 0
+Takedowns Attempted 2
+Takedown Accuracy 0%
+Takedowns Defended 0
+Times Taken Down 0
+Takedown Defense Rate 0%
+Submissions Attempted 0
+
+hugsteur
+
+Strikes Landed 3
+Strikes Thrown 15
+Strikes Absorbed 5
+Accuracy 20%
+Knockdowns 1
+Striking Differential -2
+Takedowns Finished 0
+Takedowns Attempted 0
+Takedown Accuracy 0%
+Takedowns Defended 2
+Times Taken Down 0
+Takedown Defense Rate 100%
+Submissions Attempted 0
+
+----- RESULT ----- 
+39-38 iPrime
+39-38 iPrime
+iPrime via decision.

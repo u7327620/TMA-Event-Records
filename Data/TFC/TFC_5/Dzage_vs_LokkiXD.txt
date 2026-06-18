@@ -1,0 +1,36 @@
+Dzage
+
+Strikes Landed 7
+Strikes Thrown 19
+Strikes Absorbed 5
+Accuracy 37%
+Knockdowns 0
+Striking Differential 2
+Takedowns Finished 1
+Takedowns Attempted 3
+Takedown Accuracy 33%
+Takedowns Defended 0
+Times Taken Down 1
+Takedown Defense Rate 0%
+Submissions Attempted 0
+
+LokkiXD
+
+Strikes Landed 5
+Strikes Thrown 12
+Strikes Absorbed 7
+Accuracy 42%
+Knockdowns 0
+Striking Differential -2
+Takedowns Finished 1
+Takedowns Attempted 1
+Takedown Accuracy 100%
+Takedowns Defended 2
+Times Taken Down 1
+Takedown Defense Rate 66%
+Submissions Attempted 1
+
+----- RESULT ----- 
+29-28 Dzage
+29-28 Dzage
+Dzage via decision.

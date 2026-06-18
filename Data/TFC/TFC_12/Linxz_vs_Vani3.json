@@ -1,0 +1,44 @@
+{
+    "Meta": {
+        "Name": "Linxz_vs_Vani3",
+        "Event": "TFC_12"
+    },
+    "Records": [],
+    "Result": [
+        "30-27 Linxz",
+        "30-27 Linxz",
+        "Linxz via decision.",
+        "DECISION"
+    ],
+    "Linxz": {
+        "Strikes Landed": 21,
+        "Strikes Thrown": 33,
+        "Strikes Absorbed": 10,
+        "Accuracy": 64.0,
+        "Knockdowns": 0,
+        "Striking Differential": 11,
+        "Takedowns Finished": 2,
+        "Takedowns Attempted": 2,
+        "Takedown Accuracy": 100.0,
+        "Takedowns Defended": 1,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 0.0,
+        "Submissions Attempted": 0
+    },
+    "Vani3": {
+        "Strikes Landed": 10,
+        "Strikes Thrown": 17,
+        "Strikes Absorbed": 21,
+        "Accuracy": 59.0,
+        "Knockdowns": 0,
+        "Striking Differential": -11,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 1,
+        "Takedown Accuracy": 0.0,
+        "Takedowns Defended": 0,
+        "Times Taken Down": 2,
+        "Takedown Defense Rate": 0.0,
+        "Submissions Attempted": 0
+    },
+    "Winner": "linxz"
+}

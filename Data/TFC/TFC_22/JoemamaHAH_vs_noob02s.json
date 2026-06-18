@@ -1,0 +1,50 @@
+{
+    "Meta": {
+        "Name": "JoemamaHAH_vs_noob02s",
+        "Event": "TFC_22"
+    },
+    "Records": [],
+    "Result": [
+        "*Joe landed enough for a tko in round 1, but the judges only counted the tko in R2.",
+        "noob02s in the 2nd round with about 800 frames surpassed.",
+        "JoemamaHAH via TKO.",
+        "TKO"
+    ],
+    "JoemamaHAH": {
+        "Strikes Landed": 22,
+        "Strikes Thrown": 29,
+        "Accuracy": 76.0,
+        "Strikes Absorbed": 2,
+        "Strikes Defended": 4,
+        "Strike Defense Rate": 50.0,
+        "Knockdowns": 0,
+        "Knocked Down": 0,
+        "Striking Differential": 21,
+        "Takedowns Finished": 2,
+        "Takedowns Attempted": 2,
+        "Takedown Accuracy": 100.0,
+        "Takedowns Defended": 1,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 100.0,
+        "Submissions Attempted": 0
+    },
+    "noob02s": {
+        "Strikes Landed": 1,
+        "Strikes Thrown": 2,
+        "Accuracy": 50.0,
+        "Strikes Absorbed": 22,
+        "Strikes Defended": 7,
+        "Strike Defense Rate": 24.0,
+        "Knockdowns": 0,
+        "Knocked Down": 0,
+        "Striking Differential": -21,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 1,
+        "Takedown Accuracy": 0.0,
+        "Takedowns Defended": 0,
+        "Times Taken Down": 2,
+        "Takedown Defense Rate": 0.0,
+        "Submissions Attempted": 0
+    },
+    "Winner": "joemamahah"
+}

@@ -1,0 +1,43 @@
+{
+    "Meta": {
+        "Name": "Exzplode_vs_Unihunter",
+        "Event": "TFC_8"
+    },
+    "Records": [],
+    "Result": [
+        "30-27 Exzplode",
+        "Exzplode via decision.",
+        "DECISION"
+    ],
+    "Exzplode": {
+        "Strikes Landed": 11,
+        "Strikes Thrown": 21,
+        "Strikes Absorbed": 9,
+        "Accuracy": 52.0,
+        "Knockdowns": 0,
+        "Striking Differential": 2,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 0,
+        "Takedown Accuracy": 0.0,
+        "Takedowns Defended": 0,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 0.0,
+        "Submissions Attempted": 0
+    },
+    "Unihunter": {
+        "Strikes Landed": 9,
+        "Strikes Thrown": 26,
+        "Strikes Absorbed": 11,
+        "Accuracy": 35.0,
+        "Knockdowns": 0,
+        "Striking Differential": -2,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 0,
+        "Takedown Accuracy": 0.0,
+        "Takedowns Defended": 0,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 0.0,
+        "Submissions Attempted": 0
+    },
+    "Winner": "exzplode"
+}

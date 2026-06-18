@@ -1,0 +1,53 @@
+{
+    "Meta": {
+        "Name": "Rouxster_vs_Lullll 2",
+        "Event": "TFC_10",
+        "random": [
+            "5 ROUND FIGHT"
+        ]
+    },
+    "Records": [],
+    "Result": [
+        "48-48 Draw",
+        "48-48 Draw",
+        "48-48 Draw",
+        "Majority draw.",
+        "DRAW"
+    ],
+    "Rouxster": {
+        "Strikes Landed": 16,
+        "Strikes Thrown": 28,
+        "Accuracy": 57.0,
+        "Strikes Absorbed": 24,
+        "Strikes Defended": 10,
+        "Strike Defense Rate": 29.0,
+        "Knockdowns": 0,
+        "Knocked Down": 0,
+        "Striking Differential": -8,
+        "Takedowns Finished": 4,
+        "Takedowns Attempted": 6,
+        "Takedown Accuracy": 66.0,
+        "Takedowns Defended": 1,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 100.0,
+        "Submissions Attempted": 1
+    },
+    "Lullll": {
+        "Strikes Landed": 24,
+        "Strikes Thrown": 34,
+        "Accuracy": 71.0,
+        "Strikes Absorbed": 16,
+        "Strikes Defended": 12,
+        "Strike Defense Rate": 43.0,
+        "Knockdowns": 0,
+        "Knocked Down": 0,
+        "Striking Differential": 8,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 1,
+        "Takedown Accuracy": 0.0,
+        "Takedowns Defended": 2,
+        "Times Taken Down": 4,
+        "Takedown Defense Rate": 33.0,
+        "Submissions Attempted": 0
+    }
+}

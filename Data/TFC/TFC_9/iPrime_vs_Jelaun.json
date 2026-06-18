@@ -1,0 +1,44 @@
+{
+    "Meta": {
+        "Name": "iPrime_vs_Jelaun",
+        "Event": "TFC_9"
+    },
+    "Records": [],
+    "Result": [
+        "29-28 iPrime",
+        "29-28 iPrime",
+        "iPrime via decision.",
+        "DECISION"
+    ],
+    "iPrime": {
+        "Strikes Landed": 8,
+        "Strikes Thrown": 24,
+        "Strikes Absorbed": 7,
+        "Accuracy": 33.0,
+        "Knockdowns": 0,
+        "Striking Differential": 1,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 0,
+        "Takedown Accuracy": 0.0,
+        "Takedowns Defended": 2,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 100.0,
+        "Submissions Attempted": 0
+    },
+    "Jelaun": {
+        "Strikes Landed": 7,
+        "Strikes Thrown": 24,
+        "Strikes Absorbed": 8,
+        "Accuracy": 29.0,
+        "Knockdowns": 1,
+        "Striking Differential": -1,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 2,
+        "Takedown Accuracy": 0.0,
+        "Takedowns Defended": 0,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 0.0,
+        "Submissions Attempted": 0
+    },
+    "Winner": "iprime"
+}

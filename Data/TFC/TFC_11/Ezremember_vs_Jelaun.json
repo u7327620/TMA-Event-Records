@@ -1,0 +1,45 @@
+{
+    "Meta": {
+        "Name": "Ezremember_vs_Jelaun",
+        "Event": "TFC_11"
+    },
+    "Records": [],
+    "Result": [
+        "30-29 Ezremember",
+        "29-29 draw",
+        "29-28 Ezremember",
+        "Ezremember via decision.",
+        "DECISION"
+    ],
+    "Ezremember": {
+        "Strikes Landed": 11,
+        "Strikes Thrown": 27,
+        "Strikes Absorbed": 7,
+        "Accuracy": 41.0,
+        "Knockdowns": 0,
+        "Striking Differential": 4,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 1,
+        "Takedown Accuracy": 0.0,
+        "Takedowns Defended": 0,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 0.0,
+        "Submissions Attempted": 0
+    },
+    "Jelaun": {
+        "Strikes Landed": 7,
+        "Strikes Thrown": 22,
+        "Strikes Absorbed": 11,
+        "Accuracy": 32.0,
+        "Knockdowns": 0,
+        "Striking Differential": -4,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 0,
+        "Takedown Accuracy": 0.0,
+        "Takedowns Defended": 1,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 0.0,
+        "Submissions Attempted": 0
+    },
+    "Winner": "ezremember"
+}

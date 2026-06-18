@@ -1,0 +1,42 @@
+{
+    "Meta": {
+        "Name": "Rouxster_vs_Kumondojo",
+        "Event": "TFC_1"
+    },
+    "Records": [],
+    "Result": [
+        "Rouxster via decision.",
+        "DECISION"
+    ],
+    "Rouxster": {
+        "Strikes Landed": 1,
+        "Strikes Thrown": 17,
+        "Strikes Absorbed": 9,
+        "Accuracy": 6.0,
+        "Knockdowns": 0,
+        "Striking Differential": -8,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 2,
+        "Takedown Accuracy": 0.0,
+        "Takedowns Defended": 0,
+        "Times Taken Down": 1,
+        "Takedown Defense Rate": 0.0,
+        "Submissions Attempted": 2
+    },
+    "Kumondojo": {
+        "Strikes Landed": 9,
+        "Strikes Thrown": 15,
+        "Strikes Absorbed": 1,
+        "Accuracy": 60.0,
+        "Knockdowns": 0,
+        "Striking Differential": 8,
+        "Takedowns Finished": 1,
+        "Takedowns Attempted": 1,
+        "Takedown Accuracy": 100.0,
+        "Takedowns Defended": 2,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 100.0,
+        "Submissions Attempted": 0
+    },
+    "Winner": "rouxster"
+}

@@ -1,0 +1,36 @@
+Hamfisted
+
+Strikes Landed 14
+Strikes Thrown 27
+Strikes Absorbed 7
+Accuracy 52%
+Knockdowns 1
+Striking Differential 7
+Takedowns Finished 0
+Takedowns Attempted 0
+Takedown Accuracy 0%
+Takedowns Defended 0
+Times Taken Down 0
+Takedown Defense Rate 0%
+Submissions Attempted 0
+
+Danewninja
+
+Strikes Landed 7
+Strikes Thrown 27
+Strikes Absorbed 14
+Accuracy 26%
+Knockdowns 0
+Striking Differential -7
+Takedowns Finished 0
+Takedowns Attempted 0
+Takedown Accuracy 0%
+Takedowns Defended 0
+Times Taken Down 0
+Takedown Defense Rate 0%
+Submissions Attempted 0
+
+----- RESULT ----- 
+29-28 hamfisted
+29-28 hamfisted
+hamfisted via decision.

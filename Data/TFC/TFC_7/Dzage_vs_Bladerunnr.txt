@@ -1,0 +1,36 @@
+Dzage
+
+Strikes Landed 7
+Strikes Thrown 28
+Strikes Absorbed 18
+Accuracy 25%
+Knockdowns 0
+Striking Differential -11
+Takedowns Finished 0
+Takedowns Attempted 3
+Takedown Accuracy 0%
+Takedowns Defended 0
+Times Taken Down 2
+Takedown Defense Rate 0%
+Submissions Attempted 0
+
+Bladerunnr
+
+Strikes Landed 18
+Strikes Thrown 28
+Strikes Absorbed 7
+Accuracy 64%
+Knockdowns 0
+Striking Differential 11
+Takedowns Finished 2
+Takedowns Attempted 2
+Takedown Accuracy 100%
+Takedowns Defended 3
+Times Taken Down 0
+Takedown Defense Rate 100%
+Submissions Attempted 0
+
+--- RESULT --- 
+29-28 bladerunnr
+29-28 bladerunnr
+bladerunnr via decision.

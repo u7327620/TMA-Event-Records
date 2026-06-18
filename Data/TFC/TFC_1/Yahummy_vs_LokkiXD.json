@@ -1,0 +1,42 @@
+{
+    "Meta": {
+        "Name": "Yahummy_vs_LokkiXD",
+        "Event": "TFC_1"
+    },
+    "Records": [],
+    "Result": [
+        "yahummy via decision.",
+        "DECISION"
+    ],
+    "yahummy": {
+        "Strikes Landed": 7,
+        "Strikes Thrown": 13,
+        "Strikes Absorbed": 0,
+        "Accuracy": 54.0,
+        "Knockdowns": 0,
+        "Striking Differential": 7,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 0,
+        "Takedown Accuracy": 0,
+        "Takedowns Defended": 1,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 100.0,
+        "Submissions Attempted": 0
+    },
+    "LokkiXD": {
+        "Strikes Landed": 0,
+        "Strikes Thrown": 8,
+        "Strikes Absorbed": 7,
+        "Accuracy": 0.0,
+        "Knockdowns": 0,
+        "Striking Differential": -7,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 1,
+        "Takedown Accuracy": 0.0,
+        "Takedowns Defended": 0,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 0.0,
+        "Submissions Attempted": 0
+    },
+    "Winner": "yahummy"
+}

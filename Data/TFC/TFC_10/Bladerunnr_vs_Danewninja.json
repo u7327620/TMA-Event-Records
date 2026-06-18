@@ -1,0 +1,44 @@
+{
+    "Meta": {
+        "Name": "Bladerunnr_vs_Danewninja",
+        "Event": "TFC_10"
+    },
+    "Records": [],
+    "Result": [
+        "(flying armbar) in the 3rd round with 940 frames surpassed.",
+        "Bladerunnr via submission.",
+        "SUBMISSION"
+    ],
+    "Bladerunnr": {
+        "Strikes Landed": 16,
+        "Strikes Thrown": 26,
+        "Strikes Absorbed": 12,
+        "Accuracy": 62.0,
+        "Knockdowns": 0,
+        "Striking Differential": 4,
+        "Takedowns Finished": 4,
+        "Takedowns Attempted": 4,
+        "Takedown Accuracy": 100.0,
+        "Takedowns Defended": 0,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 0.0,
+        "Submissions Attempted": 1,
+        "FLYING BLADEBAR": 1
+    },
+    "Danewninja": {
+        "Strikes Landed": 12,
+        "Strikes Thrown": 33,
+        "Strikes Absorbed": 16,
+        "Accuracy": 36.0,
+        "Knockdowns": 0,
+        "Striking Differential": -4,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 0,
+        "Takedown Accuracy": 0.0,
+        "Takedowns Defended": 0,
+        "Times Taken Down": 4,
+        "Takedown Defense Rate": 0.0,
+        "Submissions Attempted": 0
+    },
+    "Winner": "bladerunnr"
+}

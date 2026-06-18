@@ -1,0 +1,36 @@
+bladerunnr
+
+Strikes Landed 8
+Strikes Thrown 17
+Strikes Absorbed 15
+Accuracy 47%
+Knockdowns 0
+Striking Differential -7
+Takedowns Finished 1
+Takedowns Attempted 3
+Takedown Accuracy 33%
+Takedowns Defended 2
+Times Taken Down 1
+Takedown Defense Rate 66%
+Submissions Attempted 1
+
+chev
+
+Strikes Landed 15
+Strikes Thrown 33
+Strikes Absorbed 8
+Accuracy 45%
+Knockdowns 0
+Striking Differential 7
+Takedowns Finished 1
+Takedowns Attempted 3
+Takedown Accuracy 33%
+Takedowns Defended 2
+Times Taken Down 1
+Takedown Defense Rate 66%
+Submissions Attempted 0
+
+--- RESULT ---
+29-28 chev
+29-28 chev
+chev via decision.

@@ -1,0 +1,38 @@
+Anx
+
+Strikes Landed 12
+Strikes Thrown 24
+Strikes Absorbed 3
+Accuracy 50%
+Knockdowns 0
+Striking Differential 9
+Takedowns Finished 0
+Takedowns Attempted 0
+Takedown Accuracy 0%
+Takedowns Defended 0
+Times Taken Down 1
+Takedown Defense Rate 0%
+Submissions Attempted 0
+
+Supatroop
+
+Strikes Landed 3
+Strikes Thrown 33
+Strikes Absorbed 12
+Accuracy 9%
+Knockdowns 0
+Striking Differential -9
+Takedowns Finished 1
+Takedowns Attempted 1
+Takedown Accuracy 100%
+Takedowns Defended 0
+Times Taken Down 0
+Takedown Defense Rate 0%
+Submissions Attempted 0
+
+--- RESULT ---
+29-27 Anx
+29-28 Supatroop
+29-28 Anx
+
+Anx via split decision.

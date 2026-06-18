@@ -1,0 +1,34 @@
+Danewninja
+
+Strikes Landed 12
+Strikes Thrown 31
+Strikes Absorbed 15
+Accuracy 39%
+Knockdowns 0
+Striking Differential -3
+Takedowns Finished 0
+Takedowns Attempted 1
+Takedown Accuracy 0%
+Takedowns Defended 0
+Times Taken Down 0
+Takedown Defense Rate 0
+Submissions Attempted 0
+
+Dragonguts
+
+Strikes Landed 15
+Strikes Thrown 22
+Strikes Absorbed 12
+Accuracy 68%
+Knockdowns 0
+Striking Differential 3
+Takedowns Finished 0
+Takedowns Attempted 0
+Takedown Accuracy 0
+Takedowns Defended 1
+Times Taken Down 0
+Takedown Defense Rate 100%
+Submissions Attempted 0
+
+----- RESULT ----- 
+Danewninja via decision.

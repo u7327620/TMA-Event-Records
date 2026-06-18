@@ -1,0 +1,36 @@
+Kamara
+
+Strikes Landed 9
+Strikes Thrown 29
+Strikes Absorbed 8
+Accuracy 31%
+Knockdowns 0
+Striking Differential 1
+Takedowns Finished 0
+Takedowns Attempted 0
+Takedown Accuracy 0%
+Takedowns Defended 0
+Times Taken Down 1
+Takedown Defense Rate 0%
+Submissions Attempted 0
+
+Lloyd54321
+
+Strikes Landed 8
+Strikes Thrown 22
+Strikes Absorbed 9
+Accuracy 36%
+Knockdowns 0
+Striking Differential -1
+Takedowns Finished 1
+Takedowns Attempted 1
+Takedown Accuracy 100%
+Takedowns Defended 0
+Times Taken Down 0
+Takedown Defense Rate 0%
+Submissions Attempted 0
+
+--- RESULT ---
+29-28 Lloyd
+29-28 Lloyd
+Lloyd54321 via decision.

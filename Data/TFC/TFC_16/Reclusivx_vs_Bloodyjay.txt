@@ -1,0 +1,36 @@
+Reclusivx
+
+Strikes Landed 14
+Strikes Thrown 26
+Strikes Absorbed 2
+Accuracy 54%
+Knockdowns 0
+Striking Differential 12
+Takedowns Finished 2
+Takedowns Attempted 2
+Takedown Accuracy 100%
+Takedowns Defended 4
+Times Taken Down 0
+Takedown Defense Rate 100%
+Submissions Attempted 2
+
+Bloodyjay
+
+Strikes Landed 2
+Strikes Thrown 13
+Strikes Absorbed 14
+Accuracy 15%
+Knockdowns 0
+Striking Differential -12
+Takedowns Finished 0
+Takedowns Attempted 4
+Takedown Accuracy 0%
+Takedowns Defended 0
+Times Taken Down 2
+Takedown Defense Rate 0%
+Submissions Attempted 0
+
+--- RESULT ---
+29-26 Reclucivx
+29-26 Reclusivx
+Reclusivx via decision.

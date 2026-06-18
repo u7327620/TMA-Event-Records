@@ -1,0 +1,50 @@
+{
+    "Meta": {
+        "Name": "slutmoptiq_vs_2number9",
+        "Event": "TFC_21"
+    },
+    "Records": [],
+    "Result": [
+        "30-27 slutmoptiq",
+        "30-27 slutmoptiq",
+        "slutmoptiq via decision.",
+        "DECISION"
+    ],
+    "slutmoptiq": {
+        "Strikes Landed": 18,
+        "Strikes Thrown": 28,
+        "Accuracy": 64.0,
+        "Strikes Absorbed": 10,
+        "Strikes Defended": 21,
+        "Strike Defense Rate": 68.0,
+        "Knockdowns": 0,
+        "Knocked Down": 0,
+        "Striking Differential": 8,
+        "Takedowns Finished": 1,
+        "Takedowns Attempted": 2,
+        "Takedown Accuracy": 50.0,
+        "Takedowns Defended": 1,
+        "Times Taken Down": 1,
+        "Takedown Defense Rate": 50.0,
+        "Submissions Attempted": 0
+    },
+    "2number9": {
+        "Strikes Landed": 10,
+        "Strikes Thrown": 31,
+        "Accuracy": 32.0,
+        "Strikes Absorbed": 18,
+        "Strikes Defended": 10,
+        "Strike Defense Rate": 36.0,
+        "Knockdowns": 0,
+        "Knocked Down": 0,
+        "Striking Differential": -8,
+        "Takedowns Finished": 1,
+        "Takedowns Attempted": 2,
+        "Takedown Accuracy": 50.0,
+        "Takedowns Defended": 1,
+        "Times Taken Down": 1,
+        "Takedown Defense Rate": 50.0,
+        "Submissions Attempted": 1
+    },
+    "Winner": "slutmoptiq"
+}

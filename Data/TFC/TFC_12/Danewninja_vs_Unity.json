@@ -1,0 +1,44 @@
+{
+    "Meta": {
+        "Name": "Danewninja_vs_Unity",
+        "Event": "TFC_12"
+    },
+    "Records": [],
+    "Result": [
+        "30-27 Unity",
+        "30-27 Unity",
+        "Unity via decision.",
+        "DECISION"
+    ],
+    "Danewninja": {
+        "Strikes Landed": 6,
+        "Strikes Thrown": 26,
+        "Strikes Absorbed": 15,
+        "Accuracy": 23.0,
+        "Knockdowns": 0,
+        "Striking Differential": -9,
+        "Takedowns Finished": 1,
+        "Takedowns Attempted": 1,
+        "Takedown Accuracy": 100.0,
+        "Takedowns Defended": 0,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 0.0,
+        "Submissions Attempted": 0
+    },
+    "Unity": {
+        "Strikes Landed": 15,
+        "Strikes Thrown": 28,
+        "Strikes Absorbed": 6,
+        "Accuracy": 54.0,
+        "Knockdowns": 3,
+        "Striking Differential": 9,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 0,
+        "Takedown Accuracy": 0.0,
+        "Takedowns Defended": 0,
+        "Times Taken Down": 1,
+        "Takedown Defense Rate": 0.0,
+        "Submissions Attempted": 0
+    },
+    "Winner": "unity"
+}

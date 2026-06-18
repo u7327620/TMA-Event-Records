@@ -1,0 +1,52 @@
+{
+    "Meta": {
+        "Name": "Semari_vs_Lullll",
+        "Event": "TFC_22",
+        "random": [
+            "TITLE FIGHT - 5 5000 FRAME ROUNDS"
+        ]
+    },
+    "Records": [],
+    "Result": [
+        "Lullll forfeited after the 2nd round finished.",
+        "Semari via forfeit.",
+        "FORFEIT"
+    ],
+    "Semari": {
+        "Strikes Landed": 40,
+        "Strikes Thrown": 88,
+        "Accuracy": 45.0,
+        "Strikes Absorbed": 31,
+        "Strikes Defended": 43,
+        "Strike Defense Rate": 58.0,
+        "Knockdowns": 0,
+        "Knocked Down": 0,
+        "Striking Differential": 9,
+        "Takedowns Finished": 2,
+        "Takedowns Attempted": 7,
+        "Takedown Accuracy": 29.0,
+        "Takedowns Defended": 4,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 100.0,
+        "Submissions Attempted": 0
+    },
+    "Lullll": {
+        "Strikes Landed": 31,
+        "Strikes Thrown": 74,
+        "Accuracy": 42.0,
+        "Strikes Absorbed": 40,
+        "Strikes Defended": 48,
+        "Strike Defense Rate": 55.0,
+        "Knockdowns": 0,
+        "Knocked Down": 0,
+        "Striking Differential": -9,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 4,
+        "Takedown Accuracy": 0.0,
+        "Takedowns Defended": 5,
+        "Times Taken Down": 2,
+        "Takedown Defense Rate": 71.0,
+        "Submissions Attempted": 0
+    },
+    "Winner": "semari"
+}

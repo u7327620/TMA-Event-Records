@@ -1,0 +1,44 @@
+{
+    "Meta": {
+        "Name": "bossyninja_vs_Fuuji",
+        "Event": "TFC_6"
+    },
+    "Records": [],
+    "Result": [
+        "29-27 bossyninja",
+        "29-28 bossyninja",
+        "bossyninja via decision.",
+        "DECISION"
+    ],
+    "bossyninja": {
+        "Strikes Landed": 12,
+        "Strikes Thrown": 19,
+        "Strikes Absorbed": 5,
+        "Accuracy": 63.0,
+        "Knockdowns": 0,
+        "Striking Differential": 7,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 0,
+        "Takedown Accuracy": 0.0,
+        "Takedowns Defended": 0,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 0.0,
+        "Submissions Attempted": 0
+    },
+    "fuuji": {
+        "Strikes Landed": 5,
+        "Strikes Thrown": 28,
+        "Strikes Absorbed": 12,
+        "Accuracy": 18.0,
+        "Knockdowns": 1,
+        "Striking Differential": -7,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 0,
+        "Takedown Accuracy": 0.0,
+        "Takedowns Defended": 0,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 0.0,
+        "Submissions Attempted": 0
+    },
+    "Winner": "bossyninja"
+}

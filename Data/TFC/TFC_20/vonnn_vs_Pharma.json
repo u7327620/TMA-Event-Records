@@ -1,0 +1,45 @@
+{
+    "Meta": {
+        "Name": "vonnn_vs_Pharma",
+        "Event": "TFC_20"
+    },
+    "Records": [],
+    "Result": [
+        "30-27 Pharma",
+        "30-27 Pharma",
+        "30-27 Pharma",
+        "Pharma via unanimous decision.",
+        "DECISION"
+    ],
+    "vonnn": {
+        "Strikes Landed": 9,
+        "Strikes Thrown": 23,
+        "Strikes Absorbed": 18,
+        "Accuracy": 39.0,
+        "Knockdowns": 0,
+        "Striking Differential": -9,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 1,
+        "Takedown Accuracy": 0.0,
+        "Takedowns Defended": 1,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 100.0,
+        "Submissions Attempted": 0
+    },
+    "Pharma": {
+        "Strikes Landed": 18,
+        "Strikes Thrown": 37,
+        "Strikes Absorbed": 9,
+        "Accuracy": 49.0,
+        "Knockdowns": 0,
+        "Striking Differential": 9,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 1,
+        "Takedown Accuracy": 0.0,
+        "Takedowns Defended": 1,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 100.0,
+        "Submissions Attempted": 0
+    },
+    "Winner": "pharma"
+}

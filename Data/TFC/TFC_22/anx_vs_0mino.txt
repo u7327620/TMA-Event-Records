@@ -1,0 +1,44 @@
+3 2150 FRAME ROUNDS
+-------------------
+
+anx
+
+Strikes Landed 9
+Strikes Thrown 17
+Accuracy 53%
+Strikes Absorbed 6
+Strikes Defended 12
+Strike Defense Rate 66%
+Knockdowns 0
+Knocked Down 0
+Striking Differential 3
+Takedowns Finished 0
+Takedowns Attempted 0
+Takedown Accuracy 0%
+Takedowns Defended 0
+Times Taken Down 0
+Takedown Defense Rate 0%
+Submissions Attempted 0
+
+0mino
+
+Strikes Landed 6
+Strikes Thrown 18
+Accuracy 33%
+Strikes Absorbed 9
+Strikes Defended 8
+Strike Defense Rate 47%
+Knockdowns 0
+Knocked Down 0
+Striking Differential -3
+Takedowns Finished 0
+Takedowns Attempted 0
+Takedown Accuracy 0%
+Takedowns Defended 0
+Times Taken Down 0
+Takedown Defense Rate 0%
+Submissions Attempted 0
+
+--- RESULT --- 
+0mino refused to continue after the 1st round.
+Anx via forfeit.

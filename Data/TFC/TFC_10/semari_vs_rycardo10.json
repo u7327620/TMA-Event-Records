@@ -1,0 +1,44 @@
+{
+    "Meta": {
+        "Name": "semari_vs_rycardo10",
+        "Event": "TFC_10"
+    },
+    "Records": [],
+    "Result": [
+        "29-28 rycardo10",
+        "30-27 semari",
+        "30-27 rycardo10",
+        "Undocumented.",
+        "UNDOCUMENTED"
+    ],
+    "semari": {
+        "Strikes Landed": 0,
+        "Strikes Thrown": 0,
+        "Strikes Absorbed": 0,
+        "Accuracy": 0.0,
+        "Knockdowns": 0,
+        "Striking Differential": 0,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 0,
+        "Takedown Accuracy": 0.0,
+        "Takedowns Defended": 0,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 0.0,
+        "Submissions Attempted": 0
+    },
+    "rycardo10": {
+        "Strikes Landed": 0,
+        "Strikes Thrown": 0,
+        "Strikes Absorbed": 0,
+        "Accuracy": 0.0,
+        "Knockdowns": 0,
+        "Striking Differential": 0,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 0,
+        "Takedown Accuracy": 0.0,
+        "Takedowns Defended": 0,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 0.0,
+        "Submissions Attempted": 0
+    }
+}

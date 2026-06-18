@@ -1,0 +1,36 @@
+Cryink
+
+Strikes Landed 19
+Strikes Thrown 33
+Strikes Absorbed 12
+Accuracy 58%
+Knockdowns 0
+Striking Differential 7
+Takedowns Finished 1
+Takedowns Attempted 2
+Takedown Accuracy 50%
+Takedowns Defended 0
+Times Taken Down 1
+Takedown Defense Rate 0%
+Submissions Attempted 0
+
+Renixxx
+
+Strikes Landed 12
+Strikes Thrown 31
+Strikes Absorbed 19
+Accuracy 39%
+Knockdowns 0
+Striking Differential -7
+Takedowns Finished 1
+Takedowns Attempted 1
+Takedown Accuracy 100%
+Takedowns Defended 1
+Times Taken Down 1
+Takedown Defense Rate 50%
+Submissions Attempted 0
+
+--- RESULT --- 
+38-37 Cryink
+38-37 Cryink
+Cryink via decision.

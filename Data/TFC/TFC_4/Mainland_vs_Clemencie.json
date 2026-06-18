@@ -1,0 +1,45 @@
+{
+    "Meta": {
+        "Name": "Mainland_vs_Clemencie",
+        "Event": "TFC_4"
+    },
+    "Records": [],
+    "Result": [
+        "30-27 mainland",
+        "29-28 mainland",
+        "29-28 mainland",
+        "mainland via decision.",
+        "DECISION"
+    ],
+    "Mainland": {
+        "Strikes Landed": 12,
+        "Strikes Thrown": 23,
+        "Strikes Absorbed": 6,
+        "Accuracy": 52.0,
+        "Knockdowns": 1,
+        "Striking Differential": 6,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 0,
+        "Takedown Accuracy": 0.0,
+        "Takedowns Defended": 0,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 0.0,
+        "Submissions Attempted": 0
+    },
+    "Clemencie": {
+        "Strikes Landed": 6,
+        "Strikes Thrown": 24,
+        "Strikes Absorbed": 12,
+        "Accuracy": 25.0,
+        "Knockdowns": 0,
+        "Striking Differential": -6,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 0,
+        "Takedown Accuracy": 0.0,
+        "Takedowns Defended": 0,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 0.0,
+        "Submissions Attempted": 0
+    },
+    "Winner": "mainland"
+}

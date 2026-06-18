@@ -1,0 +1,34 @@
+yahummy
+
+Strikes Landed 11
+Strikes Thrown 20
+Strikes Absorbed 4
+Accuracy 55%
+Knockdowns 1
+Striking Differential 7
+Takedowns Finished 1
+Takedowns Attempted 1
+Takedown Accuracy 100%
+Takedowns Defended 1
+Times Taken Down 0
+Takedown Defense Rate 0
+Submissions Attempted 0
+
+danewninja
+
+Strikes Landed 4
+Strikes Thrown 22
+Strikes Absorbed 11
+Accuracy 18%
+Knockdowns 0
+Striking Differential -7
+Takedowns Finished 0
+Takedowns Attempted 1
+Takedown Accuracy 0%
+Takedowns Defended 0
+Times Taken Down 1
+Takedown Defense Rate 0
+Submissions Attempted 0
+
+----- RESULT ----- 
+yahummy via decision.

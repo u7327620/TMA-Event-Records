@@ -1,0 +1,45 @@
+{
+    "Meta": {
+        "Name": "Semari_vs_Chev",
+        "Event": "TFC_18"
+    },
+    "Records": [],
+    "Result": [
+        "Chev 29-28",
+        "Semari 29-28",
+        "Semari 29-28",
+        "Semari via split decision.",
+        "DECISION"
+    ],
+    "Semari": {
+        "Strikes Landed": 15,
+        "Strikes Thrown": 25,
+        "Strikes Absorbed": 9,
+        "Accuracy": 60.0,
+        "Knockdowns": 0,
+        "Striking Differential": 6,
+        "Takedowns Finished": 1,
+        "Takedowns Attempted": 3,
+        "Takedown Accuracy": 33.0,
+        "Takedowns Defended": 2,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 100.0,
+        "Submissions Attempted": 0
+    },
+    "Chev": {
+        "Strikes Landed": 9,
+        "Strikes Thrown": 25,
+        "Strikes Absorbed": 15,
+        "Accuracy": 36.0,
+        "Knockdowns": 1,
+        "Striking Differential": -6,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 2,
+        "Takedown Accuracy": 0.0,
+        "Takedowns Defended": 2,
+        "Times Taken Down": 1,
+        "Takedown Defense Rate": 66.0,
+        "Submissions Attempted": 0
+    },
+    "Winner": "semari"
+}

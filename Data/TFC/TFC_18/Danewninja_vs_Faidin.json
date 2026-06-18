@@ -1,0 +1,45 @@
+{
+    "Meta": {
+        "Name": "Danewninja_vs_Faidin",
+        "Event": "TFC_18"
+    },
+    "Records": [],
+    "Result": [
+        "29-28 Faidin",
+        "29-28 Faidin",
+        "29-28 Faidin",
+        "Faidin via decision.",
+        "DECISION"
+    ],
+    "Danewninja": {
+        "Strikes Landed": 16,
+        "Strikes Thrown": 38,
+        "Strikes Absorbed": 17,
+        "Accuracy": 42.0,
+        "Knockdowns": 0,
+        "Striking Differential": -1,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 0,
+        "Takedown Accuracy": 0.0,
+        "Takedowns Defended": 0,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 0.0,
+        "Submissions Attempted": 0
+    },
+    "Faidin": {
+        "Strikes Landed": 17,
+        "Strikes Thrown": 38,
+        "Strikes Absorbed": 16,
+        "Accuracy": 45.0,
+        "Knockdowns": 0,
+        "Striking Differential": 1,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 0,
+        "Takedown Accuracy": 0.0,
+        "Takedowns Defended": 0,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 0.0,
+        "Submissions Attempted": 0
+    },
+    "Winner": "faidin"
+}

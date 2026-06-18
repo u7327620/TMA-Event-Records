@@ -1,0 +1,38 @@
+only 1st round 
+
+Fedoraman64
+
+Strikes Landed 15
+Strikes Thrown 28
+Strikes Absorbed 5
+Accuracy 54%
+Knockdowns 0
+Striking Differential 10
+Takedowns Finished 0
+Takedowns Attempted 0
+Takedown Accuracy 0%
+Takedowns Defended 4
+Times Taken Down 1
+Takedown Defense Rate 80%
+Submissions Attempted 0
+
+nasa
+
+Strikes Landed 5
+Strikes Thrown 9
+Strikes Absorbed 15
+Accuracy 56%
+Knockdowns 0
+Striking Differential -10
+Takedowns Finished 1
+Takedowns Attempted 5
+Takedown Accuracy 20%
+Takedowns Defended 0
+Times Taken Down 0
+Takedown Defense Rate 0%
+Submissions Attempted 2
+
+--- RESULT ---
+29-28 Fedoraman64
+29-28 Fedoraman64
+Fedoraman64 via decision.

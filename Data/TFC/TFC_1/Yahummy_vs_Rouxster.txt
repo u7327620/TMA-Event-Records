@@ -1,0 +1,37 @@
+TITLE FIGHT
+-----------
+
+Rouxster
+
+Strikes Landed 9
+Strikes Thrown 38
+Strikes Absorbed 12
+Accuracy 24%
+Knockdowns 0
+Striking Differential -3
+Takedowns Finished 2
+Takedowns Attempted 4
+Takedown Accuracy 50%
+Takedowns Defended 0
+Times Taken Down 0
+Takedown Defense Rate 0
+Submissions Attempted 0
+
+Yahummy
+
+Strikes Landed 12
+Strikes Thrown 33
+Strikes Absorbed 9
+Accuracy 36%
+Knockdowns 0
+Striking Differential 3
+Takedowns Finished 0
+Takedowns Attempted 0 
+Takedown Accuracy 0
+Takedowns Defended 2
+Times Taken Down 2
+Takedown Defense Rate 50%
+Submissions Attempted 0
+
+----- RESULT ----- 
+Rouxster via decision.

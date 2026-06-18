@@ -1,0 +1,44 @@
+{
+    "Meta": {
+        "Name": "Sparturnha_vs_Hexhill",
+        "Event": "TFC_13"
+    },
+    "Records": [],
+    "Result": [
+        "they fucking dirtbiked for the 3rd round.",
+        "Undocumented.",
+        "UNDOCUMENTED"
+    ],
+    "Sparturnha": {
+        "Strikes Landed": 7,
+        "Strikes Thrown": 18,
+        "Strikes Absorbed": 6,
+        "Accuracy": 39.0,
+        "Knockdowns": 0,
+        "Striking Differential": 1,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 0,
+        "Takedown Accuracy": 0.0,
+        "Takedowns Defended": 0,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 0.0,
+        "Submissions Attempted": 0,
+        "Hugs": 1
+    },
+    "Hexhill": {
+        "Strikes Landed": 6,
+        "Strikes Thrown": 14,
+        "Strikes Absorbed": 7,
+        "Accuracy": 43.0,
+        "Knockdowns": 0,
+        "Striking Differential": -1,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 0,
+        "Takedown Accuracy": 0.0,
+        "Takedowns Defended": 0,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 0.0,
+        "Submissions Attempted": 0,
+        "Hugs": 1
+    }
+}

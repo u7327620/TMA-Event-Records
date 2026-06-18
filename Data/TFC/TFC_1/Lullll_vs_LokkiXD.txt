@@ -1,0 +1,40 @@
+Lullll
+
+Strikes Landed 8
+Strikes Thrown 13
+Accuracy 62%
+Strikes Absorbed 1
+Strikes Defended 10
+Strike Defense Rate 92%
+Knockdowns 0
+Knocked Down 0
+Striking Differential 7
+Takedowns Finished 0
+Takedowns Attempted 0
+Takedown Accuracy 0
+Takedowns Defended 2
+Times Taken Down 1
+Takedown Defense Rate 66%
+Submissions Attempted 0
+
+LokkiXD
+
+Strikes Landed 1
+Strikes Thrown 13
+Accuracy 8%
+Strikes Absorbed 8
+Strikes Defended 5
+Strike Defense Rate 38%
+Knockdowns 0
+Knocked Down 0
+Striking Differential -7
+Takedowns Finished 1
+Takedowns Attempted 3
+Takedown Accuracy 33%
+Takedowns Defended 0
+Times Taken Down 0
+Takedown Defense Rate 0
+Submissions Attempted 0
+
+----- RESULT ----- 
+LokkiXD via decision.

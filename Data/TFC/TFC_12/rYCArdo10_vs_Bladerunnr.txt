@@ -1,0 +1,49 @@
+5 ROUND FIGHT
+-------------
+
+rYCArdo10
+
+Strikes Landed 26
+Strikes Thrown 42
+Strikes Absorbed 11
+Accuracy 62%
+Knockdowns 0
+Striking Differential 15
+Takedowns Finished 0
+Takedowns Attempted 0
+Takedown Accuracy 0%
+Takedowns Defended 6
+Times Taken Down 0
+Takedown Defense Rate 100%
+Submissions Attempted 0
+
+Bladerunnr
+
+Strikes Landed 11
+Strikes Thrown 37
+Strikes Absorbed 26
+Accuracy 30%
+Knockdowns 0
+Striking Differential -15
+Takedowns Finished 0
+Takedowns Attempted 6
+Takedown Accuracy 0%
+Takedowns Defended 0
+Times Taken Down 0
+Takedown Defense Rate 0%
+Submissions Attempted 1
+BLADEBAR 1
+
+
+
+
+
+--- RECORDS ---
+-Latest submission in a fight-
+-Latest submission in a 5 round fight-
+-Latest finish in a 5 round fight-
+-Latest finish in a fight-
+
+--- RESULT ---
+in the 5th round with 580 frames surpassed
+Bladerunnr via submission.

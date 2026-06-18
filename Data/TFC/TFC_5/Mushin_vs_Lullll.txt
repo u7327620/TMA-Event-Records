@@ -1,0 +1,44 @@
+Mushin
+
+Strikes Landed 13
+Strikes Thrown 27
+Accuracy 48%
+Strikes Absorbed 13
+Strikes Defended 15
+Strike Defense Rate 54%
+Knockdowns 1
+Knocked Down 0
+Striking Differential 0
+Takedowns Finished 0
+Takedowns Attempted 0
+Takedown Accuracy 0%
+Takedowns Defended 0
+Times Taken Down 0
+Takedown Defense Rate 0%
+Submissions Attempted 0
+
+Lullll
+
+Strikes Landed 13
+Strikes Thrown 28
+Accuracy 46%
+Strikes Absorbed 13
+Strikes Defended 14
+Strike Defense Rate 52%
+Knockdowns 0
+Knocked Down 1
+Striking Differential 0
+Takedowns Finished 0
+Takedowns Attempted 0
+Takedown Accuracy 0%
+Takedowns Defended 0
+Times Taken Down 0
+Takedown Defense Rate 0%
+Submissions Attempted 0
+
+
+----- RESULT ----- 
+29-28 Mushin
+29-28 Lullll
+29-28 Lullll
+Lullll via decision.

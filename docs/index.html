@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>TMA Event Records</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="shell">
+      <nav class="page-switch" aria-label="Page selection">
+        <a class="page-link is-active" href="./index.html">Browse</a>
+        <a class="page-link" href="./table.html">Table</a>
+      </nav>
+      <header class="hero">
+        <div>
+          <p class="eyebrow">TMA Event Records</p>
+          <h1>Player lookup across the full TFC archive.</h1>
+          <p class="lede">
+            Search any player, review their record, and inspect fight-by-fight stats from the JSON dataset.
+          </p>
+        </div>
+        <div class="hero-meta">
+          <div class="stat-chip">
+            <span class="stat-chip-label">Players</span>
+            <strong id="player-count">-</strong>
+          </div>
+          <div class="stat-chip">
+            <span class="stat-chip-label">Events</span>
+            <strong id="event-count">-</strong>
+          </div>
+        </div>
+      </header>
+
+      <main class="layout">
+        <section class="panel search-panel">
+          <div class="mode-switch" role="tablist" aria-label="Browse mode">
+            <button id="mode-players" class="mode-button is-active" type="button" data-mode="players">Players</button>
+            <button id="mode-events" class="mode-button" type="button" data-mode="events">TFC Events</button>
+          </div>
+          <label id="search-label" class="search-label" for="player-search">Find a player</label>
+          <div class="search-row">
+            <input
+              id="player-search"
+              type="search"
+              placeholder="Search by player name"
+              autocomplete="off"
+              spellcheck="false"
+            />
+            <button id="clear-search" type="button" aria-label="Clear search">Clear</button>
+          </div>
+          <div id="player-filters" class="filter-grid">
+            <label class="filter-field">
+              <span>Rank By</span>
+              <select id="player-sort-metric"></select>
+            </label>
+            <label class="filter-field">
+              <span>Order</span>
+              <select id="player-sort-order">
+                <option value="desc">Highest first</option>
+                <option value="asc">Lowest first</option>
+              </select>
+            </label>
+          </div>
+          <div id="search-status" class="search-status">Loading player index...</div>
+          <div id="search-results" class="search-results"></div>
+        </section>
+
+        <section class="panel summary-panel">
+          <div id="empty-state" class="empty-state">
+            <h2>Select a player</h2>
+            <p>Choose a name from the search results to load career totals, average fight stats, and bout history.</p>
+          </div>
+
+          <div id="player-view" class="player-view hidden">
+            <div class="player-header">
+              <div>
+                <p class="eyebrow">Player Summary</p>
+                <h2 id="player-name"></h2>
+              </div>
+              <div class="record-badge">
+                <span id="player-record"></span>
+                <small id="player-events"></small>
+              </div>
+            </div>
+
+            <div class="summary-grid">
+              <article class="metric-card">
+                <span>Total Fights</span>
+                <strong id="metric-fights">-</strong>
+              </article>
+              <article class="metric-card">
+                <span>Wins</span>
+                <strong id="metric-wins">-</strong>
+              </article>
+              <article class="metric-card">
+                <span>Losses</span>
+                <strong id="metric-losses">-</strong>
+              </article>
+              <article class="metric-card">
+                <span>Win Rate</span>
+                <strong id="metric-win-rate">-</strong>
+              </article>
+            </div>
+
+            <section class="stats-section">
+              <div class="section-heading">
+                <h3>Overall player stats</h3>
+                <p id="stats-caption"></p>
+              </div>
+              <div id="stats-grid" class="stats-grid"></div>
+            </section>
+
+            <section class="bouts-section">
+              <div class="section-heading">
+                <h3>Bout history</h3>
+                <p>Most recent TFC events first.</p>
+              </div>
+              <div id="bouts-list" class="bouts-list"></div>
+              <div id="bout-detail" class="bout-detail hidden">
+                <div class="section-heading">
+                  <h3 id="bout-detail-title">Match Stats</h3>
+                  <p id="bout-detail-meta"></p>
+                </div>
+                <div id="bout-detail-grid" class="bout-detail-grid"></div>
+              </div>
+            </section>
+          </div>
+
+          <div id="event-view" class="event-view hidden">
+            <div class="player-header">
+              <div>
+                <p class="eyebrow">TFC Event</p>
+                <h2 id="event-name"></h2>
+              </div>
+              <div class="record-badge">
+                <span id="event-bouts"></span>
+                <small id="event-players"></small>
+              </div>
+            </div>
+
+            <div class="summary-grid">
+              <article class="metric-card">
+                <span>Total Bouts</span>
+                <strong id="event-metric-bouts">-</strong>
+              </article>
+              <article class="metric-card">
+                <span>Unique Players</span>
+                <strong id="event-metric-players">-</strong>
+              </article>
+              <article class="metric-card">
+                <span>Finishes</span>
+                <strong id="event-metric-finishes">-</strong>
+              </article>
+              <article class="metric-card">
+                <span>Decisions</span>
+                <strong id="event-metric-decisions">-</strong>
+              </article>
+            </div>
+
+            <section class="stats-section">
+              <div class="section-heading">
+                <h3>Overall TFC stats</h3>
+                <p id="event-stats-caption"></p>
+              </div>
+              <div id="event-stats-grid" class="stats-grid"></div>
+            </section>
+
+            <section class="bouts-section">
+              <div class="section-heading">
+                <h3>Event card</h3>
+                <p>All recorded matchups in this TFC event.</p>
+              </div>
+              <div id="event-bouts-list" class="bouts-list"></div>
+            </section>
+          </div>
+        </section>
+      </main>
+    </div>
+
+    <script src="./app.js" defer></script>
+  </body>
+</html>

@@ -1,0 +1,44 @@
+{
+    "Meta": {
+        "Name": "Danewninja_vs_Mainland",
+        "Event": "TFC_16"
+    },
+    "Records": [],
+    "Result": [
+        "29-28 Danewninja",
+        "29-28 Danewninja",
+        "Danewninja via decision.",
+        "DECISION"
+    ],
+    "Danewninja": {
+        "Strikes Landed": 21,
+        "Strikes Thrown": 39,
+        "Strikes Absorbed": 14,
+        "Accuracy": 54.0,
+        "Knockdowns": 1,
+        "Striking Differential": 7,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 0,
+        "Takedown Accuracy": 0.0,
+        "Takedowns Defended": 0,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 0.0,
+        "Submissions Attempted": 0
+    },
+    "Mainland": {
+        "Strikes Landed": 14,
+        "Strikes Thrown": 32,
+        "Strikes Absorbed": 21,
+        "Accuracy": 44.0,
+        "Knockdowns": 0,
+        "Striking Differential": -7,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 0,
+        "Takedown Accuracy": 0.0,
+        "Takedowns Defended": 0,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 0.0,
+        "Submissions Attempted": 0
+    },
+    "Winner": "danewninja"
+}

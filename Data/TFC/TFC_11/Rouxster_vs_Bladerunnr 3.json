@@ -1,0 +1,47 @@
+{
+    "Meta": {
+        "Name": "Rouxster_vs_Bladerunnr 3",
+        "Event": "TFC_11",
+        "random": [
+            "5 ROUND FIGHT"
+        ]
+    },
+    "Records": [],
+    "Result": [
+        "48-47 Bladerunnr",
+        "48-47 Bladerunnr",
+        "Bladerunnr via decision.",
+        "DECISION"
+    ],
+    "Rouxster": {
+        "Strikes Landed": 12,
+        "Strikes Thrown": 28,
+        "Strikes Absorbed": 19,
+        "Accuracy": 43.0,
+        "Knockdowns": 0,
+        "Striking Differential": -7,
+        "Takedowns Finished": 1,
+        "Takedowns Attempted": 7,
+        "Takedown Accuracy": 14.0,
+        "Takedowns Defended": 1,
+        "Times Taken Down": 1,
+        "Takedown Defense Rate": 50.0,
+        "Submissions Attempted": 1
+    },
+    "Bladerunnr": {
+        "Strikes Landed": 19,
+        "Strikes Thrown": 28,
+        "Strikes Absorbed": 12,
+        "Accuracy": 68.0,
+        "Knockdowns": 0,
+        "Striking Differential": 7,
+        "Takedowns Finished": 1,
+        "Takedowns Attempted": 2,
+        "Takedown Accuracy": 50.0,
+        "Takedowns Defended": 6,
+        "Times Taken Down": 1,
+        "Takedown Defense Rate": 86.0,
+        "Submissions Attempted": 1
+    },
+    "Winner": "bladerunnr"
+}

@@ -1,0 +1,36 @@
+jouka
+
+Strikes Landed 13
+Strikes Thrown 36
+Strikes Absorbed 12
+Accuracy 36%
+Knockdowns 0
+Striking Differential 1
+Takedowns Finished 0
+Takedowns Attempted 4
+Takedown Accuracy 0%
+Takedowns Defended 0
+Times Taken Down 0
+Takedown Defense Rate 0%
+Submissions Attempted 0
+
+raiku
+
+Strikes Landed 12
+Strikes Thrown 39
+Strikes Absorbed 13
+Accuracy 31%
+Knockdowns 1
+Striking Differential -1
+Takedowns Finished 0
+Takedowns Attempted 0
+Takedown Accuracy 0%
+Takedowns Defended 4
+Times Taken Down 0
+Takedown Defense Rate 100%
+Submissions Attempted 0
+
+--- RESULT ---
+29-28 jouka
+29-28 jouka
+jouka via decision.

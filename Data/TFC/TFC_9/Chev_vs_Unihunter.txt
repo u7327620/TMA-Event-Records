@@ -1,0 +1,36 @@
+unihunter
+
+Strikes Landed 10
+Strikes Thrown 25
+Strikes Absorbed 9
+Accuracy 40%
+Knockdowns 0
+Striking Differential 1
+Takedowns Finished 0
+Takedowns Attempted 0
+Takedown Accuracy 0
+Takedowns Defended 0
+Times Taken Down 1
+Takedown Defense Rate 0%
+Submissions Attempted 0
+
+chev
+
+Strikes Landed 9
+Strikes Thrown 27
+Strikes Absorbed 10
+Accuracy 33%
+Knockdowns 1
+Striking Differential -1
+Takedowns Finished 1
+Takedowns Attempted 1
+Takedown Accuracy 100%
+Takedowns Defended 0
+Times Taken Down 0
+Takedown Defense Rate 0
+Submissions Attempted 1
+
+---- RESULT ----
+29-28 chev
+29-28 chev
+chev via decision.

@@ -1,0 +1,36 @@
+Kapacbbbb
+
+Strikes Landed 8
+Strikes Thrown 25
+Strikes Absorbed 7
+Accuracy 32%
+Knockdowns 0
+Striking Differential 1
+Takedowns Finished 2
+Takedowns Attempted 3
+Takedown Accuracy 66%
+Takedowns Defended 0
+Times Taken Down 0
+Takedown Defense Rate 0%
+Submissions Attempted 0
+
+Shine
+
+Strikes Landed 7
+Strikes Thrown 17
+Strikes Absorbed 8
+Accuracy 41%
+Knockdowns 0
+Striking Differential -1
+Takedowns Finished 0
+Takedowns Attempted 0
+Takedown Accuracy 0%
+Takedowns Defended 1
+Times Taken Down 2
+Takedown Defense Rate 33%
+Submissions Attempted 0
+
+--- RESULT ---
+29-29 Draw
+29-29 Draw
+Majority draw.

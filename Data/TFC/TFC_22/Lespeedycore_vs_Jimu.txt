@@ -1,0 +1,41 @@
+Lespeedycore
+
+Strikes Landed 3
+Strikes Thrown 9
+Accuracy 33%
+Strikes Absorbed 1
+Strikes Defended 6
+Strike Defense Rate 86%
+Knockdowns 0
+Knocked Down 0
+Striking Differential 2
+Takedowns Finished 0
+Takedowns Attempted 0
+Takedown Accuracy 0%
+Takedowns Defended 1
+Times Taken Down 0
+Takedown Defense Rate 100%
+Submissions Attempted 0
+
+Jimu
+
+Strikes Landed 1
+Strikes Thrown 7
+Accuracy 14%
+Strikes Absorbed 3
+Strikes Defended 6
+Strike Defense Rate 66%
+Knockdowns 0
+Knocked Down 0
+Striking Differential -2
+Takedowns Finished 0
+Takedowns Attempted 1
+Takedown Accuracy 0%
+Takedowns Defended 0
+Times Taken Down 0
+Takedown Defense Rate 0%
+Submissions Attempted 0
+
+--- RESULT --- 
+Jimu refused to continue after the first round.
+Lespeedycore via forfeit.

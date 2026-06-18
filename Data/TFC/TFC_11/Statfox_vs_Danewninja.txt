@@ -1,0 +1,36 @@
+Danewninja
+
+Strikes Landed 10
+Strikes Thrown 34
+Strikes Absorbed 15
+Accuracy 29%
+Knockdowns 0
+Striking Differential -5
+Takedowns Finished 0
+Takedowns Attempted 1
+Takedown Accuracy 0
+Takedowns Defended 2
+Times Taken Down 0
+Takedown Defense Rate 100%
+Submissions Attempted 0
+
+Statfox
+
+Strikes Landed 15
+Strikes Thrown 25
+Strikes Absorbed 10
+Accuracy 60%
+Knockdowns 0
+Striking Differential 5
+Takedowns Finished 0
+Takedowns Attempted 2
+Takedown Accuracy 0%
+Takedowns Defended 1
+Times Taken Down 0
+Takedown Defense Rate 100%
+Submissions Attempted 0
+
+--- RESULT --- 
+30-27 Statfox
+30-27 Statfox
+Statfox via decision.

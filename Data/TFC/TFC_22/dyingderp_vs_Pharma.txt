@@ -1,0 +1,45 @@
+3 2000 FRAME ROUNDS
+-------------------
+
+dyingderp
+
+Strikes Landed 13
+Strikes Thrown 43
+Accuracy 30%
+Strikes Absorbed 14
+Strikes Defended 22
+Strike Defense Rate 61%
+Knockdowns 0
+Knocked Down 0
+Striking Differential -1
+Takedowns Finished 1
+Takedowns Attempted 3
+Takedown Accuracy 33%
+Takedowns Defended 4
+Times Taken Down 2
+Takedown Defense Rate 66%
+Submissions Attempted 0
+
+Pharma
+
+Strikes Landed 14
+Strikes Thrown 36
+Accuracy 39%
+Strikes Absorbed 13
+Strikes Defended 30
+Strike Defense Rate 70%
+Knockdowns 0
+Knocked Down 0
+Striking Differential 1
+Takedowns Finished 2
+Takedowns Attempted 6
+Takedown Accuracy 33%
+Takedowns Defended 2
+Times Taken Down 1
+Takedown Defense Rate 66%
+Submissions Attempted 1
+
+--- RESULT --- 
+30-27 DyingDerp
+29-28 DyingDerp
+DyingDerp via decision.

@@ -1,0 +1,43 @@
+Cryink
+
+Strikes Landed 9
+Strikes Thrown 24
+Accuracy 37%
+Strikes Absorbed 9
+Strikes Defended 16
+Strike Defense Rate 64%
+Knockdowns 0
+Knocked Down 0
+Striking Differential 0
+Takedowns Finished 0
+Takedowns Attempted 0
+Takedown Accuracy 0%
+Takedowns Defended 1
+Times Taken Down 0
+Takedown Defense Rate 100%
+Submissions Attempted 0
+
+Nasa
+
+Strikes Landed 9
+Strikes Thrown 25
+Accuracy 36%
+Strikes Absorbed 9
+Strikes Defended 15
+Strike Defense Rate 63%
+Knockdowns 0
+Knocked Down 0
+Striking Differential 0
+Takedowns Finished 0
+Takedowns Attempted 1
+Takedown Accuracy 0%
+Takedowns Defended 0
+Times Taken Down 0
+Takedown Defense Rate 0
+Submissions Attempted 0%
+
+--- RESULT --- 
+29-28 Nasa
+30-27 Cryink
+29-28 Cryink
+Cryink via split decision.

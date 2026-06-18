@@ -1,0 +1,38 @@
+ninjabee
+
+Strikes Landed 6
+Strikes Thrown 20
+Strikes Absorbed 13
+Accuracy 30%
+Knockdowns 0
+Striking Differential -7
+Takedowns Finished 0
+Takedowns Attempted 4
+Takedown Accuracy 0%
+Takedowns Defended 4
+Times Taken Down 0
+Takedown Defense Rate 100%
+Submissions Attempted 1
+
+noob02s
+
+Strikes Landed 13
+Strikes Thrown 26
+Strikes Absorbed 6
+Accuracy 50%
+Knockdowns 0
+Striking Differential 7
+Takedowns Finished 0
+Takedowns Attempted 4
+Takedown Accuracy 0%
+Takedowns Defended 4
+Times Taken Down 0
+Takedown Defense Rate 100%
+Submissions Attempted 1
+
+probably the most point deductions in a match? will (probably) verify later
+
+--- RESULT ---
+29-26 noob02s (Point taken from Ninjabee in round 1 and round 3 for cheesing.)
+30-24 noob02s (two points deducted from ninjabee in R1 for cheese at frame 800 and 640, one point deducted from ninjabee in R3 for an unrealistic groin lift at 340)
+noob02s via decision.

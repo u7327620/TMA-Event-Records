@@ -1,0 +1,37 @@
+Exzplode
+
+Strikes Landed 10
+Strikes Thrown 32
+Strikes Absorbed 12
+Accuracy 31%
+Knockdowns 0
+Striking Differential -2
+Takedowns Finished 0
+Takedowns Attempted 0
+Takedown Accuracy 0%
+Takedowns Defended 2
+Times Taken Down 0
+Takedown Defense Rate 100%
+Submissions Attempted 0
+
+sushiroll
+
+Strikes Landed 12
+Strikes Thrown 22
+Strikes Absorbed 10
+Accuracy 55%
+Knockdowns 0
+Striking Differential 2
+Takedowns Finished 0
+Takedowns Attempted 2
+Takedown Accuracy 0%
+Takedowns Defended 0
+Times Taken Down 0
+Takedown Defense Rate 0%
+Submissions Attempted 0
+
+--- RESULT --- 
+29-28 Exzplode
+29-29 draw
+29-29 draw
+Majority draw.

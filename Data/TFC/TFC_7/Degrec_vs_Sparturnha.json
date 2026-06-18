@@ -1,0 +1,44 @@
+{
+    "Meta": {
+        "Name": "Degrec_vs_Sparturnha",
+        "Event": "TFC_7"
+    },
+    "Records": [],
+    "Result": [
+        "30-27 Sparturnha",
+        "30-27 Sparturnha",
+        "Sparturnha via decision.",
+        "DECISION"
+    ],
+    "Degrec": {
+        "Strikes Landed": 11,
+        "Strikes Thrown": 28,
+        "Strikes Absorbed": 26,
+        "Accuracy": 39.0,
+        "Knockdowns": 0,
+        "Striking Differential": -15,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 3,
+        "Takedown Accuracy": 0.0,
+        "Takedowns Defended": 1,
+        "Times Taken Down": 1,
+        "Takedown Defense Rate": 50.0,
+        "Submissions Attempted": 0
+    },
+    "Sparturnha": {
+        "Strikes Landed": 26,
+        "Strikes Thrown": 43,
+        "Strikes Absorbed": 11,
+        "Accuracy": 60.0,
+        "Knockdowns": 0,
+        "Striking Differential": 15,
+        "Takedowns Finished": 1,
+        "Takedowns Attempted": 2,
+        "Takedown Accuracy": 50.0,
+        "Takedowns Defended": 3,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 100.0,
+        "Submissions Attempted": 0
+    },
+    "Winner": "sparturnha"
+}

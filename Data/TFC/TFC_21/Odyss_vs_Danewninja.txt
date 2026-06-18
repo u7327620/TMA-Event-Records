@@ -1,0 +1,49 @@
+5 ROUND FIGHT (2 OT rounds)
+---------------------------
+
+Odyss
+
+Strikes Landed 20
+Strikes Thrown 62
+Accuracy 32%
+Strikes Absorbed 26
+Strikes Defended 38
+Strike Defense Rate 59%
+Knockdowns 0
+Knocked Down 1
+Striking Differential -6
+Takedowns Finished 1
+Takedowns Attempted 2
+Takedown Accuracy 50%
+Takedowns Defended 1
+Times Taken Down 2
+Takedown Defense Rate 33%
+Submissions Attempted 0
+
+Danewninja
+
+Strikes Landed 26
+Strikes Thrown 64
+Accuracy 41%
+Strikes Absorbed 20
+Strikes Defended 62
+Strike Defense Rate 68%
+Knockdowns 1
+Knocked Down 0
+Striking Differential 6
+Takedowns Finished 2
+Takedowns Attempted 3
+Takedown Accuracy 66%
+Takedowns Defended 1
+Times Taken Down 1
+Takedown Defense Rate 50%
+Submissions Attempted 0
+
+-------------- RECORDS ----------------
+Most overtime rounds in a fight, 2
+
+--- RESULT --- 
+49-45 Odyss (1 point deduction for danew)
+49-48 Danewninja (1 point deduction for danew)
+49-48 Danewninja (1 point deduction for danew)
+Danewninja via decision.

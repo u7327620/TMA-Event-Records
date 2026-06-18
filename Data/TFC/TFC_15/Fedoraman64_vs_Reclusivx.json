@@ -1,0 +1,44 @@
+{
+    "Meta": {
+        "Name": "Fedoraman64_vs_Reclusivx",
+        "Event": "TFC_15"
+    },
+    "Records": [],
+    "Result": [
+        "30-27 Reclusivx",
+        "30-28 Reclusivx",
+        "Reclusivx via decision.",
+        "DECISION"
+    ],
+    "Fedoraman64": {
+        "Strikes Landed": 11,
+        "Strikes Thrown": 15,
+        "Strikes Absorbed": 15,
+        "Accuracy": 73.0,
+        "Knockdowns": 0,
+        "Striking Differential": -4,
+        "Takedowns Finished": 1,
+        "Takedowns Attempted": 2,
+        "Takedown Accuracy": 50.0,
+        "Takedowns Defended": 2,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 100.0,
+        "Submissions Attempted": 0
+    },
+    "Reclusivx": {
+        "Strikes Landed": 15,
+        "Strikes Thrown": 28,
+        "Strikes Absorbed": 11,
+        "Accuracy": 54.0,
+        "Knockdowns": 1,
+        "Striking Differential": 4,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 2,
+        "Takedown Accuracy": 0.0,
+        "Takedowns Defended": 1,
+        "Times Taken Down": 1,
+        "Takedown Defense Rate": 50.0,
+        "Submissions Attempted": 1
+    },
+    "Winner": "reclusivx"
+}

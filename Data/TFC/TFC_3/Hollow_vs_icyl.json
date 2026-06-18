@@ -1,0 +1,44 @@
+{
+    "Meta": {
+        "Name": "Hollow_vs_icyl",
+        "Event": "TFC_3"
+    },
+    "Records": [],
+    "Result": [
+        "30-27 Hollow",
+        "29-27 Hollow",
+        "Hollow via decision.",
+        "DECISION"
+    ],
+    "Hollow": {
+        "Strikes Landed": 9,
+        "Strikes Thrown": 25,
+        "Strikes Absorbed": 5,
+        "Accuracy": 36.0,
+        "Knockdowns": 1,
+        "Striking Differential": 4,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 0,
+        "Takedown Accuracy": 0.0,
+        "Takedowns Defended": 0,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 0.0,
+        "Submissions Attempted": 0
+    },
+    "icyl": {
+        "Strikes Landed": 5,
+        "Strikes Thrown": 14,
+        "Strikes Absorbed": 9,
+        "Accuracy": 36.0,
+        "Knockdowns": 0,
+        "Striking Differential": -4,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 0,
+        "Takedown Accuracy": 0.0,
+        "Takedowns Defended": 0,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 0.0,
+        "Submissions Attempted": 0
+    },
+    "Winner": "hollow"
+}

@@ -1,0 +1,46 @@
+{
+    "Meta": {
+        "Name": "Comicxsans_vs_Robbix",
+        "Event": "TFC_13"
+    },
+    "Records": [],
+    "Result": [
+        "29-27 Comicxsans",
+        "29-27 Comicxsans",
+        "Comicxsans via decision.",
+        "DECISION"
+    ],
+    "Comicxsans": {
+        "Strikes Landed": 14,
+        "Strikes Thrown": 23,
+        "Strikes Absorbed": 8,
+        "Accuracy": 61.0,
+        "Knockdowns": 0,
+        "Striking Differential": 6,
+        "Takedowns Finished": 1,
+        "Takedowns Attempted": 1,
+        "Takedown Accuracy": 100.0,
+        "Takedowns Defended": 2,
+        "Times Taken Down": 1,
+        "Takedown Defense Rate": 66.0,
+        "Submissions Attempted": 0,
+        "Piledrivers": 1
+    },
+    "Robbix": {
+        "Strikes Landed": 8,
+        "Strikes Thrown": 14,
+        "Strikes Absorbed": 14,
+        "Accuracy": 57.0,
+        "Knockdowns": 1,
+        "Striking Differential": -6,
+        "Takedowns Finished": 1,
+        "Takedowns Attempted": 2,
+        "Takedown Accuracy": 33.0,
+        "Takedowns Defended": 0,
+        "Times Taken Down": 1,
+        "Takedown Defense Rate": 0.0,
+        "Submissions Attempted": 0,
+        "Piledrived": 1
+    },
+    "Winner": "comicxsans"
+}

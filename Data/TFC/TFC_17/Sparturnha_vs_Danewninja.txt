@@ -1,0 +1,36 @@
+Sparturnha
+
+Strikes Landed 31
+Strikes Thrown 52
+Strikes Absorbed 20
+Accuracy 60%
+Knockdowns 3
+Striking Differential 11
+Takedowns Finished 0
+Takedowns Attempted 2
+Takedown Accuracy 0%
+Takedowns Defended 0
+Times Taken Down 0
+Takedown Defense Rate 0%
+Submissions Attempted 0
+
+Danewninja
+
+Strikes Landed 20
+Strikes Thrown 35
+Strikes Absorbed 31
+Accuracy 57%
+Knockdowns 1
+Striking Differential -11
+Takedowns Finished 0
+Takedowns Attempted 0
+Takedown Accuracy 0%
+Takedowns Defended 2
+Times Taken Down 0
+Takedown Defense Rate 100%
+Submissions Attempted 0
+
+--- RESULT ---
+29-27 Sparturnha
+30-26 Sparturnha
+Sparturnha via decision.

@@ -1,0 +1,36 @@
+supatroop
+
+Strikes Landed 8
+Strikes Thrown 23
+Strikes Absorbed 20
+Accuracy 35%
+Knockdowns 0
+Striking Differential -12
+Takedowns Finished 0
+Takedowns Attempted 0
+Takedown Accuracy 0%
+Takedowns Defended 0
+Times Taken Down 0
+Takedown Defense Rate 0%
+Submissions Attempted 0
+
+Faidin
+
+Strikes Landed 20
+Strikes Thrown 36
+Strikes Absorbed 8
+Accuracy 56%
+Knockdowns 0
+Striking Differential 12
+Takedowns Finished 0
+Takedowns Attempted 0
+Takedown Accuracy 0%
+Takedowns Defended 0
+Times Taken Down 0
+Takedown Defense Rate 0%
+Submissions Attempted 0
+
+--- RESULT ---
+29-27 Faidin
+29-28 Faidin
+Faidin via decision.

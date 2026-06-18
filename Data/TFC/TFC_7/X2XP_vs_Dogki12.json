@@ -1,0 +1,48 @@
+{
+    "Meta": {
+        "Name": "X2XP_vs_Dogki12",
+        "Event": "TFC_7"
+    },
+    "Records": [
+        "The only TFC match to have more than a single stoppage in the fight.",
+        "in the 2nd round (936 frames surpassed) and submission in the 3rd round.*",
+        "*Asterisks*",
+        "*It should be noted that the judges made a mistake with the submission.*",
+        "*It would not have worked IRL, but was still counted.*"
+    ],
+    "Result": [
+        "X2XP via TKO.",
+        "TKO"
+    ],
+    "X2XP": {
+        "Strikes Landed": 17,
+        "Strikes Thrown": 30,
+        "Strikes Absorbed": 6,
+        "Accuracy": 57.0,
+        "Knockdowns": 2,
+        "Striking Differential": 11,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 0,
+        "Takedown Accuracy": 0.0,
+        "Takedowns Defended": 3,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 100.0,
+        "Submissions Attempted": 1
+    },
+    "Dogki12": {
+        "Strikes Landed": 6,
+        "Strikes Thrown": 18,
+        "Strikes Absorbed": 17,
+        "Accuracy": 33.0,
+        "Knockdowns": 0,
+        "Striking Differential": -11,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 3,
+        "Takedown Accuracy": 0.0,
+        "Takedowns Defended": 0,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 0.0,
+        "Submissions Attempted": 0
+    },
+    "Winner": "x2xp"
+}

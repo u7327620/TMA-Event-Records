@@ -1,0 +1,42 @@
+dogki12
+
+Strikes Landed 4
+Strikes Thrown 13
+Accuracy 31%
+Strikes Absorbed 12
+Strikes Defended 11
+Strike Defense Rate 48%
+Knockdowns 0
+Knocked Down 1
+Striking Differential -8
+Takedowns Finished 0
+Takedowns Attempted 1
+Takedown Accuracy 0%
+Takedowns Defended 1
+Times Taken Down 0
+Takedown Defense Rate 100%
+Submissions Attempted 0
+
+lullll
+
+Strikes Landed 12
+Strikes Thrown 23
+Accuracy 52%
+Strikes Absorbed 4
+Strikes Defended 9
+Strike Defense Rate 69%
+Knockdowns 1
+Knocked Down 0
+Striking Differential 8
+Takedowns Finished 0
+Takedowns Attempted 1
+Takedown Accuracy 0%
+Takedowns Defended 1
+Times Taken Down 0
+Takedown Defense Rate 100%
+Submissions Attempted 0
+
+----- RESULT ----- 
+29-28 lullll
+29-28 lullll
+lullll via decision.

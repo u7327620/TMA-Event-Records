@@ -1,0 +1,44 @@
+{
+    "Meta": {
+        "Name": "slutmoptiq_vs_Danewninja",
+        "Event": "TFC_17"
+    },
+    "Records": [],
+    "Result": [
+        "30-28 slutmoptiq",
+        "30-27 slutmoptiq",
+        "slutmoptiq via decision.",
+        "DECISION"
+    ],
+    "Danewninja": {
+        "Strikes Landed": 8,
+        "Strikes Thrown": 34,
+        "Strikes Absorbed": 17,
+        "Accuracy": 24.0,
+        "Knockdowns": 0,
+        "Striking Differential": -9,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 0,
+        "Takedown Accuracy": 0.0,
+        "Takedowns Defended": 0,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 0.0,
+        "Submissions Attempted": 0
+    },
+    "slutmoptiq": {
+        "Strikes Landed": 17,
+        "Strikes Thrown": 51,
+        "Strikes Absorbed": 8,
+        "Accuracy": 33.0,
+        "Knockdowns": 1,
+        "Striking Differential": 9,
+        "Takedowns Finished": 0,
+        "Takedowns Attempted": 0,
+        "Takedown Accuracy": 0.0,
+        "Takedowns Defended": 0,
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 0.0,
+        "Submissions Attempted": 0
+    },
+    "Winner": "slutmoptiq"
+}
