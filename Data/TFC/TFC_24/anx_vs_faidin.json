@@ -1,0 +1,14 @@
+{
+    "Meta": {
+        "Name": "anx_vs_faidin",
+        "Event": "TFC_24"
+    },
+    "Records": [],
+    "Result": [
+        "anx via Decision.",
+        "DECISION"
+    ],
+    "anx": {},
+    "faidin": {},
+    "Winner": "anx"
+}

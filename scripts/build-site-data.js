@@ -85,6 +85,7 @@ function createPlayerBucket(id, displayName) {
     totalFights: 0,
     wins: 0,
     losses: 0,
+    draws: 0,
     winRate: 0,
     events: new Set(),
     statsAvailableFights: 0,
@@ -158,6 +159,10 @@ function summarizeResultLines(lines) {
   };
 }
 
+function isDrawResult(lines, winnerId) {
+  return !winnerId && lines.some((line) => String(line).trim().toUpperCase() === "DRAW");
+}
+
 function addStatsToAggregate(target, stats) {
   let sawNumber = false;
   for (const [key, value] of Object.entries(stats)) {
@@ -225,6 +230,7 @@ function buildIndex() {
     const resultLines = sanitizeResult(payload.Result);
     const resultSummary = summarizeResultLines(resultLines);
     const winnerId = normalizePlayerId(payload.Winner);
+    const draw = isDrawResult(resultLines, winnerId);
     const relativePath = path.relative(repoRoot, filePath).replaceAll(path.sep, "/");
 
     events.add(eventName);
@@ -264,9 +270,10 @@ function buildIndex() {
         id: participant.id,
         displayName: participant.displayName,
         stats: participant.stats,
-        outcome: participant.id === winnerId ? "Win" : "Loss",
+        outcome: draw ? "Draw" : participant.id === winnerId ? "Win" : "Loss",
       })),
       winnerId,
+      isDraw: draw,
       summary: resultSummary.summary,
       method: resultSummary.method,
       source: relativePath,
@@ -292,7 +299,9 @@ function buildIndex() {
       bucket.totalFights += 1;
       bucket.events.add(eventName);
 
-      if (participant.id === winnerId) {
+      if (draw) {
+        bucket.draws += 1;
+      } else if (participant.id === winnerId) {
         bucket.wins += 1;
       } else {
         bucket.losses += 1;
@@ -310,9 +319,10 @@ function buildIndex() {
         matchup: payload.Meta?.Name || path.basename(filePath, ".json"),
         opponentId: opponent.id,
         opponentName: opponent.displayName,
-        outcome: participant.id === winnerId ? "Win" : "Loss",
+        outcome: draw ? "Draw" : participant.id === winnerId ? "Win" : "Loss",
         summary: resultSummary.summary,
         method: resultSummary.method,
+        isDraw: draw,
         hasStats: Object.keys(participant.stats).length > 0,
         playerStats: participant.stats,
         opponentStats: opponent.stats,
@@ -341,6 +351,7 @@ function buildIndex() {
         totalFights: bucket.totalFights,
         wins: bucket.wins,
         losses: bucket.losses,
+        draws: bucket.draws,
         winRate: bucket.winRate,
         events: Array.from(bucket.events).sort((a, b) => parseEventNumber(b) - parseEventNumber(a)),
         statsAvailableFights: bucket.statsAvailableFights,

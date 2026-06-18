@@ -31,6 +31,7 @@ const els = {
   metricFights: document.getElementById("metric-fights"),
   metricWins: document.getElementById("metric-wins"),
   metricLosses: document.getElementById("metric-losses"),
+  metricDraws: document.getElementById("metric-draws"),
   metricWinRate: document.getElementById("metric-win-rate"),
   statsCaption: document.getElementById("stats-caption"),
   statsGrid: document.getElementById("stats-grid"),
@@ -85,6 +86,7 @@ function populatePlayerSortMetrics() {
   const options = [
     ["wins", "Wins"],
     ["losses", "Losses"],
+    ["draws", "Draws"],
     ["winRate", "Win Rate"],
     ["totalFights", "Total Fights"],
     ...state.index.featuredStatKeys.map((key) => [`stat:${key}`, key]),
@@ -97,7 +99,7 @@ function populatePlayerSortMetrics() {
 }
 
 function getPlayerMetricValue(player, metric) {
-  if (metric === "wins" || metric === "losses" || metric === "winRate" || metric === "totalFights") {
+  if (metric === "wins" || metric === "losses" || metric === "draws" || metric === "winRate" || metric === "totalFights") {
     return player[metric];
   }
 
@@ -149,6 +151,10 @@ function formatPlayerMetricForList(player) {
 
   if (state.playerSortMetric === "wins") {
     return `Wins: ${player.wins}`;
+  }
+
+  if (state.playerSortMetric === "draws") {
+    return `Draws: ${player.draws}`;
   }
 
   return `Losses: ${player.losses}`;
@@ -220,7 +226,7 @@ function renderSearchResults() {
         ? `
           <div class="result-title">
             <span>${item.displayName}</span>
-            <span>${item.wins}-${item.losses}</span>
+            <span>${item.wins}-${item.losses}-${item.draws}</span>
           </div>
           <div class="result-path">${resultMetaLine(item)}</div>
           <span class="result-subtitle">${formatPlayerMetricForList(item)}</span>
@@ -393,7 +399,9 @@ function renderEventBouts(eventItem) {
             <span>${bout.method}</span>
           </div>
         </div>
-        <span class="outcome win">${(bout.fighters.find((fighter) => fighter.id === bout.winnerId) || fighterA).displayName}</span>
+        <span class="outcome ${bout.isDraw ? "draw" : "win"}">${
+          bout.isDraw ? "Draw" : (bout.fighters.find((fighter) => fighter.id === bout.winnerId) || fighterA).displayName
+        }</span>
       </div>
       <div class="bout-stats">${statHtml}</div>
       <div class="bout-meta">
@@ -419,11 +427,12 @@ function renderPlayer(player) {
   els.eventView.classList.add("hidden");
   els.playerView.classList.remove("hidden");
   els.playerName.textContent = player.displayName;
-  els.playerRecord.textContent = `${player.wins}-${player.losses}`;
+  els.playerRecord.textContent = `${player.wins}-${player.losses}-${player.draws}`;
   els.playerEvents.textContent = `${player.events.length} event${player.events.length === 1 ? "" : "s"}`;
   els.metricFights.textContent = player.totalFights;
   els.metricWins.textContent = player.wins;
   els.metricLosses.textContent = player.losses;
+  els.metricDraws.textContent = player.draws;
   els.metricWinRate.textContent = `${player.winRate}%`;
   renderMetricGrid(els.statsGrid, els.statsCaption, player.featuredStats, player.statsAvailableFights, "fight");
   renderPlayerBouts(player);

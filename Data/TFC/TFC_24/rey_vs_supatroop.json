@@ -1,0 +1,14 @@
+{
+    "Meta": {
+        "Name": "rey_vs_supatroop",
+        "Event": "TFC_24"
+    },
+    "Records": [],
+    "Result": [
+        "rey via Decision.",
+        "DECISION"
+    ],
+    "rey": {},
+    "supatroop": {},
+    "Winner": "rey"
+}
