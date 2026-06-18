@@ -26,10 +26,23 @@ const BASE_COLUMNS = [
 ];
 
 const MAX_STAT_EVENT_NUMBER = 22;
+const DERIVED_PERCENT_KEYS = new Set([
+  "Accuracy",
+  "Strike Defense Rate",
+  "Takedown Accuracy",
+  "Takedown Defense Rate",
+]);
 
 function parseEventNumber(eventName) {
   const match = String(eventName || "").match(/(\d+)/);
   return match ? Number(match[1]) : 0;
+}
+
+function buildBaseColumns() {
+  if (els.eventFilter.value) {
+    return [{ key: "displayName", label: "Player", type: "text" }];
+  }
+  return BASE_COLUMNS;
 }
 
 function getStatColumns(index) {
@@ -41,7 +54,7 @@ function getStatColumns(index) {
 }
 
 function getAllColumns() {
-  return [...BASE_COLUMNS, ...getStatColumns(state.index)];
+  return [...buildBaseColumns(), ...getStatColumns(state.index)];
 }
 
 function formatValue(type, value) {
@@ -64,6 +77,73 @@ function getSortValue(row, key) {
     return typeof value === "number" ? value : null;
   }
   return row[key];
+}
+
+function addRawStats(target, stats) {
+  for (const [key, value] of Object.entries(stats || {})) {
+    if (typeof value !== "number" || Number.isNaN(value) || DERIVED_PERCENT_KEYS.has(key)) {
+      continue;
+    }
+    target[key] = (target[key] || 0) + value;
+  }
+}
+
+function deriveAggregateRates(totals) {
+  const stats = { ...totals };
+
+  if (typeof totals["Strikes Landed"] === "number" && typeof totals["Strikes Thrown"] === "number") {
+    stats["Accuracy"] = totals["Strikes Thrown"] ? Number(((totals["Strikes Landed"] / totals["Strikes Thrown"]) * 100).toFixed(2)) : "N/A";
+  }
+  if (typeof totals["Takedowns Finished"] === "number" && typeof totals["Takedowns Attempted"] === "number") {
+    stats["Takedown Accuracy"] = totals["Takedowns Attempted"]
+      ? Number(((totals["Takedowns Finished"] / totals["Takedowns Attempted"]) * 100).toFixed(2))
+      : "N/A";
+  }
+  if (typeof totals["Takedowns Defended"] === "number" || typeof totals["Times Taken Down"] === "number") {
+    const defended = totals["Takedowns Defended"] || 0;
+    const takenDown = totals["Times Taken Down"] || 0;
+    stats["Takedown Defense Rate"] = defended + takenDown
+      ? Number(((defended / (defended + takenDown)) * 100).toFixed(2))
+      : "N/A";
+  }
+  if (typeof totals["Strikes Defended"] === "number" || typeof totals["Strikes Absorbed"] === "number") {
+    const defended = totals["Strikes Defended"] || 0;
+    const absorbed = totals["Strikes Absorbed"] || 0;
+    if (absorbed) {
+      stats["Strike Defense Rate"] = Number(((defended / absorbed) * 100).toFixed(2));
+    }
+  }
+
+  return stats;
+}
+
+function buildEventRows(eventFilter) {
+  return state.index.players
+    .map((player) => {
+      const bouts = player.bouts.filter((bout) => bout.event === eventFilter);
+      if (!bouts.length) {
+        return null;
+      }
+
+      const rawTotals = {};
+      for (const bout of bouts) {
+        addRawStats(rawTotals, bout.playerStats);
+        if (bout.method === "SUBMISSION" && bout.outcome === "Win") {
+          rawTotals["Successful Submissions"] = (rawTotals["Successful Submissions"] || 0) + 1;
+        }
+      }
+
+      return {
+        ...player,
+        totalFights: bouts.length,
+        wins: bouts.filter((bout) => bout.outcome === "Win").length,
+        losses: bouts.filter((bout) => bout.outcome === "Loss").length,
+        winRate: bouts.length ? Number(((bouts.filter((bout) => bout.outcome === "Win").length / bouts.length) * 100).toFixed(1)) : 0,
+        eventsCount: 1,
+        aggregateStats: deriveAggregateRates(rawTotals),
+      };
+    })
+    .filter(Boolean);
 }
 
 function sortRows(rows) {
@@ -92,17 +172,15 @@ function filterRows() {
   const query = els.search.value.trim().toLowerCase();
   const eventFilter = els.eventFilter.value;
 
-  let rows = state.index.players.map((player) => ({
-    ...player,
-    eventsCount: player.events.length,
-  }));
+  let rows = eventFilter
+    ? buildEventRows(eventFilter)
+    : state.index.players.map((player) => ({
+        ...player,
+        eventsCount: player.events.length,
+      }));
 
   if (query) {
     rows = rows.filter((row) => row.displayName.toLowerCase().includes(query) || row.id.includes(query));
-  }
-
-  if (eventFilter) {
-    rows = rows.filter((row) => row.events.includes(eventFilter));
   }
 
   rows = sortRows(rows);
