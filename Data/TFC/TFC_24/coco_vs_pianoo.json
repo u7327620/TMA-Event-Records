@@ -1,0 +1,14 @@
+{
+    "Meta": {
+        "Name": "coco_vs_pianoo",
+        "Event": "TFC_24"
+    },
+    "Records": [],
+    "Result": [
+        "coco via Decision.",
+        "DECISION"
+    ],
+    "coco": {},
+    "pianoo": {},
+    "Winner": "coco"
+}
