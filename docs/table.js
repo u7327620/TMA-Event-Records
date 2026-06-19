@@ -89,35 +89,6 @@ function addRawStats(target, stats) {
   }
 }
 
-function deriveAggregateRates(totals) {
-  const stats = { ...totals };
-
-  if (typeof totals["Strikes Landed"] === "number" && typeof totals["Strikes Thrown"] === "number") {
-    stats["Accuracy"] = totals["Strikes Thrown"] ? Number(((totals["Strikes Landed"] / totals["Strikes Thrown"]) * 100).toFixed(2)) : "N/A";
-  }
-  if (typeof totals["Takedowns Finished"] === "number" && typeof totals["Takedowns Attempted"] === "number") {
-    stats["Takedown Accuracy"] = totals["Takedowns Attempted"]
-      ? Number(((totals["Takedowns Finished"] / totals["Takedowns Attempted"]) * 100).toFixed(2))
-      : "N/A";
-  }
-  if (typeof totals["Takedowns Defended"] === "number" || typeof totals["Times Taken Down"] === "number") {
-    const defended = totals["Takedowns Defended"] || 0;
-    const takenDown = totals["Times Taken Down"] || 0;
-    stats["Takedown Defense Rate"] = defended + takenDown
-      ? Number(((defended / (defended + takenDown)) * 100).toFixed(2))
-      : "N/A";
-  }
-  if (typeof totals["Strikes Defended"] === "number" || typeof totals["Strikes Absorbed"] === "number") {
-    const defended = totals["Strikes Defended"] || 0;
-    const absorbed = totals["Strikes Absorbed"] || 0;
-    if (absorbed) {
-      stats["Strike Defense Rate"] = Number(((defended / absorbed) * 100).toFixed(2));
-    }
-  }
-
-  return stats;
-}
-
 function buildEventRows(eventFilter) {
   return state.index.players
     .map((player) => {

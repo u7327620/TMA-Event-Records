@@ -224,9 +224,9 @@ function deriveAggregateRates(totals) {
   if (typeof totals["Strikes Defended"] === "number" || typeof totals["Strikes Absorbed"] === "number") {
     const defended = totals["Strikes Defended"] || 0;
     const absorbed = totals["Strikes Absorbed"] || 0;
-    if (absorbed) {
-      stats["Strike Defense Rate"] = Number(((defended / absorbed) * 100).toFixed(2));
-    }
+    stats["Strike Defense Rate"] = defended + absorbed
+      ? Number(((defended / (defended + absorbed)) * 100).toFixed(2))
+      : "N/A";
   }
 
   return stats;

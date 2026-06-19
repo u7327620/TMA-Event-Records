@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-18T08:13:42.463Z",
+  "generatedAt": "2026-06-19T02:39:54.438Z",
   "sourceFiles": 330,
   "playerCount": 136,
   "eventCount": 24,
@@ -1142,7 +1142,7 @@
         "Accuracy": 43.94,
         "Takedown Accuracy": 38.67,
         "Takedown Defense Rate": 62.16,
-        "Strike Defense Rate": 128.98
+        "Strike Defense Rate": 56.33
       },
       "featuredStats": {
         "Strikes Landed": 634,
@@ -1150,7 +1150,7 @@
         "Accuracy": 43.94,
         "Strikes Absorbed": 635,
         "Strikes Defended": 819,
-        "Strike Defense Rate": 128.98,
+        "Strike Defense Rate": 56.33,
         "Knockdowns": 12,
         "Striking Differential": 0,
         "Takedowns Finished": 29,
@@ -2578,7 +2578,7 @@
         "Accuracy": 41.21,
         "Takedown Accuracy": 39.71,
         "Takedown Defense Rate": 59.68,
-        "Strike Defense Rate": 82.15
+        "Strike Defense Rate": 45.1
       },
       "featuredStats": {
         "Strikes Landed": 605,
@@ -2586,7 +2586,7 @@
         "Accuracy": 41.21,
         "Strikes Absorbed": 605,
         "Strikes Defended": 497,
-        "Strike Defense Rate": 82.15,
+        "Strike Defense Rate": 45.1,
         "Knockdowns": 19,
         "Striking Differential": 0,
         "Takedowns Finished": 27,
@@ -3890,7 +3890,7 @@
         "Accuracy": 41.18,
         "Takedown Accuracy": 36.51,
         "Takedown Defense Rate": 64.06,
-        "Strike Defense Rate": 4.01
+        "Strike Defense Rate": 3.86
       },
       "featuredStats": {
         "Strikes Landed": 598,
@@ -3898,7 +3898,7 @@
         "Accuracy": 41.18,
         "Strikes Absorbed": 598,
         "Strikes Defended": 24,
-        "Strike Defense Rate": 4.01,
+        "Strike Defense Rate": 3.86,
         "Knockdowns": 16,
         "Striking Differential": 0,
         "Takedowns Finished": 23,
@@ -5192,7 +5192,7 @@
         "Accuracy": 37.61,
         "Takedown Accuracy": 32.43,
         "Takedown Defense Rate": 67.57,
-        "Strike Defense Rate": 10.88
+        "Strike Defense Rate": 9.81
       },
       "featuredStats": {
         "Strikes Landed": 340,
@@ -5200,7 +5200,7 @@
         "Accuracy": 37.61,
         "Strikes Absorbed": 340,
         "Strikes Defended": 37,
-        "Strike Defense Rate": 10.88,
+        "Strike Defense Rate": 9.81,
         "Knockdowns": 10,
         "Striking Differential": 0,
         "Takedowns Finished": 12,
@@ -6819,7 +6819,7 @@
         "Accuracy": 47.62,
         "Takedown Accuracy": 28.21,
         "Takedown Defense Rate": 71.05,
-        "Strike Defense Rate": 19.19
+        "Strike Defense Rate": 16.1
       },
       "featuredStats": {
         "Strikes Landed": 370,
@@ -6827,7 +6827,7 @@
         "Accuracy": 47.62,
         "Strikes Absorbed": 370,
         "Strikes Defended": 71,
-        "Strike Defense Rate": 19.19,
+        "Strike Defense Rate": 16.1,
         "Knockdowns": 13,
         "Striking Differential": 0,
         "Takedowns Finished": 11,
@@ -7583,7 +7583,7 @@
         "Accuracy": 43.56,
         "Takedown Accuracy": 50,
         "Takedown Defense Rate": 50,
-        "Strike Defense Rate": 6.48
+        "Strike Defense Rate": 6.08
       },
       "featuredStats": {
         "Strikes Landed": 355,
@@ -7591,7 +7591,7 @@
         "Accuracy": 43.56,
         "Strikes Absorbed": 355,
         "Strikes Defended": 23,
-        "Strike Defense Rate": 6.48,
+        "Strike Defense Rate": 6.08,
         "Knockdowns": 5,
         "Striking Differential": 0,
         "Takedowns Finished": 16,
@@ -8456,7 +8456,7 @@
         "Accuracy": 50.73,
         "Takedown Accuracy": 48.15,
         "Takedown Defense Rate": 51.85,
-        "Strike Defense Rate": 7.38
+        "Strike Defense Rate": 6.87
       },
       "featuredStats": {
         "Strikes Landed": 244,
@@ -8464,7 +8464,7 @@
         "Accuracy": 50.73,
         "Strikes Absorbed": 244,
         "Strikes Defended": 18,
-        "Strike Defense Rate": 7.38,
+        "Strike Defense Rate": 6.87,
         "Knockdowns": 4,
         "Striking Differential": -4,
         "Takedowns Finished": 13,
@@ -9652,7 +9652,7 @@
         "Accuracy": 50.75,
         "Takedown Accuracy": 52.38,
         "Takedown Defense Rate": 52.17,
-        "Strike Defense Rate": 17.65
+        "Strike Defense Rate": 15
       },
       "featuredStats": {
         "Strikes Landed": 272,
@@ -9660,7 +9660,7 @@
         "Accuracy": 50.75,
         "Strikes Absorbed": 272,
         "Strikes Defended": 48,
-        "Strike Defense Rate": 17.65,
+        "Strike Defense Rate": 15,
         "Knockdowns": 5,
         "Striking Differential": 0,
         "Takedowns Finished": 11,
@@ -10481,7 +10481,7 @@
         "Accuracy": 55.15,
         "Takedown Accuracy": 23.08,
         "Takedown Defense Rate": 78.05,
-        "Strike Defense Rate": 13.19
+        "Strike Defense Rate": 11.65
       },
       "featuredStats": {
         "Strikes Landed": 364,
@@ -10489,7 +10489,7 @@
         "Accuracy": 55.15,
         "Strikes Absorbed": 364,
         "Strikes Defended": 48,
-        "Strike Defense Rate": 13.19,
+        "Strike Defense Rate": 11.65,
         "Knockdowns": 6,
         "Striking Differential": 0,
         "Takedowns Finished": 9,
@@ -11250,7 +11250,7 @@
         "Accuracy": 48.27,
         "Takedown Accuracy": 27.27,
         "Takedown Defense Rate": 71.88,
-        "Strike Defense Rate": 9.97
+        "Strike Defense Rate": 9.07
       },
       "featuredStats": {
         "Strikes Landed": 391,
@@ -11258,7 +11258,7 @@
         "Accuracy": 48.27,
         "Strikes Absorbed": 391,
         "Strikes Defended": 39,
-        "Strike Defense Rate": 9.97,
+        "Strike Defense Rate": 9.07,
         "Knockdowns": 9,
         "Striking Differential": 0,
         "Takedowns Finished": 9,
@@ -12176,7 +12176,7 @@
         "Accuracy": 50.94,
         "Takedown Accuracy": 43.48,
         "Takedown Defense Rate": 56.52,
-        "Strike Defense Rate": 11.64
+        "Strike Defense Rate": 10.43
       },
       "featuredStats": {
         "Strikes Landed": 189,
@@ -12184,7 +12184,7 @@
         "Accuracy": 50.94,
         "Strikes Absorbed": 189,
         "Strikes Defended": 22,
-        "Strike Defense Rate": 11.64,
+        "Strike Defense Rate": 10.43,
         "Knockdowns": 4,
         "Striking Differential": 0,
         "Takedowns Finished": 10,
@@ -12671,7 +12671,7 @@
         "Accuracy": 43.44,
         "Takedown Accuracy": 50,
         "Takedown Defense Rate": 50,
-        "Strike Defense Rate": 8.89
+        "Strike Defense Rate": 8.16
       },
       "featuredStats": {
         "Strikes Landed": 225,
@@ -12679,7 +12679,7 @@
         "Accuracy": 43.44,
         "Strikes Absorbed": 225,
         "Strikes Defended": 20,
-        "Strike Defense Rate": 8.89,
+        "Strike Defense Rate": 8.16,
         "Knockdowns": 5,
         "Striking Differential": -4,
         "Takedowns Finished": 7,
@@ -14780,7 +14780,7 @@
         "Accuracy": 37.68,
         "Takedown Accuracy": 34.38,
         "Takedown Defense Rate": 62.5,
-        "Strike Defense Rate": 23.59
+        "Strike Defense Rate": 19.09
       },
       "featuredStats": {
         "Strikes Landed": 289,
@@ -14788,7 +14788,7 @@
         "Accuracy": 37.68,
         "Strikes Absorbed": 284,
         "Strikes Defended": 67,
-        "Strike Defense Rate": 23.59,
+        "Strike Defense Rate": 19.09,
         "Knockdowns": 9,
         "Striking Differential": 0,
         "Takedowns Finished": 11,
@@ -15648,7 +15648,7 @@
         "Accuracy": 38.46,
         "Takedown Accuracy": 21.43,
         "Takedown Defense Rate": 78.57,
-        "Strike Defense Rate": 17.06
+        "Strike Defense Rate": 14.57
       },
       "featuredStats": {
         "Strikes Landed": 170,
@@ -15656,7 +15656,7 @@
         "Accuracy": 38.46,
         "Strikes Absorbed": 170,
         "Strikes Defended": 29,
-        "Strike Defense Rate": 17.06,
+        "Strike Defense Rate": 14.57,
         "Knockdowns": 7,
         "Striking Differential": 0,
         "Takedowns Finished": 3,
@@ -16191,7 +16191,7 @@
         "Accuracy": 43.17,
         "Takedown Accuracy": 25,
         "Takedown Defense Rate": 75,
-        "Strike Defense Rate": 14.39
+        "Strike Defense Rate": 12.58
       },
       "featuredStats": {
         "Strikes Landed": 139,
@@ -16199,7 +16199,7 @@
         "Accuracy": 43.17,
         "Strikes Absorbed": 139,
         "Strikes Defended": 20,
-        "Strike Defense Rate": 14.39,
+        "Strike Defense Rate": 12.58,
         "Knockdowns": 3,
         "Striking Differential": 0,
         "Takedowns Finished": 5,
@@ -16680,7 +16680,7 @@
         "Accuracy": 34.39,
         "Takedown Accuracy": 30,
         "Takedown Defense Rate": 70,
-        "Strike Defense Rate": 21.43
+        "Strike Defense Rate": 17.65
       },
       "featuredStats": {
         "Strikes Landed": 98,
@@ -16688,7 +16688,7 @@
         "Accuracy": 34.39,
         "Strikes Absorbed": 98,
         "Strikes Defended": 21,
-        "Strike Defense Rate": 21.43,
+        "Strike Defense Rate": 17.65,
         "Knockdowns": 3,
         "Striking Differential": 0,
         "Takedowns Finished": 3,
@@ -17117,7 +17117,7 @@
         "Accuracy": 37.75,
         "Takedown Accuracy": 33.33,
         "Takedown Defense Rate": 66.67,
-        "Strike Defense Rate": 37.66
+        "Strike Defense Rate": 27.36
       },
       "featuredStats": {
         "Strikes Landed": 77,
@@ -17125,7 +17125,7 @@
         "Accuracy": 37.75,
         "Strikes Absorbed": 77,
         "Strikes Defended": 29,
-        "Strike Defense Rate": 37.66,
+        "Strike Defense Rate": 27.36,
         "Knockdowns": 1,
         "Striking Differential": 0,
         "Takedowns Finished": 2,
@@ -17447,7 +17447,7 @@
         "Accuracy": 37.21,
         "Takedown Accuracy": 36,
         "Takedown Defense Rate": 66.67,
-        "Strike Defense Rate": 7.21
+        "Strike Defense Rate": 6.73
       },
       "featuredStats": {
         "Strikes Landed": 208,
@@ -17455,7 +17455,7 @@
         "Accuracy": 37.21,
         "Strikes Absorbed": 208,
         "Strikes Defended": 15,
-        "Strike Defense Rate": 7.21,
+        "Strike Defense Rate": 6.73,
         "Knockdowns": 7,
         "Striking Differential": 0,
         "Takedowns Finished": 9,
@@ -18330,7 +18330,7 @@
         "Accuracy": 43.36,
         "Takedown Accuracy": 30,
         "Takedown Defense Rate": 60,
-        "Strike Defense Rate": 8.21
+        "Strike Defense Rate": 7.59
       },
       "featuredStats": {
         "Strikes Landed": 199,
@@ -18338,7 +18338,7 @@
         "Accuracy": 43.36,
         "Strikes Absorbed": 207,
         "Strikes Defended": 17,
-        "Strike Defense Rate": 8.21,
+        "Strike Defense Rate": 7.59,
         "Knockdowns": 4,
         "Striking Differential": -8,
         "Takedowns Finished": 6,
@@ -19105,7 +19105,7 @@
         "Accuracy": 41.53,
         "Takedown Accuracy": 34.78,
         "Takedown Defense Rate": 70.83,
-        "Strike Defense Rate": 9.34
+        "Strike Defense Rate": 8.54
       },
       "featuredStats": {
         "Strikes Landed": 201,
@@ -19113,7 +19113,7 @@
         "Accuracy": 41.53,
         "Strikes Absorbed": 257,
         "Strikes Defended": 24,
-        "Strike Defense Rate": 9.34,
+        "Strike Defense Rate": 8.54,
         "Knockdowns": 2,
         "Striking Differential": -57,
         "Takedowns Finished": 16,
@@ -20161,7 +20161,7 @@
         "Accuracy": 48.35,
         "Takedown Accuracy": 72.22,
         "Takedown Defense Rate": 72.73,
-        "Strike Defense Rate": 18.11
+        "Strike Defense Rate": 15.33
       },
       "featuredStats": {
         "Strikes Landed": 191,
@@ -20169,7 +20169,7 @@
         "Accuracy": 48.35,
         "Strikes Absorbed": 127,
         "Strikes Defended": 23,
-        "Strike Defense Rate": 18.11,
+        "Strike Defense Rate": 15.33,
         "Knockdowns": 4,
         "Striking Differential": 64,
         "Takedowns Finished": 13,
@@ -20671,7 +20671,7 @@
         "Accuracy": 49.6,
         "Takedown Accuracy": 21.74,
         "Takedown Defense Rate": 92.31,
-        "Strike Defense Rate": 29.66
+        "Strike Defense Rate": 22.87
       },
       "featuredStats": {
         "Strikes Landed": 185,
@@ -20679,7 +20679,7 @@
         "Accuracy": 49.6,
         "Strikes Absorbed": 145,
         "Strikes Defended": 43,
-        "Strike Defense Rate": 29.66,
+        "Strike Defense Rate": 22.87,
         "Knockdowns": 3,
         "Striking Differential": 40,
         "Takedowns Finished": 5,
@@ -21325,7 +21325,7 @@
         "Accuracy": 42.48,
         "Takedown Accuracy": 34,
         "Takedown Defense Rate": 62.5,
-        "Strike Defense Rate": 7.55
+        "Strike Defense Rate": 7.02
       },
       "featuredStats": {
         "Strikes Landed": 178,
@@ -21333,7 +21333,7 @@
         "Accuracy": 42.48,
         "Strikes Absorbed": 212,
         "Strikes Defended": 16,
-        "Strike Defense Rate": 7.55,
+        "Strike Defense Rate": 7.02,
         "Knockdowns": 2,
         "Striking Differential": -34,
         "Takedowns Finished": 17,
@@ -22020,7 +22020,7 @@
         "Accuracy": 50.86,
         "Takedown Accuracy": 20.83,
         "Takedown Defense Rate": 52.63,
-        "Strike Defense Rate": 112.46
+        "Strike Defense Rate": 52.93
       },
       "featuredStats": {
         "Strikes Landed": 295,
@@ -22028,7 +22028,7 @@
         "Accuracy": 50.86,
         "Strikes Absorbed": 305,
         "Strikes Defended": 343,
-        "Strike Defense Rate": 112.46,
+        "Strike Defense Rate": 52.93,
         "Knockdowns": 3,
         "Striking Differential": -10,
         "Takedowns Finished": 5,
@@ -22974,7 +22974,7 @@
         "Accuracy": 40,
         "Takedown Accuracy": 43.75,
         "Takedown Defense Rate": 55,
-        "Strike Defense Rate": 20.58
+        "Strike Defense Rate": 17.07
       },
       "featuredStats": {
         "Strikes Landed": 342,
@@ -22982,7 +22982,7 @@
         "Accuracy": 40,
         "Strikes Absorbed": 379,
         "Strikes Defended": 78,
-        "Strike Defense Rate": 20.58,
+        "Strike Defense Rate": 17.07,
         "Knockdowns": 7,
         "Striking Differential": -37,
         "Takedowns Finished": 7,
@@ -24251,7 +24251,7 @@
         "Accuracy": 53.73,
         "Takedown Accuracy": 50,
         "Takedown Defense Rate": 78.57,
-        "Strike Defense Rate": 18.52
+        "Strike Defense Rate": 15.63
       },
       "featuredStats": {
         "Strikes Landed": 144,
@@ -24259,7 +24259,7 @@
         "Accuracy": 53.73,
         "Strikes Absorbed": 81,
         "Strikes Defended": 15,
-        "Strike Defense Rate": 18.52,
+        "Strike Defense Rate": 15.63,
         "Knockdowns": 5,
         "Striking Differential": 35,
         "Takedowns Finished": 3,
@@ -24755,7 +24755,7 @@
         "Accuracy": 58.54,
         "Takedown Accuracy": 50,
         "Takedown Defense Rate": 78.57,
-        "Strike Defense Rate": 24.24
+        "Strike Defense Rate": 19.51
       },
       "featuredStats": {
         "Strikes Landed": 185,
@@ -24763,7 +24763,7 @@
         "Accuracy": 58.54,
         "Strikes Absorbed": 99,
         "Strikes Defended": 24,
-        "Strike Defense Rate": 24.24,
+        "Strike Defense Rate": 19.51,
         "Knockdowns": 5,
         "Striking Differential": 86,
         "Takedowns Finished": 2,
@@ -25325,7 +25325,7 @@
         "Accuracy": 45.6,
         "Takedown Accuracy": 50,
         "Takedown Defense Rate": 88.89,
-        "Strike Defense Rate": 68.55
+        "Strike Defense Rate": 40.67
       },
       "featuredStats": {
         "Strikes Landed": 114,
@@ -25333,7 +25333,7 @@
         "Accuracy": 45.6,
         "Strikes Absorbed": 124,
         "Strikes Defended": 85,
-        "Strike Defense Rate": 68.55,
+        "Strike Defense Rate": 40.67,
         "Knockdowns": 3,
         "Striking Differential": -10,
         "Takedowns Finished": 12,
@@ -25965,7 +25965,7 @@
         "Accuracy": 43.82,
         "Takedown Accuracy": 37.5,
         "Takedown Defense Rate": 50,
-        "Strike Defense Rate": 16
+        "Strike Defense Rate": 13.79
       },
       "featuredStats": {
         "Strikes Landed": 78,
@@ -25973,7 +25973,7 @@
         "Accuracy": 43.82,
         "Strikes Absorbed": 75,
         "Strikes Defended": 12,
-        "Strike Defense Rate": 16,
+        "Strike Defense Rate": 13.79,
         "Knockdowns": 2,
         "Striking Differential": 3,
         "Takedowns Finished": 3,
@@ -26369,7 +26369,7 @@
         "Accuracy": 46.39,
         "Takedown Accuracy": 33.33,
         "Takedown Defense Rate": 75,
-        "Strike Defense Rate": 37.68
+        "Strike Defense Rate": 27.37
       },
       "featuredStats": {
         "Strikes Landed": 90,
@@ -26377,7 +26377,7 @@
         "Accuracy": 46.39,
         "Strikes Absorbed": 69,
         "Strikes Defended": 26,
-        "Strike Defense Rate": 37.68,
+        "Strike Defense Rate": 27.37,
         "Knockdowns": 2,
         "Striking Differential": 21,
         "Takedowns Finished": 1,
@@ -26773,7 +26773,7 @@
         "Accuracy": 45.77,
         "Takedown Accuracy": 33.33,
         "Takedown Defense Rate": 100,
-        "Strike Defense Rate": 4.31
+        "Strike Defense Rate": 4.13
       },
       "featuredStats": {
         "Strikes Landed": 119,
@@ -26781,7 +26781,7 @@
         "Accuracy": 45.77,
         "Strikes Absorbed": 116,
         "Strikes Defended": 5,
-        "Strike Defense Rate": 4.31,
+        "Strike Defense Rate": 4.13,
         "Knockdowns": 2,
         "Striking Differential": 3,
         "Takedowns Finished": 2,
@@ -27331,7 +27331,7 @@
         "Accuracy": 36.04,
         "Takedown Accuracy": 36.84,
         "Takedown Defense Rate": 59.09,
-        "Strike Defense Rate": 9.82
+        "Strike Defense Rate": 8.94
       },
       "featuredStats": {
         "Strikes Landed": 160,
@@ -27339,7 +27339,7 @@
         "Accuracy": 36.04,
         "Strikes Absorbed": 224,
         "Strikes Defended": 22,
-        "Strike Defense Rate": 9.82,
+        "Strike Defense Rate": 8.94,
         "Knockdowns": 0,
         "Striking Differential": -66,
         "Takedowns Finished": 7,
@@ -28130,7 +28130,7 @@
         "Accuracy": 45.45,
         "Takedown Accuracy": 10,
         "Takedown Defense Rate": 25,
-        "Strike Defense Rate": 104.44
+        "Strike Defense Rate": 51.09
       },
       "featuredStats": {
         "Strikes Landed": 50,
@@ -28138,7 +28138,7 @@
         "Accuracy": 45.45,
         "Strikes Absorbed": 45,
         "Strikes Defended": 47,
-        "Strike Defense Rate": 104.44,
+        "Strike Defense Rate": 51.09,
         "Knockdowns": 3,
         "Striking Differential": 4,
         "Takedowns Finished": 1,
@@ -28456,7 +28456,7 @@
         "Accuracy": 54.03,
         "Takedown Accuracy": 20,
         "Takedown Defense Rate": 50,
-        "Strike Defense Rate": 10
+        "Strike Defense Rate": 9.09
       },
       "featuredStats": {
         "Strikes Landed": 67,
@@ -28464,7 +28464,7 @@
         "Accuracy": 54.03,
         "Strikes Absorbed": 80,
         "Strikes Defended": 8,
-        "Strike Defense Rate": 10,
+        "Strike Defense Rate": 9.09,
         "Knockdowns": 2,
         "Striking Differential": -13,
         "Takedowns Finished": 1,
@@ -28799,7 +28799,7 @@
         "Accuracy": 50,
         "Takedown Accuracy": 0,
         "Takedown Defense Rate": 50,
-        "Strike Defense Rate": 25.33
+        "Strike Defense Rate": 20.21
       },
       "featuredStats": {
         "Strikes Landed": 119,
@@ -28807,7 +28807,7 @@
         "Accuracy": 50,
         "Strikes Absorbed": 75,
         "Strikes Defended": 19,
-        "Strike Defense Rate": 25.33,
+        "Strike Defense Rate": 20.21,
         "Knockdowns": 1,
         "Striking Differential": 44,
         "Takedowns Finished": 0,
@@ -29159,7 +29159,7 @@
         "Accuracy": 49.21,
         "Takedown Accuracy": 75,
         "Takedown Defense Rate": 90,
-        "Strike Defense Rate": 69.89
+        "Strike Defense Rate": 41.14
       },
       "featuredStats": {
         "Strikes Landed": 156,
@@ -29167,7 +29167,7 @@
         "Accuracy": 49.21,
         "Strikes Absorbed": 93,
         "Strikes Defended": 65,
-        "Strike Defense Rate": 69.89,
+        "Strike Defense Rate": 41.14,
         "Knockdowns": 2,
         "Striking Differential": 63,
         "Takedowns Finished": 3,
@@ -29603,7 +29603,7 @@
         "Accuracy": 44.12,
         "Takedown Accuracy": 44.44,
         "Takedown Defense Rate": 50,
-        "Strike Defense Rate": 41.77
+        "Strike Defense Rate": 29.46
       },
       "featuredStats": {
         "Strikes Landed": 90,
@@ -29611,7 +29611,7 @@
         "Accuracy": 44.12,
         "Strikes Absorbed": 79,
         "Strikes Defended": 33,
-        "Strike Defense Rate": 41.77,
+        "Strike Defense Rate": 29.46,
         "Knockdowns": 3,
         "Striking Differential": 11,
         "Takedowns Finished": 4,
@@ -29971,7 +29971,7 @@
         "Accuracy": 48.17,
         "Takedown Accuracy": 23.08,
         "Takedown Defense Rate": 77.78,
-        "Strike Defense Rate": 9.09
+        "Strike Defense Rate": 8.33
       },
       "featuredStats": {
         "Strikes Landed": 105,
@@ -29979,7 +29979,7 @@
         "Accuracy": 48.17,
         "Strikes Absorbed": 121,
         "Strikes Defended": 11,
-        "Strike Defense Rate": 9.09,
+        "Strike Defense Rate": 8.33,
         "Knockdowns": 3,
         "Striking Differential": -16,
         "Takedowns Finished": 3,
@@ -30521,7 +30521,7 @@
         "Accuracy": 47.73,
         "Takedown Accuracy": 38.1,
         "Takedown Defense Rate": 73.33,
-        "Strike Defense Rate": 29.93
+        "Strike Defense Rate": 23.04
       },
       "featuredStats": {
         "Strikes Landed": 158,
@@ -30529,7 +30529,7 @@
         "Accuracy": 47.73,
         "Strikes Absorbed": 147,
         "Strikes Defended": 44,
-        "Strike Defense Rate": 29.93,
+        "Strike Defense Rate": 23.04,
         "Knockdowns": 1,
         "Striking Differential": 11,
         "Takedowns Finished": 8,
@@ -31051,7 +31051,7 @@
         "Accuracy": 45.6,
         "Takedown Accuracy": 20,
         "Takedown Defense Rate": 45.45,
-        "Strike Defense Rate": 5.39
+        "Strike Defense Rate": 5.11
       },
       "featuredStats": {
         "Strikes Landed": 140,
@@ -31059,7 +31059,7 @@
         "Accuracy": 45.6,
         "Strikes Absorbed": 167,
         "Strikes Defended": 9,
-        "Strike Defense Rate": 5.39,
+        "Strike Defense Rate": 5.11,
         "Knockdowns": 3,
         "Striking Differential": -28,
         "Takedowns Finished": 1,
@@ -31636,7 +31636,7 @@
         "Accuracy": 42.33,
         "Takedown Accuracy": 55.56,
         "Takedown Defense Rate": 52,
-        "Strike Defense Rate": 22.67
+        "Strike Defense Rate": 18.48
       },
       "featuredStats": {
         "Strikes Landed": 171,
@@ -31644,7 +31644,7 @@
         "Accuracy": 42.33,
         "Strikes Absorbed": 225,
         "Strikes Defended": 51,
-        "Strike Defense Rate": 22.67,
+        "Strike Defense Rate": 18.48,
         "Knockdowns": 4,
         "Striking Differential": -54,
         "Takedowns Finished": 5,
@@ -32261,7 +32261,7 @@
         "Accuracy": 66.04,
         "Takedown Accuracy": 50,
         "Takedown Defense Rate": 100,
-        "Strike Defense Rate": 50
+        "Strike Defense Rate": 33.33
       },
       "featuredStats": {
         "Strikes Landed": 35,
@@ -32269,7 +32269,7 @@
         "Accuracy": 66.04,
         "Strikes Absorbed": 8,
         "Strikes Defended": 4,
-        "Strike Defense Rate": 50,
+        "Strike Defense Rate": 33.33,
         "Knockdowns": 0,
         "Striking Differential": 28,
         "Takedowns Finished": 3,
@@ -32939,7 +32939,7 @@
         "Accuracy": 37.72,
         "Takedown Accuracy": 100,
         "Takedown Defense Rate": 75,
-        "Strike Defense Rate": 50
+        "Strike Defense Rate": 33.33
       },
       "featuredStats": {
         "Strikes Landed": 43,
@@ -32947,7 +32947,7 @@
         "Accuracy": 37.72,
         "Strikes Absorbed": 42,
         "Strikes Defended": 21,
-        "Strike Defense Rate": 50,
+        "Strike Defense Rate": 33.33,
         "Knockdowns": 2,
         "Striking Differential": 1,
         "Takedowns Finished": 4,
@@ -33859,7 +33859,7 @@
         "Accuracy": 53.31,
         "Takedown Accuracy": 25,
         "Takedown Defense Rate": 42.86,
-        "Strike Defense Rate": 31.31
+        "Strike Defense Rate": 23.85
       },
       "featuredStats": {
         "Strikes Landed": 129,
@@ -33867,7 +33867,7 @@
         "Accuracy": 53.31,
         "Strikes Absorbed": 99,
         "Strikes Defended": 31,
-        "Strike Defense Rate": 31.31,
+        "Strike Defense Rate": 23.85,
         "Knockdowns": 6,
         "Striking Differential": 30,
         "Takedowns Finished": 1,
@@ -34185,7 +34185,7 @@
         "Accuracy": 34.29,
         "Takedown Accuracy": 33.33,
         "Takedown Defense Rate": 60,
-        "Strike Defense Rate": 56.86
+        "Strike Defense Rate": 36.25
       },
       "featuredStats": {
         "Strikes Landed": 48,
@@ -34193,7 +34193,7 @@
         "Accuracy": 34.29,
         "Strikes Absorbed": 51,
         "Strikes Defended": 29,
-        "Strike Defense Rate": 56.86,
+        "Strike Defense Rate": 36.25,
         "Knockdowns": 2,
         "Striking Differential": -3,
         "Takedowns Finished": 1,
@@ -34505,7 +34505,7 @@
         "Accuracy": 49.31,
         "Takedown Accuracy": 50,
         "Takedown Defense Rate": 33.33,
-        "Strike Defense Rate": 51.56
+        "Strike Defense Rate": 34.02
       },
       "featuredStats": {
         "Strikes Landed": 71,
@@ -34513,7 +34513,7 @@
         "Accuracy": 49.31,
         "Strikes Absorbed": 64,
         "Strikes Defended": 33,
-        "Strike Defense Rate": 51.56,
+        "Strike Defense Rate": 34.02,
         "Knockdowns": 1,
         "Striking Differential": 8,
         "Takedowns Finished": 2,
@@ -35250,7 +35250,7 @@
         "Accuracy": 53.76,
         "Takedown Accuracy": 50,
         "Takedown Defense Rate": 41.18,
-        "Strike Defense Rate": 10.75
+        "Strike Defense Rate": 9.71
       },
       "featuredStats": {
         "Strikes Landed": 93,
@@ -35258,7 +35258,7 @@
         "Accuracy": 53.76,
         "Strikes Absorbed": 93,
         "Strikes Defended": 10,
-        "Strike Defense Rate": 10.75,
+        "Strike Defense Rate": 9.71,
         "Knockdowns": 1,
         "Striking Differential": 0,
         "Takedowns Finished": 4,
@@ -35641,7 +35641,7 @@
         "Accuracy": 48,
         "Takedown Accuracy": 44.44,
         "Takedown Defense Rate": 70,
-        "Strike Defense Rate": 27.59
+        "Strike Defense Rate": 21.62
       },
       "featuredStats": {
         "Strikes Landed": 84,
@@ -35649,7 +35649,7 @@
         "Accuracy": 48,
         "Strikes Absorbed": 87,
         "Strikes Defended": 24,
-        "Strike Defense Rate": 27.59,
+        "Strike Defense Rate": 21.62,
         "Knockdowns": 1,
         "Striking Differential": -7,
         "Takedowns Finished": 4,
@@ -36094,7 +36094,7 @@
         "Accuracy": 32.38,
         "Takedown Accuracy": 60.87,
         "Takedown Defense Rate": 64.29,
-        "Strike Defense Rate": 3.7
+        "Strike Defense Rate": 3.57
       },
       "featuredStats": {
         "Strikes Landed": 79,
@@ -36102,7 +36102,7 @@
         "Accuracy": 32.38,
         "Strikes Absorbed": 135,
         "Strikes Defended": 5,
-        "Strike Defense Rate": 3.7,
+        "Strike Defense Rate": 3.57,
         "Knockdowns": 1,
         "Striking Differential": -56,
         "Takedowns Finished": 14,
@@ -38343,7 +38343,7 @@
         "Accuracy": 43.09,
         "Takedown Accuracy": 45.45,
         "Takedown Defense Rate": 42.86,
-        "Strike Defense Rate": 18.18
+        "Strike Defense Rate": 15.38
       },
       "featuredStats": {
         "Strikes Landed": 53,
@@ -38351,7 +38351,7 @@
         "Accuracy": 43.09,
         "Strikes Absorbed": 55,
         "Strikes Defended": 10,
-        "Strike Defense Rate": 18.18,
+        "Strike Defense Rate": 15.38,
         "Knockdowns": 0,
         "Striking Differential": -2,
         "Takedowns Finished": 5,
@@ -38623,7 +38623,7 @@
         "Accuracy": 47.14,
         "Takedown Accuracy": 23.08,
         "Takedown Defense Rate": 80,
-        "Strike Defense Rate": 21.15
+        "Strike Defense Rate": 17.46
       },
       "featuredStats": {
         "Strikes Landed": 33,
@@ -38631,7 +38631,7 @@
         "Accuracy": 47.14,
         "Strikes Absorbed": 52,
         "Strikes Defended": 11,
-        "Strike Defense Rate": 21.15,
+        "Strike Defense Rate": 17.46,
         "Knockdowns": 0,
         "Striking Differential": -19,
         "Takedowns Finished": 3,
@@ -38903,7 +38903,7 @@
         "Accuracy": 45.76,
         "Takedown Accuracy": 20,
         "Takedown Defense Rate": 100,
-        "Strike Defense Rate": 59.09
+        "Strike Defense Rate": 37.14
       },
       "featuredStats": {
         "Strikes Landed": 27,
@@ -38911,7 +38911,7 @@
         "Accuracy": 45.76,
         "Strikes Absorbed": 22,
         "Strikes Defended": 13,
-        "Strike Defense Rate": 59.09,
+        "Strike Defense Rate": 37.14,
         "Knockdowns": 1,
         "Striking Differential": 5,
         "Takedowns Finished": 1,
@@ -39133,7 +39133,7 @@
         "Accuracy": 30.77,
         "Takedown Accuracy": 50,
         "Takedown Defense Rate": 55.56,
-        "Strike Defense Rate": 85.71
+        "Strike Defense Rate": 46.15
       },
       "featuredStats": {
         "Strikes Landed": 48,
@@ -39141,7 +39141,7 @@
         "Accuracy": 30.77,
         "Strikes Absorbed": 56,
         "Strikes Defended": 48,
-        "Strike Defense Rate": 85.71,
+        "Strike Defense Rate": 46.15,
         "Knockdowns": 1,
         "Striking Differential": -8,
         "Takedowns Finished": 3,
@@ -39392,7 +39392,7 @@
         "Accuracy": 41.23,
         "Takedown Accuracy": 33.33,
         "Takedown Defense Rate": 100,
-        "Strike Defense Rate": 92.31
+        "Strike Defense Rate": 48
       },
       "featuredStats": {
         "Strikes Landed": 47,
@@ -39400,7 +39400,7 @@
         "Accuracy": 41.23,
         "Strikes Absorbed": 39,
         "Strikes Defended": 36,
-        "Strike Defense Rate": 92.31,
+        "Strike Defense Rate": 48,
         "Knockdowns": 3,
         "Striking Differential": 8,
         "Takedowns Finished": 1,
@@ -39616,7 +39616,7 @@
         "Accuracy": 44.68,
         "Takedown Accuracy": 0,
         "Takedown Defense Rate": 66.67,
-        "Strike Defense Rate": 82
+        "Strike Defense Rate": 45.05
       },
       "featuredStats": {
         "Strikes Landed": 42,
@@ -39624,7 +39624,7 @@
         "Accuracy": 44.68,
         "Strikes Absorbed": 50,
         "Strikes Defended": 41,
-        "Strike Defense Rate": 82,
+        "Strike Defense Rate": 45.05,
         "Knockdowns": 1,
         "Striking Differential": -8,
         "Takedowns Finished": 0,
@@ -39847,7 +39847,7 @@
         "Accuracy": 40.63,
         "Takedown Accuracy": 0,
         "Takedown Defense Rate": 50,
-        "Strike Defense Rate": 62.5
+        "Strike Defense Rate": 38.46
       },
       "featuredStats": {
         "Strikes Landed": 39,
@@ -39855,7 +39855,7 @@
         "Accuracy": 40.63,
         "Strikes Absorbed": 48,
         "Strikes Defended": 30,
-        "Strike Defense Rate": 62.5,
+        "Strike Defense Rate": 38.46,
         "Knockdowns": 0,
         "Striking Differential": -9,
         "Takedowns Finished": 0,
@@ -40150,7 +40150,7 @@
         "Accuracy": 37.16,
         "Takedown Accuracy": 0,
         "Takedown Defense Rate": 33.33,
-        "Strike Defense Rate": 29.17
+        "Strike Defense Rate": 22.58
       },
       "featuredStats": {
         "Strikes Landed": 55,
@@ -40158,7 +40158,7 @@
         "Accuracy": 37.16,
         "Strikes Absorbed": 48,
         "Strikes Defended": 14,
-        "Strike Defense Rate": 29.17,
+        "Strike Defense Rate": 22.58,
         "Knockdowns": 2,
         "Striking Differential": 5,
         "Takedowns Finished": 0,
@@ -41342,7 +41342,7 @@
         "Accuracy": 45.57,
         "Takedown Accuracy": 50,
         "Takedown Defense Rate": 0,
-        "Strike Defense Rate": 40
+        "Strike Defense Rate": 28.57
       },
       "featuredStats": {
         "Strikes Landed": 36,
@@ -41350,7 +41350,7 @@
         "Accuracy": 45.57,
         "Strikes Absorbed": 20,
         "Strikes Defended": 8,
-        "Strike Defense Rate": 40,
+        "Strike Defense Rate": 28.57,
         "Knockdowns": 2,
         "Striking Differential": 16,
         "Takedowns Finished": 1,
@@ -41532,7 +41532,7 @@
         "Accuracy": 47.37,
         "Takedown Accuracy": 100,
         "Takedown Defense Rate": 100,
-        "Strike Defense Rate": 450
+        "Strike Defense Rate": 81.82
       },
       "featuredStats": {
         "Strikes Landed": 18,
@@ -41540,7 +41540,7 @@
         "Accuracy": 47.37,
         "Strikes Absorbed": 6,
         "Strikes Defended": 27,
-        "Strike Defense Rate": 450,
+        "Strike Defense Rate": 81.82,
         "Knockdowns": 0,
         "Striking Differential": 12,
         "Takedowns Finished": 1,
@@ -42077,7 +42077,7 @@
         "Accuracy": 57.75,
         "Takedown Accuracy": 41.67,
         "Takedown Defense Rate": 0,
-        "Strike Defense Rate": 72.97
+        "Strike Defense Rate": 42.19
       },
       "featuredStats": {
         "Strikes Landed": 41,
@@ -42085,7 +42085,7 @@
         "Accuracy": 57.75,
         "Strikes Absorbed": 37,
         "Strikes Defended": 27,
-        "Strike Defense Rate": 72.97,
+        "Strike Defense Rate": 42.19,
         "Knockdowns": 1,
         "Striking Differential": 4,
         "Takedowns Finished": 5,
@@ -42290,7 +42290,7 @@
         "Accuracy": 38.3,
         "Takedown Accuracy": "N/A",
         "Takedown Defense Rate": 50,
-        "Strike Defense Rate": 44.74
+        "Strike Defense Rate": 30.91
       },
       "featuredStats": {
         "Strikes Landed": 36,
@@ -42298,7 +42298,7 @@
         "Accuracy": 38.3,
         "Strikes Absorbed": 38,
         "Strikes Defended": 17,
-        "Strike Defense Rate": 44.74,
+        "Strike Defense Rate": 30.91,
         "Knockdowns": 5,
         "Striking Differential": -2,
         "Takedowns Finished": 0,
@@ -42497,7 +42497,7 @@
         "Accuracy": 21.74,
         "Takedown Accuracy": 0,
         "Takedown Defense Rate": 100,
-        "Strike Defense Rate": 136.84
+        "Strike Defense Rate": 57.78
       },
       "featuredStats": {
         "Strikes Landed": 10,
@@ -42505,7 +42505,7 @@
         "Accuracy": 21.74,
         "Strikes Absorbed": 19,
         "Strikes Defended": 26,
-        "Strike Defense Rate": 136.84,
+        "Strike Defense Rate": 57.78,
         "Knockdowns": 1,
         "Striking Differential": -9,
         "Takedowns Finished": 0,
@@ -42683,7 +42683,7 @@
         "Accuracy": 58.08,
         "Takedown Accuracy": 0,
         "Takedown Defense Rate": 57.14,
-        "Strike Defense Rate": 35.63
+        "Strike Defense Rate": 26.27
       },
       "featuredStats": {
         "Strikes Landed": 97,
@@ -42691,7 +42691,7 @@
         "Accuracy": 58.08,
         "Strikes Absorbed": 87,
         "Strikes Defended": 31,
-        "Strike Defense Rate": 35.63,
+        "Strike Defense Rate": 26.27,
         "Knockdowns": 1,
         "Striking Differential": 10,
         "Takedowns Finished": 0,
@@ -42963,7 +42963,7 @@
         "Accuracy": 35.85,
         "Takedown Accuracy": 40,
         "Takedown Defense Rate": 50,
-        "Strike Defense Rate": 55.56
+        "Strike Defense Rate": 35.71
       },
       "featuredStats": {
         "Strikes Landed": 38,
@@ -42971,7 +42971,7 @@
         "Accuracy": 35.85,
         "Strikes Absorbed": 36,
         "Strikes Defended": 20,
-        "Strike Defense Rate": 55.56,
+        "Strike Defense Rate": 35.71,
         "Knockdowns": 2,
         "Striking Differential": 2,
         "Takedowns Finished": 2,
@@ -43187,7 +43187,7 @@
         "Accuracy": 45.37,
         "Takedown Accuracy": 50,
         "Takedown Defense Rate": 55.56,
-        "Strike Defense Rate": 11.67
+        "Strike Defense Rate": 10.45
       },
       "featuredStats": {
         "Strikes Landed": 49,
@@ -43195,7 +43195,7 @@
         "Accuracy": 45.37,
         "Strikes Absorbed": 60,
         "Strikes Defended": 7,
-        "Strike Defense Rate": 11.67,
+        "Strike Defense Rate": 10.45,
         "Knockdowns": 2,
         "Striking Differential": -11,
         "Takedowns Finished": 1,
@@ -43468,7 +43468,7 @@
         "Accuracy": 23.53,
         "Takedown Accuracy": 0,
         "Takedown Defense Rate": 60,
-        "Strike Defense Rate": 40.91
+        "Strike Defense Rate": 29.03
       },
       "featuredStats": {
         "Strikes Landed": 20,
@@ -43476,7 +43476,7 @@
         "Accuracy": 23.53,
         "Strikes Absorbed": 44,
         "Strikes Defended": 18,
-        "Strike Defense Rate": 40.91,
+        "Strike Defense Rate": 29.03,
         "Knockdowns": 0,
         "Striking Differential": -24,
         "Takedowns Finished": 0,
@@ -43743,7 +43743,7 @@
         "Accuracy": 48.1,
         "Takedown Accuracy": 18.18,
         "Takedown Defense Rate": 46.15,
-        "Strike Defense Rate": 57.14
+        "Strike Defense Rate": 36.36
       },
       "featuredStats": {
         "Strikes Landed": 38,
@@ -43751,7 +43751,7 @@
         "Accuracy": 48.1,
         "Strikes Absorbed": 42,
         "Strikes Defended": 24,
-        "Strike Defense Rate": 57.14,
+        "Strike Defense Rate": 36.36,
         "Knockdowns": 2,
         "Striking Differential": -4,
         "Takedowns Finished": 2,
@@ -44047,7 +44047,7 @@
         "Accuracy": 44.85,
         "Takedown Accuracy": 50,
         "Takedown Defense Rate": 85.71,
-        "Strike Defense Rate": 15.79
+        "Strike Defense Rate": 13.64
       },
       "featuredStats": {
         "Strikes Landed": 87,
@@ -44055,7 +44055,7 @@
         "Accuracy": 44.85,
         "Strikes Absorbed": 76,
         "Strikes Defended": 12,
-        "Strike Defense Rate": 15.79,
+        "Strike Defense Rate": 13.64,
         "Knockdowns": 1,
         "Striking Differential": 11,
         "Takedowns Finished": 3,
@@ -44827,7 +44827,7 @@
         "Accuracy": 40.91,
         "Takedown Accuracy": "N/A",
         "Takedown Defense Rate": "N/A",
-        "Strike Defense Rate": 700
+        "Strike Defense Rate": 87.5
       },
       "featuredStats": {
         "Strikes Landed": 9,
@@ -44835,7 +44835,7 @@
         "Accuracy": 40.91,
         "Strikes Absorbed": 2,
         "Strikes Defended": 14,
-        "Strike Defense Rate": 700,
+        "Strike Defense Rate": 87.5,
         "Knockdowns": 0,
         "Striking Differential": 7,
         "Takedowns Finished": 0,
@@ -45175,7 +45175,7 @@
         "Accuracy": 45.45,
         "Takedown Accuracy": "N/A",
         "Takedown Defense Rate": 50,
-        "Strike Defense Rate": 200
+        "Strike Defense Rate": 66.67
       },
       "featuredStats": {
         "Strikes Landed": 15,
@@ -45183,7 +45183,7 @@
         "Accuracy": 45.45,
         "Strikes Absorbed": 11,
         "Strikes Defended": 22,
-        "Strike Defense Rate": 200,
+        "Strike Defense Rate": 66.67,
         "Knockdowns": 0,
         "Striking Differential": 4,
         "Takedowns Finished": 0,
@@ -45779,7 +45779,7 @@
         "Accuracy": 46.43,
         "Takedown Accuracy": "N/A",
         "Takedown Defense Rate": 100,
-        "Strike Defense Rate": 283.33
+        "Strike Defense Rate": 73.91
       },
       "featuredStats": {
         "Strikes Landed": 13,
@@ -45787,7 +45787,7 @@
         "Accuracy": 46.43,
         "Strikes Absorbed": 6,
         "Strikes Defended": 17,
-        "Strike Defense Rate": 283.33,
+        "Strike Defense Rate": 73.91,
         "Knockdowns": 0,
         "Striking Differential": 7,
         "Takedowns Finished": 0,
@@ -46301,13 +46301,15 @@
         "Submissions Attempted": 0,
         "Accuracy": "N/A",
         "Takedown Accuracy": "N/A",
-        "Takedown Defense Rate": "N/A"
+        "Takedown Defense Rate": "N/A",
+        "Strike Defense Rate": "N/A"
       },
       "featuredStats": {
         "Strikes Landed": 0,
         "Strikes Thrown": 0,
         "Accuracy": "N/A",
         "Strikes Absorbed": 0,
+        "Strike Defense Rate": "N/A",
         "Knockdowns": 0,
         "Striking Differential": 0,
         "Takedowns Finished": 0,
@@ -46955,7 +46957,7 @@
         "Accuracy": 56.67,
         "Takedown Accuracy": 100,
         "Takedown Defense Rate": 100,
-        "Strike Defense Rate": 214.29
+        "Strike Defense Rate": 68.18
       },
       "featuredStats": {
         "Strikes Landed": 17,
@@ -46963,7 +46965,7 @@
         "Accuracy": 56.67,
         "Strikes Absorbed": 7,
         "Strikes Defended": 15,
-        "Strike Defense Rate": 214.29,
+        "Strike Defense Rate": 68.18,
         "Knockdowns": 0,
         "Striking Differential": 10,
         "Takedowns Finished": 1,
@@ -47089,7 +47091,7 @@
         "Accuracy": 39.78,
         "Takedown Accuracy": 30,
         "Takedown Defense Rate": 85.71,
-        "Strike Defense Rate": 150
+        "Strike Defense Rate": 60
       },
       "featuredStats": {
         "Strikes Landed": 37,
@@ -47097,7 +47099,7 @@
         "Accuracy": 39.78,
         "Strikes Absorbed": 28,
         "Strikes Defended": 42,
-        "Strike Defense Rate": 150,
+        "Strike Defense Rate": 60,
         "Knockdowns": 0,
         "Striking Differential": 9,
         "Takedowns Finished": 3,
@@ -47512,7 +47514,7 @@
         "Accuracy": 34.15,
         "Takedown Accuracy": 50,
         "Takedown Defense Rate": 0,
-        "Strike Defense Rate": 95.65
+        "Strike Defense Rate": 48.89
       },
       "featuredStats": {
         "Strikes Landed": 14,
@@ -47520,7 +47522,7 @@
         "Accuracy": 34.15,
         "Strikes Absorbed": 23,
         "Strikes Defended": 22,
-        "Strike Defense Rate": 95.65,
+        "Strike Defense Rate": 48.89,
         "Knockdowns": 0,
         "Striking Differential": -9,
         "Takedowns Finished": 1,
@@ -47697,7 +47699,7 @@
         "Accuracy": 47.14,
         "Takedown Accuracy": 33.33,
         "Takedown Defense Rate": 66.67,
-        "Strike Defense Rate": 87.23
+        "Strike Defense Rate": 46.59
       },
       "featuredStats": {
         "Strikes Landed": 33,
@@ -47705,7 +47707,7 @@
         "Accuracy": 47.14,
         "Strikes Absorbed": 47,
         "Strikes Defended": 41,
-        "Strike Defense Rate": 87.23,
+        "Strike Defense Rate": 46.59,
         "Knockdowns": 3,
         "Striking Differential": -14,
         "Takedowns Finished": 2,
@@ -48215,7 +48217,7 @@
         "Accuracy": 38.46,
         "Takedown Accuracy": 40,
         "Takedown Defense Rate": 60,
-        "Strike Defense Rate": 16.67
+        "Strike Defense Rate": 14.29
       },
       "featuredStats": {
         "Strikes Landed": 35,
@@ -48223,7 +48225,7 @@
         "Accuracy": 38.46,
         "Strikes Absorbed": 42,
         "Strikes Defended": 7,
-        "Strike Defense Rate": 16.67,
+        "Strike Defense Rate": 14.29,
         "Knockdowns": 1,
         "Striking Differential": -7,
         "Takedowns Finished": 4,
@@ -49036,7 +49038,7 @@
         "Accuracy": 45.16,
         "Takedown Accuracy": "N/A",
         "Takedown Defense Rate": "N/A",
-        "Strike Defense Rate": 190.91
+        "Strike Defense Rate": 65.63
       },
       "featuredStats": {
         "Strikes Landed": 14,
@@ -49044,7 +49046,7 @@
         "Accuracy": 45.16,
         "Strikes Absorbed": 11,
         "Strikes Defended": 21,
-        "Strike Defense Rate": 190.91,
+        "Strike Defense Rate": 65.63,
         "Knockdowns": 0,
         "Striking Differential": 3,
         "Takedowns Finished": 0,
@@ -49896,7 +49898,7 @@
         "Accuracy": 42.86,
         "Takedown Accuracy": 33.33,
         "Takedown Defense Rate": "N/A",
-        "Strike Defense Rate": 166.67
+        "Strike Defense Rate": 62.5
       },
       "featuredStats": {
         "Strikes Landed": 9,
@@ -49904,7 +49906,7 @@
         "Accuracy": 42.86,
         "Strikes Absorbed": 12,
         "Strikes Defended": 20,
-        "Strike Defense Rate": 166.67,
+        "Strike Defense Rate": 62.5,
         "Knockdowns": 0,
         "Striking Differential": 3,
         "Takedowns Finished": 1,
@@ -50770,7 +50772,7 @@
         "Accuracy": 21.62,
         "Takedown Accuracy": 0,
         "Takedown Defense Rate": 100,
-        "Strike Defense Rate": 46.15
+        "Strike Defense Rate": 31.58
       },
       "featuredStats": {
         "Strikes Landed": 8,
@@ -50778,7 +50780,7 @@
         "Accuracy": 21.62,
         "Strikes Absorbed": 13,
         "Strikes Defended": 6,
-        "Strike Defense Rate": 46.15,
+        "Strike Defense Rate": 31.58,
         "Knockdowns": 0,
         "Striking Differential": -5,
         "Takedowns Finished": 0,
@@ -51972,7 +51974,7 @@
         "Accuracy": 41.18,
         "Takedown Accuracy": 50,
         "Takedown Defense Rate": 100,
-        "Strike Defense Rate": 84.62
+        "Strike Defense Rate": 45.83
       },
       "featuredStats": {
         "Strikes Landed": 14,
@@ -51980,7 +51982,7 @@
         "Accuracy": 41.18,
         "Strikes Absorbed": 13,
         "Strikes Defended": 11,
-        "Strike Defense Rate": 84.62,
+        "Strike Defense Rate": 45.83,
         "Knockdowns": 1,
         "Striking Differential": 1,
         "Takedowns Finished": 1,
@@ -52287,7 +52289,7 @@
         "Accuracy": 37.5,
         "Takedown Accuracy": "N/A",
         "Takedown Defense Rate": 66.67,
-        "Strike Defense Rate": 133.33
+        "Strike Defense Rate": 57.14
       },
       "featuredStats": {
         "Strikes Landed": 12,
@@ -52295,7 +52297,7 @@
         "Accuracy": 37.5,
         "Strikes Absorbed": 9,
         "Strikes Defended": 12,
-        "Strike Defense Rate": 133.33,
+        "Strike Defense Rate": 57.14,
         "Knockdowns": 0,
         "Striking Differential": -3,
         "Takedowns Finished": 0,
@@ -52384,13 +52386,15 @@
         "Submissions Attempted": 0,
         "Accuracy": "N/A",
         "Takedown Accuracy": "N/A",
-        "Takedown Defense Rate": "N/A"
+        "Takedown Defense Rate": "N/A",
+        "Strike Defense Rate": "N/A"
       },
       "featuredStats": {
         "Strikes Landed": 0,
         "Strikes Thrown": 0,
         "Accuracy": "N/A",
         "Strikes Absorbed": 0,
+        "Strike Defense Rate": "N/A",
         "Knockdowns": 0,
         "Striking Differential": 0,
         "Takedowns Finished": 0,
